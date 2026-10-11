@@ -1,0 +1,1 @@
+var E=(function(N){return N[N.HIGH=3]=`HIGH`,N[N.MEDIUM=2]=`MEDIUM`,N[N.LOW=1]=`LOW`,N[N.UNRELIABLE=0]=`UNRELIABLE`,N[N.UNKNOWN=-1]=`UNKNOWN`,N})(E||{});export{E as t};
