@@ -1,1 +1,0 @@
-import"./chunk-DJiV1-JG.js";import"./chunk-HlDN3_Qs.js";import{n as E,r as Y}from"./main-7TEDDBPM.js";export{Y as iosTransitionAnimation};
