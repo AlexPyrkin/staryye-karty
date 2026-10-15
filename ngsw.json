@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1792073631229,
+  "timestamp": 1792074209159,
   "appData": {
     "changes": "Подсказка, как установить приложение на телефон или компьютер — для вашего браузера"
   },
@@ -63,7 +63,7 @@
         "/staryye-karty/main-OA342RBB.js",
         "/staryye-karty/manifest.webmanifest",
         "/staryye-karty/maplibre/maplibre-gl-worker.mjs",
-        "/staryye-karty/styles-HNZLSAR2.css",
+        "/staryye-karty/styles-M6BS42TX.css",
         "/staryye-karty/worker-WQXYOB2O.js"
       ],
       "patterns": []
@@ -169,11 +169,11 @@
     "/staryye-karty/chunk-vRaq7571.js": "d25a8f407a1215ad93aa581a53fd0f1c5854e97c",
     "/staryye-karty/chunk-wZ-iPUi0.js": "85fa55713c4ac8485e9e891f371a5be5aafd7a69",
     "/staryye-karty/chunk-yoZuS3w9.js": "4b9d5cf36ff60327708c7b36b60c8ab23b323ce2",
-    "/staryye-karty/index.html": "851e6f9f56069122cfb6587d0f5202b7d61c36c1",
+    "/staryye-karty/index.html": "ada8e6e6bfac657dabff3d04fa934c8d3506f21f",
     "/staryye-karty/main-OA342RBB.js": "9572f69da3824cad80bae05fa4223e30b261bb05",
     "/staryye-karty/manifest.webmanifest": "a4594565dea82b038e0412ee3e3ac50aa7f3afe7",
     "/staryye-karty/maplibre/maplibre-gl-worker.mjs": "9e58375441e3c461779d08c16b1c5cfaa467fcb7",
-    "/staryye-karty/styles-HNZLSAR2.css": "d53e7fc146200323134fd74cd7f9443a84cfc23b",
+    "/staryye-karty/styles-M6BS42TX.css": "e09ef531465fe07516cd96900c98080ef8c3340b",
     "/staryye-karty/worker-WQXYOB2O.js": "8ce32a7c40e3876842ed679eef496e71201ad291"
   },
   "navigationUrls": [
