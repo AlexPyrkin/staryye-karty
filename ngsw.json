@@ -1,8 +1,8 @@
 {
   "configVersion": 1,
-  "timestamp": 1792088659463,
+  "timestamp": 1792092155009,
   "appData": {
-    "changes": "«Поделиться» находкой с фото — короткой ссылкой; «Отправить файлом»"
+    "changes": "Тёмная тема стала светлее"
   },
   "index": "/staryye-karty/index.html",
   "assetGroups": [
@@ -64,7 +64,7 @@
         "/staryye-karty/main-OD6LFLJR.js",
         "/staryye-karty/manifest.webmanifest",
         "/staryye-karty/maplibre/maplibre-gl-worker.mjs",
-        "/staryye-karty/styles-YXO5FH4F.css",
+        "/staryye-karty/styles-ITMH3MUA.css",
         "/staryye-karty/worker-WQXYOB2O.js"
       ],
       "patterns": []
@@ -171,11 +171,11 @@
     "/staryye-karty/chunk-k8W1SCEZ.js": "bd62c15d131307f0e4987edad975eafcf40397ae",
     "/staryye-karty/chunk-kZHUVhtP.js": "c54c9cc59250c456d153f5a9396ed2b329d29ba4",
     "/staryye-karty/chunk-vArSbSQe.js": "9ebde930cc93728eab2a664a787286dc05419fb4",
-    "/staryye-karty/index.html": "60d63fa17c0188b4b2b0dfd1cc27db9edce4f892",
+    "/staryye-karty/index.html": "16d44c5656192abc72d497c9ace64467516ca9ab",
     "/staryye-karty/main-OD6LFLJR.js": "af06d7cba71b4c80ccb3425dcf074083e3d22822",
     "/staryye-karty/manifest.webmanifest": "dbdac5ec85db03747cb8287a1c7832c1234c1daa",
     "/staryye-karty/maplibre/maplibre-gl-worker.mjs": "9e58375441e3c461779d08c16b1c5cfaa467fcb7",
-    "/staryye-karty/styles-YXO5FH4F.css": "f96fc461653a0b5470967069031fe10b87d0b1ea",
+    "/staryye-karty/styles-ITMH3MUA.css": "0e27392552e4f344c117b08f2f946cfa1a4abb3c",
     "/staryye-karty/worker-WQXYOB2O.js": "8ce32a7c40e3876842ed679eef496e71201ad291"
   },
   "navigationUrls": [
