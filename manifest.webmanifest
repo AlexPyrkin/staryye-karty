@@ -64,5 +64,33 @@
       "auto"
     ]
   },
-  "handle_links": "preferred"
+  "handle_links": "preferred",
+  "share_target": {
+    "action": "./",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  },
+  "file_handlers": [
+    {
+      "action": "./",
+      "accept": {
+        "application/zip": [
+          ".zip"
+        ],
+        "application/json": [
+          ".json"
+        ],
+        "application/gpx+xml": [
+          ".gpx"
+        ],
+        "application/vnd.google-earth.kml+xml": [
+          ".kml"
+        ]
+      }
+    }
+  ]
 }
