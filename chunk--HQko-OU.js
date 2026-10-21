@@ -1,0 +1,1 @@
+import{Kt as W,lt as Ne}from"./chunk-DnREIhbu.js";var f=(()=>{let t=class t{constructor(){this.open=Ne(!1)}};t.ɵfac=function(n){return new(n||t)},t.ɵprov=W({token:t,factory:t.ɵfac,providedIn:`root`});return t})();export{f as t};

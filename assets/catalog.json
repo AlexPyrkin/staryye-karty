@@ -495,7 +495,10 @@
       "pmtiles://{maps}rkka50-4.pmtiles",
       "pmtiles://{maps}rkka50-5.pmtiles",
       "pmtiles://{maps}rkka50-6.pmtiles"
-    ]
+    ],
+    "thumb": "assets/thumbs/rkka50-vitebsk.webp",
+    "bytes": 336841270,
+    "series": "rkka"
   },
   {
     "id": "rkka200-belarus",
@@ -522,7 +525,10 @@
       "pmtiles://{maps}rkka200-2.pmtiles",
       "pmtiles://{maps}rkka200-3.pmtiles",
       "pmtiles://{maps}rkka200-4.pmtiles"
-    ]
+    ],
+    "bytes": 252451600,
+    "thumb": "assets/thumbs/rkka200-belarus.webp",
+    "series": "rkka"
   },
   {
     "id": "rkka500-sever",
@@ -547,7 +553,10 @@
     "parts": [
       "pmtiles://{maps}rkka500-1.pmtiles",
       "pmtiles://{maps}rkka500-2.pmtiles"
-    ]
+    ],
+    "thumb": "assets/thumbs/rkka500-sever.webp",
+    "bytes": 107313106,
+    "series": "rkka"
   },
   {
     "id": "kdwr-s29",
@@ -567,7 +576,10 @@
     "maxzoom": 14,
     "source": "Wikimedia Commons (скан), привязка — своя",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:KdwR_S29_1917.jpg",
-    "license": "Общественное достояние"
+    "license": "Общественное достояние",
+    "thumb": "assets/thumbs/kdwr-s29.webp",
+    "bytes": 9998256,
+    "series": "kdwr"
   },
   {
     "id": "kdwr-r33",
@@ -587,7 +599,10 @@
     "maxzoom": 14,
     "source": "Wikimedia Commons (скан), привязка — своя",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:KdwR_R33_1917.jpg",
-    "license": "Общественное достояние"
+    "license": "Общественное достояние",
+    "thumb": "assets/thumbs/kdwr-r33.webp",
+    "bytes": 6855403,
+    "series": "kdwr"
   },
   {
     "id": "kdwr-o26",
@@ -607,7 +622,10 @@
     "maxzoom": 13,
     "source": "Wikimedia Commons (скан), привязка — своя",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:KdwR_O26_1915.jpg",
-    "license": "Общественное достояние"
+    "license": "Общественное достояние",
+    "thumb": "assets/thumbs/kdwr-o26.webp",
+    "bytes": 3697371,
+    "series": "kdwr"
   },
   {
     "id": "wmw-2493",
@@ -626,7 +644,8 @@
     "maxzoom": 16,
     "source": "Wikimedia Commons / Wikimaps Warper",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moscow_-_Shubert_map_2v_-_6-5.jpg",
-    "license": "Общественное достояние (PD-RusEmpire)"
+    "license": "Общественное достояние (PD-RusEmpire)",
+    "series": "schubert"
   },
   {
     "id": "wmw-2494",
@@ -645,7 +664,8 @@
     "maxzoom": 16,
     "source": "Wikimedia Commons / Wikimaps Warper",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moscow_-_Shubert_map_2v_-_4-7.jpg",
-    "license": "Общественное достояние (PD-RusEmpire)"
+    "license": "Общественное достояние (PD-RusEmpire)",
+    "series": "schubert"
   },
   {
     "id": "wmw-3655",
@@ -663,7 +683,8 @@
     "maxzoom": 14,
     "source": "Wikimedia Commons / Wikimaps Warper",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Map_of_Moscow_Governorate_in_1873.jpg",
-    "license": "Общественное достояние"
+    "license": "Общественное достояние",
+    "series": "tod"
   },
   {
     "id": "wmw-2423",
@@ -681,6 +702,7 @@
     "maxzoom": 17,
     "source": "Wikimedia Commons / Wikimaps Warper",
     "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plan_of_Moscow_1813.jpg",
-    "license": "Общественное достояние"
+    "license": "Общественное достояние",
+    "series": "plans"
   }
 ]
