@@ -1,0 +1,8 @@
+59.8167,67.2333,zimnyayakaurya|zimnyayakaulya
+59.6333,67.9167,yermakova
+59.6667,67.1667,mokrovskaya|mokrovka|mokrovskaja|мокровка|мокровская
+59.2000,67.0333,landina|ландина
+59.6481,67.4100,kondinskoye|kxd|kondinskoe|kondinskoje|nakhrachi|кондинское
+59.6333,67.6333,ilichëvka|ilichevka|ilichjovka|ilitsjevka|ильичевка
+59.6000,67.2833,chekatka|чекатка
+59.9000,67.8500,belengut|беленгут

@@ -1,0 +1,10 @@
+57.9983,99.1531,ustkezhma|устькежма
+57.6072,99.5882,naduy|naduj|надуй
+57.7167,99.4167,kulaki|кулаки
+57.5088,99.7622,konovalovo|konovalov|konovalova|konvalovo|коновалово
+57.4667,99.9333,khalandakanchik|халандаканчик
+57.9302,99.3297,imba|имба
+57.1356,99.1880,dëshima|deshima|desjima|djoshima|дешима
+57.6542,99.5514,chervyanka|chervjanka|tsjervjanka|червянка
+57.2500,99.0667,brodovoye|brodovoe|бродовое
+57.9157,99.1981,bideya|bedeiskaya|bideja|bydeya|бидея

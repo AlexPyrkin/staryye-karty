@@ -1,0 +1,17 @@
+58.2000,69.7833,taydan|taidan
+58.5167,69.8000,tarakburen
+58.1000,69.3167,sozonovka|созоновка
+58.0500,69.3833,shabry|schabry|шабры
+58.0167,69.9000,salypervyye|salypervye|салыпервые
+58.7011,69.5692,novyyturtas|novturtas|novyjturtas|новтуртас|новыйтуртас
+58.9333,69.1333,nizhniychebuntan|nizhnijchebuntan|нижнийчебунтан
+58.9500,69.2000,kuskachka|кускачка
+58.0439,69.3111,fateyevo|fateevo|fatejevo|фатеево
+58.3167,69.7000,cherëmushka|cheremushka|cherjomushka|черемушка
+58.1333,69.7167,cherëmushka|cheremushka|cheremukhovkoye|cherjomushka|черемушка
+58.0500,69.3667,berëzovka|berezovka|berezovskoye|berjozovka|березовка
+58.1000,69.5833,belovskiy|belovskij|belowskij|беловский
+58.0440,69.0970,begishevo|begisjevo|бегишево
+58.6500,69.6333,atnis|атнис
+58.0833,69.7000,aleksandrovka|александровка
+58.9387,69.1339,turtas|туртас

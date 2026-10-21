@@ -1,0 +1,4 @@
+46.6667,136.2167,tantsanza|tantsonza
+46.7500,136.0167,sutungu
+46.5234,136.9586,okhotnichiy|okhotnichij|okhotnitsjij|ulunga|ulyangu|охотничий
+46.0105,136.4394,berëzovyy|berezovyy|berjozovyj|березовый

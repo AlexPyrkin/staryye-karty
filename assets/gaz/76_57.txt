@@ -1,0 +1,11 @@
+57.7167,76.2667,vilkiny|yurtyvilkiny
+57.0931,76.0044,uspenka|uspenskiy|успенка
+57.0667,76.4000,syrologovka|syrologovskiy
+57.0833,76.4167,shestinskiy|shastinskiy|shestinskij|шестинский
+57.4666,76.4101,novyyigol|igol|novigol|novyjigol|новигол|новыйигол
+57.0167,76.3333,krutologovka|krutologovskoy|крутологовка
+57.3936,76.4530,krutaya|krutaja|крутая
+57.0667,76.9167,khutor|tereshina|хутор
+57.4667,76.4000,igol|novigol|игол|новигол
+57.0500,76.9167,cheki|чеки
+57.7461,76.4199,igolskotalovoemestorozhdenie

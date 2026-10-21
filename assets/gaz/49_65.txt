@@ -1,0 +1,6 @@
+65.1167,49.0500,verkhnesulskaya|stanitsaverkhnesulskaya|stoybishcheverkhnesulskaya
+65.2667,49.8000,senka|senskaya|сенка
+65.5000,49.4000,omelinskaya|omelinskaja|омелинская
+65.7500,49.6333,mitina|motinaizba|митина
+65.1833,49.5667,borkovskaya|borkovskaja|борковская
+65.6500,49.2667,bolshayapozhnya|bolshajapozhnja|bolshepozhenskoye|bolshayapozhnaya|большаяпожня

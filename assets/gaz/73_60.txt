@@ -1,0 +1,16 @@
+60.7667,73.7667,yuganskiy
+60.8781,73.6878,yugan|jugan|юган
+60.1655,73.3712,yarsomovy|jarsomovy|ярсомовы
+60.6240,73.8743,raksakiny|раксакины
+60.0345,73.3396,multanovy|yurtymultanovy|мултановы
+60.2359,73.5786,kayukova|kajukova|kayukovy|koyukovy|каюкова
+60.6833,73.8500,kokiny|кокины
+60.9311,73.0979,ustyugan|ustjugan|устьюган
+60.7622,73.6913,uryevy|urevy|урьевы
+60.6381,73.8009,maloyuganskiy|malojuganskij|малоюганский
+60.4082,73.9420,kogonchiny|когончины
+60.3650,73.9738,leykovy|lejkovy|лейковы
+60.3291,73.9017,chegayevy|chegaevy|чегаевы
+60.2858,73.8207,ryskiny|рыскины
+60.1506,73.2586,novyyeyarsomovy|novyejarsomovy|новыеярсомовы
+60.8901,73.3494,asomkinskoemestorozhdenie

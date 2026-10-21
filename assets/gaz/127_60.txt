@@ -1,0 +1,5 @@
+60.3148,127.4324,ulu|улу
+60.4833,127.6500,taloye
+60.2667,127.3667,satynyakh|satynjakh|сатынях
+60.5000,127.9000,nalbagar|налбагар
+60.0980,127.2933,kyrbykan|karbykan|kharbykan|nizhniykyrbykan|novokyrbykan|novyykorbykan|харбыкан

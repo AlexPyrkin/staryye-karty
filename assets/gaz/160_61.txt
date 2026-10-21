@@ -1,0 +1,11 @@
+61.9833,160.4000,volynkina|volonkina|volönkina
+61.9667,160.4500,travka
+61.3650,160.1266,topolovka|тополовка
+61.6833,160.3667,rechnayamatuga|rechnajamatuga|речнаяматуга
+61.3167,160.1333,putsevera|путьсевера
+61.9667,160.3667,kushka|кушка
+61.9502,160.3801,gizhiga|giyhaga|gizhiginsk|гижига
+61.8043,160.4251,chaybukha|chajbukha|tsjajbukha|чайбуха
+61.8939,160.3819,avekova|авекова
+61.9655,160.4108,arestovo|арестово
+61.8305,160.5252,malayachaybukha|malajachajbukha|малаячайбуха

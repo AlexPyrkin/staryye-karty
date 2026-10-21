@@ -1,0 +1,12 @@
+65.2639,43.9872,verkhniykonets|verkhnekonskaya|verkhnijkonec|верхнийконец
+65.7745,43.3880,soyana|sojana|сояна
+65.2914,43.9223,sovpolye|sovpole|совполье
+65.3000,43.6333,severnyymayak|severnyjmajak|severnyymayan|северныймаяк
+65.7000,43.6000,krasnyysever|krasnysever|krasnyjsever|красныйсевер
+65.5383,43.6899,karyepolye|karepole|karyenpolye|karjepolje|карьеполье
+65.2860,43.9309,chizhgora|chizhgorskaya|tsjizjgora|чижгора
+65.7910,43.8316,bobrovka|starayabobrovka|strayabobrovka|бобровка
+65.8969,43.5191,balanikha|balakhcha|balakhna|баланиха
+65.9537,43.9868,petrovka|петровка
+65.2865,43.9612,sokolovo|соколово
+65.7640,43.4744,soyana|sojana|сояна

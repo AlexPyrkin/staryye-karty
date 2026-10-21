@@ -1,0 +1,16 @@
+60.9694,120.7525,yertkyuyël|yertkyuyel|ertkjuel|jertkjuel|yetkyuyel|yëtkyuyel|ерткюель
+60.2537,120.7880,yanku
+60.3137,120.8971,ustchara|ustcharinskoye|usttsjara|устьчара
+60.4567,120.3464,tyube|tyubya
+60.2882,120.1746,tyube|tjube|тюбе
+60.3460,120.6681,troitsk|troick|troitskoye|троицк
+60.3333,120.7000,tëryut|teryut|terjut|терют
+60.4699,120.7248,solyanka|soljanka|солянка
+60.3855,120.1826,olëkminskiy|olekminskiy|amginskaya|amginskoye|olekminskij|olekminskoamginskoye|oljokminskij|олекминский
+60.3743,120.4203,olyokminsk|olz|olekminsk|oljokminsk|олекминск
+60.8040,120.9565,mekimde|mekimdja|мекимде|мекимдя
+60.3472,120.0824,kyatchi
+60.2333,120.8000,dzhankha|джанха
+60.3413,120.3621,bëtyung|betyung|betjung|betyul|betyun|bjotjung|бетюнг
+60.3980,120.2994,yunkyur|amginskoye|junkjur|unkyur|юнкюр
+60.3242,120.0248,abaga|абага

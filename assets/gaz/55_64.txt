@@ -1,0 +1,6 @@
+64.4808,55.2973,zelenoborsk|glush|зеленоборск
+64.3418,55.1240,voyvozh|vojvozh|vojvozj|войвож
+64.6944,55.9184,kadzherom|kadzjerom|каджером
+64.4119,55.1994,irayël|irayel|iraiol|irayol|irael|irajel|irajol|ираель
+64.6138,55.6892,talyy|talyj|талый
+64.8928,55.7413,trubosedyël|trubosedyel|trubosedel|trubosedjel|трубоседъель

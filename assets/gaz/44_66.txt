@@ -1,0 +1,15 @@
+66.9091,44.5333,yazhma|jazhma|jazjma|starayayamzhanenetskaya|yamzha|яжма
+66.7833,44.6500,starayayazhmarusskaya|starajajazhmarusskaja|starayayamzharusskaya|стараяяжмарусская
+66.2000,44.4000,skit|скит
+66.1488,44.1166,sëmzha|semzha|derevnyasemzha|semzja|sjomzha|семжа
+66.0396,44.1644,pyya|derevnyapyya|piya|pyja|пыя
+66.3500,44.4333,prelaya|prelaja|starayaprelaya|прелая
+66.0372,44.0399,okulovskiy|okulovo|okulovski|okulovskij|окуловский
+66.5667,44.9333,nyurov|njurov|vysokyynyurov|нюров
+66.4914,44.3951,nizhnyayamgla|nizhnjajamgla|нижняямгла
+66.6004,44.6809,nes|derevnyanes|nez|несь
+66.4976,44.4477,verkhnyayamgla|jugarymgla|mgla|мгла|югарымгла|مگلا
+66.6167,44.7667,malayanes|malajanes|nes|малаянесь|несь
+66.6667,44.6333,kotkin|котькин
+66.0167,44.0500,chetsamalaya|checamalaja|чецамалая
+66.6347,44.6097,vasino

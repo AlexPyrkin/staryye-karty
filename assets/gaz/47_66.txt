@@ -1,0 +1,8 @@
+66.8500,47.5333,yegorovo|egorovo|jegorovo|егорово
+66.6103,47.9633,verkhnyayapesha
+66.6608,47.8831,taratinskiy|taratinskoe|taratinskoje|таратинское
+66.7406,47.0147,snopa|снопа
+66.9500,47.6667,peshitsa|peshica|пешица
+66.9000,47.5500,pesha|пеша
+66.7520,47.7600,nizhnyayapesha|nizhpesha|nizhnjajapesha|nizjpesja|pecha|нижпеша|нижняяпеша
+66.8920,47.6110,belushye|belushe|belusje|белушье

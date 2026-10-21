@@ -1,0 +1,8 @@
+69.5333,86.9500,oktyabrskaya|oktjabrskaja|октябрьская
+69.0222,86.1153,nikolsk|nikolskoye|никольск
+69.5333,86.8167,kommunarka|коммунарка
+69.1667,86.1000,izbavershininskaya|izbavershininskaja|vershininskoye|vershinskoye|избавершининская
+69.4058,86.1778,dudinka|doedinka|doudinka|dudink|dudinkashaary|dudinskoe|dudzinka|dugyinka|dujinka|dwbynka|dwdynka|dwdynqh|дудзінка|дудинка|дудинкашаары|дудінка|דודינקה|دوبینکا|دودينكا|ドゥディンカ|杜金卡|두딘카
+69.4544,86.1244,pshenichnyyruchey|pshenichnyjruchej|psjenitsjnyjrutsjej|пшеничныйручей
+69.3694,86.8089,boganida|боганида
+69.3994,86.6698,tundra

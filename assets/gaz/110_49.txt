@@ -1,0 +1,12 @@
+49.4000,110.5667,vereya
+49.6635,110.2184,sunduyka|sundujka|сундуйка
+49.8207,110.4466,semiozërye|semiozerye|semiozerje|semiozerskiy|semiozjore|семиозерье
+49.7667,110.3333,posëlok|poselok|posjolok|posyolok|поселок
+49.4000,110.6333,kirkun|kirkunskiy|korkun|kyrkun|киркун
+49.2835,110.4429,baldzhikan|baldzhikanskiy|baljikan|baldzhikanski|baldzjikan|бальджикан
+49.3848,110.1051,balzir|бальзир
+49.5239,110.0968,badzhirayevka|badzhiraevka|баджираевка
+49.5817,110.0988,ustbadzhirayevka|ustbadzhiraevka|устьбаджираевка
+49.3953,110.1434,baldzha|бальджа
+49.4137,110.5702,samkak|самкак
+49.6753,110.5866,dabangorkhon|razvalinydabangorkhon|дабангорхон|развалиныдабангорхон

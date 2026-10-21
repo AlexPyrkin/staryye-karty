@@ -1,0 +1,5 @@
+71.7667,99.7500,rassomashye|rassomashe|rassomazh|rassomazhya|rossomashye|rossomashiy|рассомашье
+71.1667,99.2167,polkino|полькино
+71.5500,99.7167,kheta|faktoriyakheta|хета
+71.2667,99.4000,katyryk|katyrik|катырык
+71.6500,99.0000,baykalovskiy|bajkalovskij|faktoriyabaykalovskaya|байкаловский

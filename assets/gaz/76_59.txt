@@ -1,0 +1,6 @@
+59.1500,76.2000,katylgskaya|katylgskaja|катыльгская
+59.0653,76.6953,katylga|yurtykatylga|катыльга
+59.1164,76.8161,cheremshanka|черемшанка
+59.1670,76.2426,vakhtovyyposëlokpionerniy|vakhtovyyposelokpionerniy|vakhtovyjposjolokpionerij|вахтовыйпоселокпионерий
+59.3519,76.3247,vakhtovyyposëlokoleniy|vakhtovyyposelokoleniy|vakhtovyjposjolokolenij|вахтовыйпоселоколений
+59.2760,76.5587,stolbovoe

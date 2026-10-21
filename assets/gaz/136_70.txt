@@ -1,0 +1,11 @@
+70.9130,136.4501,ustyansk|ustjansk|устьянск
+70.6333,136.3000,tuutbalyktaakh|tuutbylyktaakh
+70.1167,136.8167,torgnyuyeuka
+70.6249,136.8495,semenkyuyele|semenkjuele|семенкюеле
+70.8394,136.2330,kresty|кресты
+70.7667,136.0667,khorokhoy|khorokhoj|хорохой
+70.6000,136.3000,khoolokh|хоолох
+70.3000,136.3833,khargykyuyel|khargykjuel|харгыкюель
+70.4167,136.7000,kharaulakh|хараулах
+70.7415,136.2055,kazachye|kazache|kazatsje|казачье
+70.5489,136.5534,imenikirova|именикирова

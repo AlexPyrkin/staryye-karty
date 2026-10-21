@@ -1,0 +1,14 @@
+60.7000,72.3667,rumbiny|румбины
+60.9254,72.5675,repyëgan|repyegan|fenyegan|renyegan|repjogan|репьеган
+60.7500,72.8667,ochimkiny|очимкины
+60.7551,72.7714,mamontovo|мамонтово
+60.7167,72.4167,lokateyevy|lokateevy|rybiny|локатеевы
+60.9667,72.3333,krasnyynatsional|krasnyjnacional|красныйнационал
+60.9667,72.5833,karyegan|karegan|karjegan|карьеган
+60.9699,72.4493,karkatayevy|karkataevy|karkateevy|karkatejevy|karkateyevy|каркатаевы|каркатеевы
+60.6833,72.8500,yuzhnyybalyk|juzhnyjbalyk|juzjnyjbalyk|южныйбалык
+60.7499,72.8582,pytyakh|pytjakh|пытьях
+60.9845,72.0989,vyngino|вынгино
+60.9684,72.4377,karkateyevskiy|karkateevskij|каркатеевский
+60.4909,72.2000,sentyabrskiy|sentjabrskij|сентябрьский
+60.3170,72.0310,kutyakh|kutjakh|кутьях

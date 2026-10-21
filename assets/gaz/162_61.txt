@@ -1,0 +1,3 @@
+61.6167,162.3667,yuzhnayaitkana|southernitkana
+61.6333,162.6000,srednyayaitkana|srednayitkana|srednjajaitkana|средняяиткана
+61.6667,162.3833,malayaitkana|malajaitkana|малаяиткана

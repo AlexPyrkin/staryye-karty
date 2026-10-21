@@ -1,0 +1,11 @@
+59.1425,88.8554,tarasovka
+59.0083,88.4897,shmakovskaya|shmakovskaja|шмаковская
+59.9500,88.0500,opolchum|опольчум
+59.0833,88.2500,novyystan|novyjstan|новыйстан
+59.1500,88.4167,nikolayevskiy|nikolaevskij|staryynikolayevskiy|николаевский
+59.7667,88.8500,kozhevnikova|кожевникова
+59.1333,88.8333,kolegova|колегова
+59.0833,88.9833,klyuchi|kljuchi|ключи
+59.2167,88.6000,kazantseva|kazanceva|казанцева
+59.3075,88.9992,bezymyanka|bezymjanka|безымянка
+59.1000,88.9833,bezymyanka|bezymjanka|безымянка

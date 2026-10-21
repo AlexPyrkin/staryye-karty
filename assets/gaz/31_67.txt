@@ -1,0 +1,12 @@
+67.6040,31.1610,yëna|yena|ena|iona|jena|ена
+67.1833,31.7000,verkhnyayakanda|ylaekanta|yläkanta
+67.5435,31.8889,upoloksha|vanhauppolahti
+67.6167,31.9167,savaguba|savilahti|савагуба
+67.1461,31.8985,nizhnyayakanda|alakanta|nizhnjajakanda|нижняяканда
+67.0058,31.8577,kudozero|kutujaervi|kutujärvi|кудозеро
+67.5500,31.8500,babino|akkala|бабино
+67.6871,31.5914,avvaguba|аввагуба
+67.4910,31.9036,upoloksha|upoloksja|uppolahti|уполокша
+67.4958,31.3093,rikolatva|rykwlatwa|риколатва|ռիկոլատվա|ریکولاتوا
+67.5810,31.1550,yënskiy|yenskiy|enskij|jenskij|juonni|енский
+67.5364,31.5571,kalyuzhnyy|kaljuzhnyj|kaljuzjnyj|калюжный

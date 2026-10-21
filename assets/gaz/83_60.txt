@@ -1,0 +1,4 @@
+60.3192,83.8208,tedelkynak|tedylkynak|теделькынак
+60.1661,83.3558,pylkaramo|lykkoramo|пылькарамо
+60.0583,83.1450,malyykompas|malyjkompas|малыйкомпас
+60.2447,83.5528,lymbelkaramo|lymbelkoramo|лымбелькарамо

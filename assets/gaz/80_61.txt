@@ -1,0 +1,7 @@
+61.6022,80.9436,sosnovyybor|lukhpugol|sosnovyjbor|сосновыйбор
+61.9333,80.8167,lukhpugol|лухпугол
+61.1008,80.2514,laryak|larjak|lariyatskoe|ларьяк
+61.1139,80.5764,chekhlomey|bolshechekhlomeyevskiy|bolshechekhlomeyevskiye|chekhlomej|tsjekhlomej|чехломей
+61.1500,80.3833,bolshoypanas|bolshojpanas|большойпанас
+61.0719,80.7772,bolshoylaryak|bolshelaryakshiye|bolshojlarjak|большойларьяк
+61.3000,80.5833,bolshelaryakskiye|bolshelarjakskie|bolshelaryakskiyeyurty|bolshoydaryakskiye|большеларьякские

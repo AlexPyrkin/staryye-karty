@@ -1,0 +1,15 @@
+57.6629,114.3933,vershinabisyagi|vershinabisjagi|versjinabisiagi|вершинабисяги
+57.8000,114.2000,ustbisyaga
+57.9667,114.2833,teterinskoye
+57.5981,114.1174,telmama|тельмама
+57.9063,114.4642,tamarak|тамарак
+57.7833,114.6000,sinya|sina|sinja|синя
+57.8289,114.9750,pronikha|прониха
+57.9500,114.2167,poleznyy|poleznyj|полезный
+57.9167,114.1667,mikhaylovskiy|mikhajlovskij|михайловский
+57.8161,114.0028,mamakan|мамакан
+57.7667,114.7000,kakolda|kokolda|каколда
+57.8603,114.9131,engazhimo|ehngazhimo|engazjimo|энгажимо
+57.8535,114.2041,bodaybo|bodaibo|bodajbo|odo|бодайбо
+57.9000,114.5000,bezymyanka|bezymjanka|безымянка
+57.9452,114.2368,kyakhtinskiy|kjakhtinskij|кяхтинский

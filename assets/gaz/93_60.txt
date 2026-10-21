@@ -1,0 +1,4 @@
+60.0557,93.1152,viktorovskiy|viktorovskij|викторовский
+60.3755,93.0302,severoyeniseyskiy|severoenisejskij|severojenisejskij|severoyeniseiki|severoyeniseysk|veo|североенисейский
+60.1333,93.2333,proletarskiy|proletarskij|proletarskiypriisk|пролетарский
+60.1720,93.0530,novyyekalami|novajakalami|novayakalami|novyekalami|новаякалами|новыекалами

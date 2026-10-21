@@ -1,0 +1,8 @@
+60.8833,132.0000,yefremovo
+60.9500,132.4667,notorskoye|notorskoe|ноторское
+60.8647,132.0253,moluoda|молуода
+60.8167,132.9667,khatarchyma|хатарчыма
+60.9833,132.1167,erbidzhyam|ehrbidzhjam|erbijyam|эрбиджям
+60.9135,132.0381,chapchalgan|chapchylgan|tsjaptsjylgan|чапчалган|чапчылган
+60.9280,132.1555,bitantsy|bitancy|битанцы
+60.9081,132.2703,betyuntsy|betjuncy|betjuntsy|ebeterde|ebetërdë|imenichapayeva|бетюнцы

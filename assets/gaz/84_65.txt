@@ -1,0 +1,3 @@
+65.9783,84.3245,yanovstan|janovstan|яновстан
+65.6000,84.8667,verkhnyayabaikha|faktoriyaverkhnyayabaikha
+65.9833,84.3333,ketpar|кетпар

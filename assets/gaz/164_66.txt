@@ -1,0 +1,5 @@
+66.4540,164.5784,vesenniy|vesennij|весенний
+66.4833,164.5833,baimka|баимка
+66.8339,164.2500,angarka|ангарка
+66.5764,164.5824,baimskijgokpeschanka
+66.7649,164.3170,aeroportbaimskaya

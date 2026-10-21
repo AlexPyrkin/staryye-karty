@@ -1,0 +1,17 @@
+54.5500,112.7500,zverevskoye
+54.2880,112.4247,yeleninskiy
+54.2000,112.3667,vesëlyy|veselyy|veselyi
+54.3167,112.3500,varvarinskoye|varvarinskij|varvarinskiy|варваринский
+54.3223,112.3566,varvarinskiy
+54.0333,112.0000,tsekhovskiy
+54.9333,112.0667,trudnyy|krestovozdvizhenskiy|trudnyi
+54.1167,112.1000,tilim|talim
+54.4167,112.5500,starosolovyëvskiy|starosolovyevskiy|starosolovjovskij|staryysolovyevskiy|старосоловьевский
+54.8167,112.3667,peski|пески
+54.8000,112.1500,oron|орон
+54.8167,112.4333,okunëvo|okunevo|okunjovo|окунево
+54.2667,112.0667,nadëzhnyy|nadezhnyy|nadjozhnyj|надежный
+54.4000,112.4833,china|chininskoye|zimovyechininskoye|чина
+54.3000,112.1500,borovskiy|borovskij|боровский
+54.7500,112.9333,anninskiy|anninskij|аннинский
+54.0500,112.0000,aleksandrinskiy|aleksandrinskij|александринский

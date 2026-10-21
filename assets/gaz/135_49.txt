@@ -1,0 +1,16 @@
+49.5870,135.4163,selgon|сельгон
+49.3669,135.1744,sanboli|санболи
+49.7169,135.7658,khevchen|mugdamungali|хевчен
+49.2364,135.1776,litovko|литовко
+49.7689,135.8086,khutun|khuti|хутун
+49.7113,135.7576,khevchen|khevtsjen|хевчен
+49.7242,135.7208,dippy|диппы
+49.1809,135.1699,lesnoy|dalnevostochnyy|lesnoj|лесной
+49.0864,135.1568,forel|форель
+49.2393,135.1238,ukrainka|украинка
+49.2499,135.1625,chapygino|tsjapygino|чапыгино
+49.4855,135.2905,nuskhi|нусхи
+49.4406,135.2597,stosoroksedmoykilometr|lesouchastok|stosoroksedmojkilometr|лесоучасток|стосорокседьмойкилометр
+49.6877,135.6338,razyezdnomervosemnadtsat|angallo|razuezdnomervosemnadcat|ангалло|разъездномервосемнадцать
+49.2237,135.1684,posëlok|poselok|posjolok|поселок
+49.8230,135.9393,razyezdnomerdvadtsatodin|razuezdnomerdvadcatodin|разъездномердвадцатьодин

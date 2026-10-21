@@ -1,0 +1,5 @@
+62.2702,67.8697,synvar
+62.5833,67.0500,pakhra|yurtypakhrinskiye|пахра
+62.0167,67.3000,novyyekarymkary|karymkary|novyekarymkary|yurtykarymkarskiye|новыекарымкары
+62.3333,67.0167,komsomolskiy|komsomolskij|комсомольский
+62.1500,67.2000,bolshiyeleushi|bolshieleushi|bolleushi|leushi|leushinskiye|боллеуши|большиелеуши|леуши

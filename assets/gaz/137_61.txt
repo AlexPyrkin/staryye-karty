@@ -1,0 +1,9 @@
+61.3333,137.3667,ustsuordakh|zimovyeustsuordakh
+61.4833,137.3333,trëkhgorka|trekhgorka
+61.3632,137.1498,svetlyy|svetly|svetlyj|светлый
+61.2000,137.6000,strelka|zimovyestrelka|стрелка
+61.3667,137.7333,setanya|setanja|сетанья
+61.4036,137.2072,muskel|muskuyel|мускель
+61.3500,137.4833,krab|краб
+61.4500,137.0000,gornostakh|garnastastakh|gornoktakh|kyrynastakh|zimovyegornostakh|горностах
+61.3667,137.9333,chalbyk|чалбык

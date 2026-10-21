@@ -1,0 +1,7 @@
+68.5527,146.1645,suturuokhatërdë|suturuokhaterde|soturokhkhaterde
+68.3833,146.8000,sleptsova|slepcova|слепцова
+68.1333,146.4000,lykcha|lygka|лыкча
+68.5500,146.2000,kolymskiyperevoz|kolymskijperevoz|kolymskiy|колымскийперевоз
+68.1000,146.2667,kiyengkyuyel|kiengkjuel|киенгкюель
+68.6167,146.4167,dyuderkyuyel|djuderkjuel|dyude|дюдеркюел
+68.5382,146.1852,belayagora|bgn|belajagora|белаягора

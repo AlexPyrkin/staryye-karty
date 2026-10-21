@@ -1,0 +1,13 @@
+53.1302,94.4979,verkhniyamyl|verkhnijamyl|верхнийамыл
+53.6843,94.2033,kazyr|verkhnekazyrskaya|казыр
+53.1375,94.6701,ustalgiyakskoye|ustalgiyak
+53.2167,94.0833,semirechka|семиречка
+53.1500,94.6500,oktyabrskiy|oktjabrskij|октябрьский
+53.7000,94.0833,nizhnekazyrskaya|nizhnekazyrskaja|нижнеказырская
+53.1500,94.5167,kukdusuk|kundusuk|кукдусук
+53.0833,94.5167,cheblokovsk|чеблоковск
+53.9074,94.0319,tiberkul|bolshetiberkulskaya|тиберкуль
+53.9958,94.0293,tagasuk|тагасук
+53.9686,94.0416,tagasuk|тагасук
+53.8634,94.3569,tayaty|tajaty|таяты
+53.8256,94.1359,tabrat|табрат

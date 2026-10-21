@@ -1,0 +1,6 @@
+58.0500,77.1333,uval
+58.8000,77.9167,usttukhsigat
+58.5097,77.7792,charymovo|charymovy|tsjarymovo|yurtycharymovy|чарымово
+58.0167,77.0333,andryushkiny|andrjushkiny|andrjusjkiny|андрюшкины
+58.8705,77.7449,puglalymskoemestorozhdenie
+58.9016,77.9031,srednenyurolskoemestorozhdenie

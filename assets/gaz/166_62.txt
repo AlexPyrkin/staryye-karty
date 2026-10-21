@@ -1,0 +1,4 @@
+62.9167,166.0833,sever|oklan|север
+62.4333,166.1000,olenesovkhoz|olenestatefarm|olensovkhoz|оленесовхоз
+62.7141,166.5794,oklan|kamenskoye|kolkhozoklanskiy|оклан
+62.4678,166.2067,kamenskoye|kamenskoe|kamenskoje|koryakskayacommunitycenter|koryakskayakultbaza|koryakskayakultbasa|koryaskskayecommunitycenter|каменское

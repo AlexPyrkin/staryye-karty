@@ -1,0 +1,10 @@
+49.9425,48.2800,vetelki|ветелки
+49.8333,48.4000,malyyuzen|malyjuzen|малыйузень
+49.8992,48.6069,fomin|фомин
+49.9381,48.5197,belousov|белоусов
+49.9892,48.4462,bayguzha|bajguzha|bajguzja|байгужа
+49.9886,48.7644,tazhbay|tazhbaj|tazjbaj|тажбай
+49.9558,48.7435,samolëtnayavetelka|samoletnayavetelka|samoljotnajavetelka|самолетнаяветелка
+49.9844,48.6430,zhdanov
+49.9807,48.5310,tyulyunev
+49.9146,48.6501,karabogut|bukin|букин|карабогут

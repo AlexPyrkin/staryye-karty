@@ -1,0 +1,4 @@
+65.2500,175.0667,shitikova|zimovyeshitikova|шитикова
+65.2833,175.7833,pyrkanay|pyrkanaj|пырканай
+65.2984,175.1566,karganay|karganaj|карганай
+65.3500,175.4167,kabanova|zimovyekabanova|кабанова

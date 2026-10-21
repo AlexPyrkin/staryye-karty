@@ -1,0 +1,4 @@
+65.2719,77.7522,syvdarma|сывдарма
+65.3200,77.7769,purovsk|пуровск
+65.5538,77.8699,pyrejnoemestorozhdenie
+65.9691,77.3409,novourengojskijgazohimicheskijkompleks

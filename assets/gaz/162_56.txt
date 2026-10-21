@@ -1,0 +1,11 @@
+56.2278,162.4778,ustkamchatskstaryy
+56.2264,162.1167,khvalenka|хваленка
+56.2360,162.5330,ustkamchatsk|устькамчатск
+56.3068,162.7441,tonkiy
+56.3500,162.2000,nizhnekamchatsk|lowerkamchatka|nizhnekamchack|нижнекамчацк
+56.2452,162.3950,nikolayevka|nikolaevka|николаевка
+56.4407,162.9188,kultuk|kulmuk|култук
+56.2568,162.7025,krutoberegovo|krutoberegovaya|крутоберегово
+56.2638,162.2591,chërnyyyar|chernyyyar|chenyyyar|chernyyar|chjornyjjar|черныйяр
+56.2667,162.1667,berëzovyyyar|berezovyyyar|berjozovyjjar|betovatyyyar|березовыйяр
+56.6872,162.9281,stolbovoy|stolbovoj|столбовой

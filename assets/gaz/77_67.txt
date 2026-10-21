@@ -1,0 +1,4 @@
+67.7905,77.0726,yurkharovo|jurkharovo|rybnyypromsyelyurkharovo|юрхарово
+67.3500,77.9667,pyasinado|pjasinado|пясинадо
+67.7389,77.5583,nakhodka|находка
+67.4333,77.8667,ivaysale|ivajsale|maysale|ивайсале

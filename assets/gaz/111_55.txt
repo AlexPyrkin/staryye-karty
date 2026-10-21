@@ -1,0 +1,13 @@
+55.0397,111.1322,zugdeli|uluszugdeli
+55.8505,111.9199,yaksay|jaksaj|yaksa|яксай
+55.6500,111.5500,shuka|шука
+55.4500,111.2667,rykhlovskogo|rukhlova|zaimkarykhlovskogo|zimovyerykhlovskogo|zimovkarykhlovskogo|рыхловского
+55.5833,111.1000,ochemi|zimovkaochemi|очеми
+55.8836,111.2264,kumora|komoro|кумора
+55.5831,111.4419,krasnyy|krasnyj|красный
+55.8667,111.2333,irkana|verkhneangarsk|verkhneangarskoye|verkhnyayaangarsk|иркана
+55.2833,111.3167,golgachok|zimovkagolgachok|голгачок
+55.9308,111.7772,delakory|делакоры
+55.9792,111.0858,chencha|chencho|chenga|chentsa|tsjentsja|ченча
+55.1333,111.3000,buryatskiyepostroyki|burjatskiepostrojki|buryatskihamlet|бурятскиепостройки
+55.7333,111.7667,bogodikta|богодикта

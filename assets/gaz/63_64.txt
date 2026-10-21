@@ -1,0 +1,6 @@
+64.9687,63.8075,vytvozhgort|unvozhgort
+64.8167,63.9833,ovgort|ovigort|овгорт
+64.9000,63.8667,nymvozhgort|nymvozjgort|нымвожгорт
+64.0667,63.8667,novyyeshogany|novyeshogany|новыешоганы
+64.0333,63.8833,malyyeshogany|malshogany|malsjogany|malyeshogany|malyyeshagany|малшоганы|малыешоганы
+64.9000,63.9500,lorovgort|лоровгорт

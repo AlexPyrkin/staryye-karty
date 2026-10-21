@@ -1,0 +1,13 @@
+64.1530,42.2876,verkhnyayapilenga|verkhnyayapalenga
+64.2085,42.4975,ugzenga
+64.2148,42.5116,petukhovo|petukovo|петухово
+64.2472,42.8455,ostrov|остров
+64.1136,42.1428,nizhnyayapalenga|nizhnjajapalenga|nizhnyayapalenya|нижняяпаленьга
+64.2341,42.6989,leunovo|leunovskoye|леуново
+64.2744,42.9451,kuzomen|kuzonemskaya|kuzonemy|кузомень
+64.2450,42.7920,gorka|горка
+64.0490,42.7311,glubokoye|glubokoe|glubokoje|глубокое
+64.2244,42.6855,chuga|tsjuga|чуга
+64.1880,42.3370,belogorskiy|belogorskij|белогорский
+64.7719,42.0385,stryukovo|strjukovo|стрюково
+64.0417,42.6974,svetlyj

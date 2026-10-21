@@ -1,0 +1,13 @@
+60.7000,63.9000,umytya
+60.0000,63.3333,sosnovka|сосновка
+60.6333,63.6167,sheshushum|шешушум
+60.0167,63.3500,petrova|петрова
+60.8500,63.4333,pecherakh|petsjerakh|picherakh|печерах
+60.0469,63.2186,oshmarya|oshmarja|oshmarye|osjmarja|ошмарья
+60.0167,63.3000,omelino|omelina|омелино
+60.0333,63.3167,novostenino|новостенино
+60.0333,63.3833,novayapashnya|novajapashnja|новаяпашня
+60.7833,63.4167,korystya|korysya|korystja|корыстья
+60.0500,63.4333,kedrovka|кедровка
+60.5500,63.8667,arpavla|arpovla|арпавла
+60.9000,63.5167,arantur|orautur|orontur|oruntur|арантур

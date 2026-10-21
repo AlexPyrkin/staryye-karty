@@ -1,0 +1,6 @@
+60.4401,151.4736,yablonevyy|jablonevyj|yablonovyy|яблоневый
+60.2000,151.8000,nukh|нух
+60.0667,151.7500,mayakan|majakan|mayakon|маякан
+60.2092,151.0936,karamken|карамкен|կարամկեն
+60.8339,151.7900,atka|elikchan|атка
+60.9637,151.0207,agatovyy|agatovyj|агатовый

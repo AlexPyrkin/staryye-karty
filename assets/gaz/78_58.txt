@@ -1,0 +1,5 @@
+58.9667,78.0833,nyurolskiy|njurolskij|нюрольский
+58.9960,78.4674,myldzhino|mildzhiny|miljihy|myldzjino|мыльджино
+58.1618,78.8832,luginetskoemestorozhdenie
+58.3246,78.4853,shinginskoemestorozhdenie
+58.7757,78.4486,myldzhinskoemestorozhdenie

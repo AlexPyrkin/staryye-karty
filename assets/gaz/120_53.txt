@@ -1,0 +1,13 @@
+53.2923,120.9113,zhegdochi|zhegoochi|zhigdocha|zjegdotsji|жегдочи
+53.6833,120.2167,zaykinlog
+53.9274,120.0498,tridtsatvtoroykilometr|toroplivyj|toroplivyy|tridcatvtorojkilometr|vilukhtinskiy|торопливый|тридцатьвторойкилометр
+53.6861,120.0635,taptugary|tabtugary|taptugaro|taptugarö|tapugary|toptugary|таптугары
+53.9256,120.3322,shuruga|sjuruga|шуруга
+53.7112,120.3710,semiozërnyy|semiozernyy|semiozerne|semiozerny|semiozernyj|semiozjornyj|семиозерный
+53.0354,120.4859,muchikan|mutsjikan|мучикан
+53.4659,120.7256,karagan|karachinskaya|karaganskaya|караган
+53.4868,120.0499,chasovinka|chasovinskaya|tsjasovinka|часовинка
+53.7240,120.4873,chador|tsjador|чадор
+53.4364,120.3313,anikino|anikind|аникино
+53.8559,120.8718,amazar|амазар
+53.8476,120.7828,germanovskiy|germanovskij|германовский

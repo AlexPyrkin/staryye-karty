@@ -1,0 +1,11 @@
+52.5625,156.3084,zuykovo|zujkovo|zuykova|зуйково
+52.8258,156.2829,ustbolsheretsk|ostbolsheretak|ustbulsheretsk|ustbolshereck|ustbolsjeretsk|устьбольшерецк
+52.0276,156.4850,opala|опала
+52.6584,156.2418,oktyabrskiy|bolsheretskiypervyy|imenimikoyana|mikoyanousk|mikoyanovskiy|oktjabrskij|октябрьский
+52.8893,156.4598,nachilovo|natsjilovo|начилово
+52.9042,156.8874,lenino|ленино
+52.8833,156.1333,kombinatimenimikoyananomerpervyy|kombinatimenimikojananomerpervyj|mikoyana|комбинатименимикоянаномерпервый
+52.8522,156.7063,kirpichnyy|kirpichnyj|кирпичный
+52.9270,156.5730,kavalerskoye|bolshereckij|bolsheretsk|bolsheretskiy|bolsheretskiysovkhoz|bolsheryetsk|bolsjeretskij|kavalerskoe|большерецкий|кавалерское
+52.4382,156.3603,bolsheretsk|bolshereck|bolshertskiykombinatnomertretiy|bolsjeretsk|большерецк
+52.5619,156.3072,bolsheretskiy|bolsheretskij|большеретский

@@ -1,0 +1,4 @@
+61.3248,92.6543,tunga|tyncha|тунга
+61.8160,92.6440,burnyy|burnyj|бурный
+61.3389,92.9836,artelnog|artelnoe|артельног|артельное
+61.4700,92.9539,berëzovoye|berezovoye|berezovoe|berjozovoe|березовое

@@ -1,0 +1,7 @@
+68.4667,86.4167,protoka|протока
+68.6836,86.2728,potapovo|potapovskiy|potapovskoye|потапово
+68.9167,86.0000,novoluzino|luzino|новолузино
+68.3833,86.2333,lipatnikovo|lipatnikovskiy|липатниково
+68.2667,86.6333,khantayka|khantajka|хантайка
+68.7667,86.0667,cherva|черва
+68.0333,86.4500,agapitovo|agapitovskiy|агапитово

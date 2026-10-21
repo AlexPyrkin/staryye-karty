@@ -1,0 +1,12 @@
+52.9833,138.9333,verkhniykhon
+52.9064,138.8556,udinsk|udinskoye|удинск
+52.1892,138.9923,troitskiy|troickij|troitskij|троицкий
+52.9000,138.5000,sekha|sekhi|сеха
+52.9667,138.7333,samnya|samnja|somnya|самня
+52.9434,138.8887,oglongi|оглонги
+52.7667,138.2000,mikhalitsyno|mikhalicyno|mikhalitsino|mikhaylitsino|михалицыно
+52.8333,138.7833,mariinskiy|mariinskij|мариинский
+52.8238,138.4185,krasnyyyar|krasnyjjar|красныйяр
+52.9819,138.8325,kherpuchi|kherputsji|херпучи
+52.9500,138.5833,kartashëva|kartasheva|kartashjova|khutormodelya|карташева
+52.8695,138.8367,gidroelektrostantsiyauda|gesuda|gehsuda|gidroehlektrostancijauda|гэсуда|гидроэлектростанцияуда

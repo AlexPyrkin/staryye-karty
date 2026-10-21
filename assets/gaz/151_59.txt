@@ -1,0 +1,11 @@
+59.7333,151.3667,sopkachan|сопкачан
+59.5803,151.2995,ola|ола
+59.6636,151.3190,gadlya|gadlja|гадля
+59.6865,151.4222,baraborka|barabarka|бараборка
+59.5666,151.4339,atargan|атарган
+59.7537,151.4949,klyopka
+59.5678,151.2404,sakharnayagolovka|sakharnajagolovka|сахарнаяголовка
+59.7000,151.0723,lesnoy|lesnoj|лесной
+59.6307,151.3157,zarechnyy|zarechnyj|заречный
+59.7535,151.4912,klëpka|klepka|kljopka|zelenodolskoe|zelenodolskoye|зеленодольское|клепка
+59.8608,151.2576,verkhniyserdyakh|verkhnijserdjakh|верхнийсердях

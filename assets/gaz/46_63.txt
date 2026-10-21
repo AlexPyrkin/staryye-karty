@@ -1,0 +1,7 @@
+63.4312,46.5404,zanyukhcha|njukhcha|njukhtsja|zanjukhcha|занюхча|нюхча
+63.4419,46.0007,sultsa|sulca|сульца
+63.3860,46.0021,shidnema|sjidnema|шиднема
+63.4394,46.5275,nyukhcha|njukhcha|nyukhotskiypogost|zanjukhcha|zanjukhtsja|занюхча|нюхча
+63.3589,46.5175,kuchkas|kutsjkas|кучкас
+63.4159,46.1399,sosnovka|сосновка
+63.4130,46.1128,mamonikha|мамониха

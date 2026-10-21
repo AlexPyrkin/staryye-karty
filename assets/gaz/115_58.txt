@@ -1,0 +1,17 @@
+58.4000,115.4167,zolotoyeruslo
+58.7667,115.9833,zimovyesimikacha|zimovyesemikacha|zimovniksimikacha
+58.3833,115.9833,verkhniystan
+58.6144,115.1454,ugakhan|угахан
+58.4365,115.9664,svetlyy|svetly|svetlyj|светлый
+58.7500,115.7000,spasskiy|spasskij|спасский
+58.4333,115.3000,petrovskiy|petrovskij|петровский
+58.3000,115.8667,mineyeva|mineeva|минеева
+58.1000,115.9000,kutulakh|кутулах
+58.5094,115.3217,kropotkin|krapotkin|кропоткин
+58.7500,115.6611,khomolkho|хомолхо
+58.4167,115.9833,chenastnyy|chenastnyj|ченастный
+58.6209,115.2151,sukhojlog
+58.7494,115.5400,gokvysochajshij
+58.5388,115.3276,verninskoeminerotationcamp
+58.6879,115.2180,gokugakhanrotationcamp
+58.4574,115.2515,vachinsk

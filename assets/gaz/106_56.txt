@@ -1,0 +1,15 @@
+56.7492,106.4799,zvëzdnyy|zvezdnyy|zvezdnyj|zvjozdnyj|звездный
+56.3667,106.1667,tyumentsevo|tyumentseva
+56.9986,106.5494,tayura|tajura|таюра
+56.5167,106.2500,sinyushkina|sinjushkina|sinyushkino|синюшкина
+56.6000,106.2833,riga|рига
+56.8642,106.1123,polovinka|polovina|polovinnaya|половинка
+56.9500,106.1167,podymakhinskiyzaton|podymakhinskijzaton|подымахинскийзатон
+56.9744,106.1755,podymakhino|подымахино
+56.3833,106.1500,pavlovskaya|pavlovskaja|павловская
+56.4620,106.2666,omoloy|omoloi|omoloj|омолой
+56.9972,106.1960,kazarki|казарки
+56.3385,106.0191,boyarsk|bojarsk|boyarskaya|боярск
+56.3279,106.4829,aikta|аикта
+56.9934,106.0941,korolikha|королиха
+56.5495,106.8010,niya|nija|ния

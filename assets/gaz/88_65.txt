@@ -1,0 +1,5 @@
+65.6333,88.1000,miroyedikha|miroedikha|mirojedikha|stanitsamiroyedikha|мироедиха
+65.5000,88.0333,melnichnaya|melnichnaja|melnichnoye|melnichnyy|melnitsjnaja|miroyedinskayakurya|мельничная
+65.3333,88.0000,kostino|костино
+65.3833,88.5500,kamensoldat|kamensadat|kamennysadat|kamennyysadat|каменьсолдат
+65.1167,88.7000,bolshoyporog|bolshojporog|большойпорог

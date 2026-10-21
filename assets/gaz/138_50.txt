@@ -1,0 +1,13 @@
+50.2500,138.6000,verkhnyayaudomi
+50.3406,138.4825,uktur|aktur|ukturda|уктур
+50.3833,138.4833,nizhnyayaudomi|nizhniyeudomi|nizhnjajaudomi|udomi|udunda|zimovkanizhniyeudomi|zimovkaudunda|нижняяудоми
+50.9257,138.1871,nizhnetambovskoye|nizhnetambouskoe|nizhnetambovka|nizhnetambovsk|nizhnetambovskoe|nizjnetambovskoje|нижнетамбовское
+50.4000,138.1667,khungari|хунгари
+50.3121,138.0919,gurskoye|gurskoe|gurskoje|гурское
+50.0333,138.4833,dzhaur|джаур
+50.8385,138.0302,aksyan|akon|aksian|aksjan|аксян
+50.9833,138.3000,ady|ada|adl|bolshayaada|ады
+50.1904,138.5977,kenay|kenaj|кенай
+50.8831,138.1144,opytnoyepole|opytnoepole|опытноеполе
+50.2788,138.4855,aksaka|аксака
+50.3563,138.2538,pochepta|почепта

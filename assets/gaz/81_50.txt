@@ -1,0 +1,17 @@
+50.8110,81.5277,zolotukha|krasnozolotukhinskoye|золотуха
+50.7800,81.6931,yermoshikha|ermoshikha|jermosjikha|ермошиха
+50.9740,81.5317,uspenka|uspenskoye|успенка
+50.8654,81.8966,tretyakovo|tretjakovo|третьяково
+50.9056,81.5375,samarka|самарка
+50.8642,81.6139,razdolnoye|razdolnoe|razdolnoje|trudsvyaz|раздольное
+50.8139,81.9614,mikhaylovka|mikhajlovka|mikhaylovskiy|михайловка
+50.9614,81.7944,masalskiy|masalskaya|masalskij|mosalka|масальский
+50.9953,81.4669,gornyak|gornjak|горняк
+50.8939,81.7950,antoshikha|antosjikha|антошиха
+50.9828,81.9203,sadovyy|sadovyj|садовый
+50.9714,81.8856,stepnoy|stepnoj|степной
+50.9975,81.6267,stepnoy|stepnoj|степной
+50.9069,81.7289,kucherovka|kutsjerovka|кучеровка
+50.8778,81.9292,pervomayskiy|pervomajskij|первомайский
+50.8478,81.7989,kryuchki|krjuchki|krjutsjki|крючки
+50.8404,81.8566,tretyaki

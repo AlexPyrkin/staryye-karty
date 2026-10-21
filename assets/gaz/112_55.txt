@@ -1,0 +1,3 @@
+55.5167,112.2833,orochen|izbyorochen|орочен
+55.1333,112.9667,kurortbaunt|baunt|goryachiy|goryachiyklyuch|kurortgoryachiyklyuch|баунт|курортбаунт
+55.0333,112.4500,chervyak|chervjak|червяк

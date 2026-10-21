@@ -1,0 +1,7 @@
+51.7000,100.8500,undur
+51.7167,100.8833,saganshuluta|saganshuluga|ulussaganshuluta|саганшулута
+51.6772,100.9936,mondy|khanganski|khanginskiy|mondvi|монды
+51.6667,100.9167,kholboty|холботы
+51.6333,100.9333,khokhorzon|хохорзон
+51.9667,100.3333,bokson|боксон
+51.7000,100.9000,ayerkhan|aerkhan|ajerkhan|аерхан

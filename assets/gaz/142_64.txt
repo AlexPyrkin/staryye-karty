@@ -1,0 +1,14 @@
+64.2439,142.7355,tirgelir|tarryn|taryn|tarynyuryakh|tavvnyuryakh|тарын
+64.2445,142.0822,tëryut|teryut|terjut|терют
+64.2889,142.8126,sayylyk|sajylyk|sayga|сайылык
+64.3482,142.5313,sarylakh|сарылах
+64.6054,142.5721,pëstraya|pestraya|pjostraja|пестрая
+64.8000,142.5833,olchanskiy|olchanskij|ольчанский
+64.7024,142.5903,olchan|oltsjan|uolchan|ольчан
+64.2500,142.9667,nelkan|нелькан
+64.4167,142.0000,marshalskiy|marshalskij|маршальский
+64.0981,142.9937,maltan|talman|малтан
+64.2500,142.1000,ikkiambar|serbiya|иккиамбар
+64.5833,142.7833,ebirkhaya|ehbirkhaja|эбирхая
+64.1000,142.9333,bogatyr|богатырь
+64.5216,142.8964,berëzovka|berezovka|berezovoe|berjozovka|березовое|березовка

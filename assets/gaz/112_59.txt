@@ -1,0 +1,14 @@
+59.4433,112.5699,vitim|витим
+59.4667,112.5667,viski|pristanviski
+59.8667,112.6000,solzavod|сользавод
+59.3833,112.5167,serkino|serkina|серкино
+59.2000,112.0333,rysya|rysino|rysja|rysia|рысья
+59.5500,112.5667,romanovskoye|romanovskoe|романовское
+59.0500,112.5667,rodionov|yazovyy|родионов
+59.6289,112.7406,peleduy|malypeleduy|malyypeleduy|peleduj|пеледуй
+59.9333,112.5167,nizhniydaban|nizhnijdaban|нижнийдабан
+59.7000,112.7333,lugovoy|lugovoj|луговой
+59.1500,112.3167,klyuchi|kljuchi|ключи
+59.8000,112.3667,khoron|хорон
+59.2644,112.4286,chuya|chuja|gornochuyskiy|tsjuja|чуя
+59.6500,112.7833,bolshoypeleduy|bolshojpeleduj|bolsjojpeleduj|большойпеледуй

@@ -1,0 +1,6 @@
+53.9830,76.8458,vishnevka|vishnevskiy|visjnevka|вишневка
+53.8964,76.8096,selivanovo|selivanovskiy|селиваново
+53.7969,76.9894,nikitinka|nikitinskiy|никитинка
+53.9665,76.6531,kiyevka|kievka|kijevka|kiyevskiy|киевка
+53.9267,76.9429,blagoveshchenka|blagoveshchenskiy|blagoveshhenka|blagovesjtsjenka|благовещенка
+53.9046,76.7382,berezovskiy|berezovskij|березовский

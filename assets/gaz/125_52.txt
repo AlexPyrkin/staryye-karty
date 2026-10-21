@@ -1,0 +1,5 @@
+52.9451,125.9297,ologno|ologpo|ологно
+52.8833,125.7500,olgino|olgin|ольгино
+52.8686,125.6739,mungalovo|mongarafu|mongolovo|mungalovskiy|ustolga|мунгалово
+52.6092,125.9807,kalinovka|калиновка
+52.7898,125.9975,chernyayevo|chermyayevo|chernjaevo|chernyagvo|tsjernjaevo|черняево

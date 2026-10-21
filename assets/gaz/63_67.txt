@@ -1,0 +1,14 @@
+67.4955,63.7328,zapolyarnyy|zapoljarnyj|заполярный
+67.5836,63.7940,vorgashor|vorgasjor|воргашор
+67.0500,63.6000,ustvorkuta
+67.0333,63.3333,tit|kechpel|kochpel|köchpel
+67.3169,63.7272,talnik
+67.0833,63.1167,sëyda|seyda|sejda|sjoyda|сейда|сеыда
+67.5833,63.9167,promyshlennyy|promyshlennyj|promyshlenyy|promysjlennyj|промышленный
+67.1833,63.5833,pesets|pesec|песец
+67.0500,63.7833,nikita|nikit|никита
+67.5000,63.8500,mulda|мульда
+67.1833,63.5667,lëkvorkuta|lekvorkuta|ljokvorkuta|лекворкута
+67.5513,63.7843,komsomolskiy|komsomolskij|комсомольский
+67.3000,63.6167,khanovey|khanovej|хановей
+67.1000,63.1667,chum|чум

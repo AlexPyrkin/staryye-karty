@@ -1,0 +1,11 @@
+52.0000,128.7833,yukhta|yelka
+52.3222,128.1351,usttu|usttuyskiy|устьту
+52.4499,128.1269,uralovka|ураловка
+52.1333,128.2833,mramornoye|mramornoe|mramornyy|мраморное
+52.4181,128.1021,kukhterinlug|кухтеринлуг
+52.2844,128.1788,gornoye|gornoe|gornoje|gornoyekalashnikovo|горное
+52.1240,128.2110,chagoyan|chagojan|tsjagojan|чагоян
+52.7249,128.5332,soroktretiykilometr|soroktretijkilometr|сороктретийкилометр
+52.4964,128.3540,uchastoksemnadtsatyykilometr|uchastoksemnadcatyjkilometr|участоксемнадцатыйкилометр
+52.4206,128.5659,ango|анго
+52.3085,128.1397,kalashnikovo|калашниково

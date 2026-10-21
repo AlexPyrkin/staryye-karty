@@ -1,0 +1,16 @@
+55.0333,107.2833,zabrody|zabrodskaya
+55.9002,107.7736,yukhta
+55.8961,107.7984,ulkan|ulkanskaya|улькан
+55.3156,107.7320,tyekan|tyehkan|тыэкан
+55.4072,107.7190,tukolon|tyukolon
+55.8608,107.8187,tarasovo|tarasovskaya|тарасово
+55.7003,107.6584,munok|munakskaya|munanskaya|мунок
+55.9000,107.7667,khrebet|хребет
+55.8333,107.8167,khrebet|хребет
+55.9333,107.1167,khikagnya|khikagnja|хикагня
+55.0000,107.2333,khanda|ханда
+55.1418,107.5994,karam|карам
+55.4717,107.7978,garyn|гарынь
+55.6347,107.6282,garbitkan|гарбиткан
+55.8220,107.0186,divitkan|diitkan|дивиткан
+55.5333,107.7167,antoshka|antosjka|антошка

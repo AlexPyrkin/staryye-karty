@@ -1,0 +1,9 @@
+61.0813,28.9813,losevo|jaervenkylae|järvenkylä|yarvenkyulya|лосево
+61.1121,28.8632,svetogorsk|enso|enšo|esno|svetagorsk|svetogorska|světogorsk|swetogorsk|swietogorsk|swjetogorsk|aswtwgwrsk|sftwghwrsk|siweituogeersike|светагорск|светогорск|свєтогорськ|اسوتوگورسک|سفتوغورسك|სვეტოგორსკი|斯韋托戈爾斯克
+61.0825,28.8451,roukhiala|raukhialu|raukhiya|rouhiala|роухиала
+61.0167,28.7128,penttilya|penttila|penttilja|penttilä|пенттиля
+61.0455,28.9294,lesogorskiy|iaski|jaaski|jaeaeski|jääski|lesogorskij|yaski|yayaski|лесогорский
+61.0865,28.9093,iskra|kivioja|kivioya|искра
+61.0231,28.8559,pravdino|littula|литтула|правдино
+61.0496,28.7630,storozhevoye|kuurnanpohja
+61.1566,28.9897,laitila

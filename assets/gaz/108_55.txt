@@ -1,0 +1,3 @@
+55.7333,108.7500,strelka|стрелка
+55.7699,108.4202,kunerma|кунерма
+55.7200,108.9489,goudzhekit|goudzheki|goudzjekit|гоуджекит

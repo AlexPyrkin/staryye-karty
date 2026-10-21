@@ -1,0 +1,10 @@
+50.4667,130.0000,tygda
+50.2638,130.2675,talakan|yakutskoye|талакан
+50.1805,130.1517,paykan|pajkan|пайкан
+50.3333,130.8000,ostrovskoye|novoostrovskoye|ostrovnoye|ostrovskoe|veseloye|zimovkaostrovnoye|островское
+50.3500,130.9167,orlinoye|orlinoe|орлиное
+50.1333,130.1500,novotomsk|новотомск
+50.0689,130.0248,kiselëvka|kiselevka|kiseleva|kiselevo|kiseljovka|киселево|киселевка
+50.0333,130.9167,gongor|гонгор
+50.2969,130.4708,cheugda|chengda|chubygda|tsjeugda|zimovkacheugda|чеугда
+50.0401,130.0012,bakhirëvo|bakhirevo|bakhireva|bakhirevka|bakhirjovo|бахирево

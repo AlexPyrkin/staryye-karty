@@ -1,0 +1,10 @@
+60.8000,116.2000,ulakhanotëkh|ulakhanotekh
+60.4793,116.5241,turukta|turuktinskiylesouchastok|турукта
+60.3558,116.9737,tinnaya|tinnaja|тинная
+60.0772,116.9072,bolshoypatom|bolshojpatom|bolpatom|patom|болпатом|большойпатом
+60.5383,116.2219,nyuya|njuja|нюя
+60.5403,116.1067,natora|notara|nuotara|натора
+60.7167,116.3000,nëryuktey|neryuktey|njorjuktej|nyuyanerguktey|nyuyanërguktey|нерюктей
+60.6189,116.8900,kakyly|khakhynyr|какылы
+60.4500,116.7453,russkayaderba|dzherba|russkajaderba|zherba|русскаядерба
+60.6000,116.0500,borovaya|borovaja|borovava|боровая

@@ -1,0 +1,9 @@
+60.8364,114.4721,zakharovka
+60.5585,114.4864,terëshkino|tereshkino|tereshkina|terëshkina
+60.8219,114.3119,ortonakhara|ortonokhor|ортонахара
+60.7238,114.9345,lensk|lenska|lenskas|lenskej|lensko|liehnskehj|mukhtuya|ulk|lenseukeu|liansike|lnsk|lnsq|lynsk|rensuku|ļenska|ленск|ленскей|ленськ|лиэнскэй|לנסק|لنسک|لينسك|لینسک|レンスク|连斯克|렌스크
+60.2289,114.1383,khamra|хамра
+60.8481,114.6942,chamcha|chamchi|chemchi|tsjamtsja|чамча
+60.9333,114.5833,bygynkyuyel|byginkel|bygynkjuel|byugynkyuyel|быгынкюель
+60.4000,114.4000,bolshiyekonki|bolshiekonki|bolkonki|konki|konkinskaya|болконьки|большиеконьки
+60.8997,114.8136,nyuyasevernaya|njujasevernaja|нюясеверная

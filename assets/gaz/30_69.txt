@@ -1,0 +1,16 @@
+69.4260,30.8110,zapolyarnyy|zapoljarnyj|заполярный
+69.5333,30.2000,toyllevi|tollevi|töllevi
+69.4381,30.1189,salmiyarvi|salmijarvi|salmijärvi|сальмиярви
+69.4333,30.1833,proliv|salmi|пролив
+69.0143,30.2907,prirechnyy|prirechnyj|priretsjnyj|приречный
+69.4129,30.2220,nikel|kolosjoki|kolosjokki|nikkeli|никель
+69.5109,30.4249,kuvernerinkoski|kuvernoorinkoski|kuvernöörinkoski|кувернеринкоски
+69.7667,30.8833,koloniyafinmanskaya|kolonijafinmanskaja|stanovishchefinmanskoye|колонияфинманская
+69.4000,30.0000,keskitalo|кескитало
+69.4000,30.8667,gornyy|gornyj|горный
+69.6504,30.1442,borisoglebsk|borisgleb|borisoglebskaya|koltakongas|koltakongäs|kolttakengyas|kolttakongas|kolttaköngäs|борисоглебск
+69.4833,30.2000,akhmalakhti|ahmalahti|kontiosalmi|ахмалахти
+69.6556,30.2040,mappborisoglebsk
+69.3718,30.9459,puskakylä|puskakylae
+69.3963,30.6095,kolskayasverhglubokayaskvazhina
+69.3969,30.2960,nicu

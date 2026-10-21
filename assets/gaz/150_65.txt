@@ -1,0 +1,6 @@
+65.8333,150.8500,zyryanka|cyryanka|zyrjanka|зырянка
+65.7354,150.8939,zyryanka|novayazyryanka|syrjanka|zkp|ziranka|zirjanka|ziryanka|zorjanka|zyranka|zyrianka|zyrjanka|zõrjanka|zırânka|jiliangka|zuiryanka|зирянка|зирјанка|зыранка|зырянка|զիրյանկա|زيريانكا|زیریانکا|ズイリャンカ|济良卡|濟良卡
+65.7181,150.8336,verkhnekolymsk|верхнеколымск
+65.6500,150.9167,prerva|prorva|прерва
+65.9333,150.9333,muna|zimovyemuna|муна
+65.5833,150.9667,krivoye|krivoe|кривое

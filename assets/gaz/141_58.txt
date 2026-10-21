@@ -1,0 +1,6 @@
+58.9150,141.8628,yudman|judman|yudmal|юдман
+58.8335,141.8517,ulya|mayek|mayëk|ulja|unagaydya|улья
+58.8833,141.8000,nyudmala|njudmala|нюдмала
+58.9313,141.9429,rybzavodnomerdvadtsatdevyat|rybzavodnomerdvadcatdevjat|рыбзаводномердвадцатьдевять
+58.8755,141.8910,severnayaulya|severnajaulja|севернаяулья
+58.8112,141.8218,rybzavodnomerdvadtsatvosem|rybzavodnomerdvadcatvosem|рыбзаводномердвадцатьвосемь

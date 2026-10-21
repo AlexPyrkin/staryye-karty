@@ -1,0 +1,11 @@
+61.8780,135.5269,okhotskiyperevoz|okhotskijperevoz|охотскийперевоз
+61.8500,135.8167,kuranakh|kuraanakh|zimovyekuranakh|куранах
+61.8667,135.5000,krasnyyaldan|krasnyjaldan|красныйалдан
+61.0167,135.2833,khaya|khaja|хая
+61.7167,135.4167,kharantyn|харантын
+61.3833,135.4167,kerbi|керби
+61.0336,135.3008,imenichapayeva|imenichapaeva|kenchari|kencheeri|именичапаева
+61.7333,135.2833,darkylakh|даркылах
+61.9578,135.6488,churan|charan|charang|tsjuran|чуран
+61.6333,135.2167,chappanda|чаппанда
+61.8667,135.4833,aldanskaya|aldanskaja|aldanskiyperevoz|ergedzhani|алданская

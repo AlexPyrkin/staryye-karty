@@ -1,0 +1,4 @@
+61.2000,153.0500,mirskaya|mirskaja|мирская
+61.9637,153.7406,kupka|купка
+61.5545,153.5890,tenkeli|tehnkehli|тэнкэли
+61.8187,153.8844,oktyabrskiy|oktjabrskij|октябрьский

@@ -1,0 +1,6 @@
+58.7333,110.9333,pyanobykovskaya|pjanobykovskaja|pyanobynovskaya|пьянобыковская
+58.6297,110.0219,mutina|мутина
+58.5960,110.1420,korshunovo|korshunova|korsjunovo|коршуново
+58.7000,110.4333,ivanushkova|ivanushkovo|иванушкова
+58.6478,110.8472,chastykh|tsjastykh|частых
+58.6500,110.8500,chastinskaya|chastinskaja|chistinskoe|частинская

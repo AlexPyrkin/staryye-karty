@@ -1,0 +1,13 @@
+61.8333,127.0333,ymynastakh|ymynakhtakh
+61.1804,127.5355,tumul|imenimolotova|тумул
+61.2247,127.7314,titary|титары
+61.8500,127.0500,tala|тала
+61.1167,127.2167,petrovskaya|petrovskaja|petrovskij|петровская|петровский
+61.7500,127.3833,kërdyugen|kerdyugen|kerdyugey|kjordjugen|кердюген
+61.3000,127.4667,imenimolotova|именимолотова
+61.2000,127.7667,ebeise|ehbeise|эбеисе
+61.9000,127.3000,biliye|bilie|билие
+61.7333,127.3000,betegestyakh|betegestjakh|бетегестях
+61.8000,127.9167,bëchëy|bechey|bjochjoy|bjotsjoy|бечеы
+61.1377,127.3436,batamay|batamaj|botomay|батамай
+61.1023,127.3681,lenskiestolby

@@ -1,0 +1,3 @@
+69.0833,179.7000,valkorkeyhistorical|izbavalkorkey|valkorkey
+69.2333,179.1333,pilkhynhistorical|pilgyn|pilkhin|pilkhma|pilkhyn|пильхын
+69.3124,179.1098,pilgynhistorical|notakatron|notakatryn|pilgyn|pilkhyn|пильгын

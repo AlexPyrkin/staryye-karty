@@ -1,0 +1,12 @@
+62.1216,155.2804,ostantsovyy|ostancevyj|ostancovyj|ostantsevyy|останцевый|останцовый
+62.5153,155.7941,omsukchan|omsuktsjan|омсукчан
+62.2638,155.4969,nevskiy|nevskij|невский
+62.5833,155.7500,khataren|хатарен
+62.5540,155.6988,industrialnyy|industrialnyj|индустриальный
+62.3539,155.9639,galimyy|galimyj|галимый
+62.5694,155.3515,dukat|дукат
+62.4500,155.7500,aygur|ajgur|айгур
+62.7956,155.4959,ayaks|ajaks|аякс
+62.1733,155.2976,kapranovskiy|kapranovskij|капрановский
+62.6275,155.8958,bastosh|бастош
+62.0859,155.6985,trud|труд

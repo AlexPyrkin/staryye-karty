@@ -1,0 +1,7 @@
+63.1000,144.0333,ulttakh
+63.1333,144.2500,taryntolon
+63.1635,144.0175,ortobalagan|sordongnokh|sordonnakh|sordonnokh|ортобалаган|сордоннох
+63.1404,144.4430,kuranakhsala|куранахсала
+63.0133,144.2479,khastakh|хастах
+63.0833,144.0333,imenistalina|именисталина
+63.0696,144.3463,chelakha|челаха

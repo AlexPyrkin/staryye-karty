@@ -1,0 +1,16 @@
+56.7833,81.9667,zhitushkina
+56.0457,81.9898,zhirnovka|zjirnovka|жирновка
+56.0500,81.9833,yurkovka|yurkovskiy
+56.0333,81.8500,vershina
+56.8833,81.8500,verkhnyayagalka
+56.7597,81.3006,pirogovka|pirogova|пироговка
+56.9186,81.0522,novayaburka|novburka|novajaburka|новбурка|новаябурка
+56.9333,81.9167,lugovoy|lugovoj|луговой
+56.6333,81.5000,larshina|ларшина
+56.6667,81.3500,khoroshevina|хорошевина
+56.9143,81.7034,andarma|grinvald|андарма
+56.6833,81.7333,dolgina|domina|долгина
+56.9985,81.9943,chernyshëvka|chernyshevka|chernysheva|chernyshevo|chernyshjovka|tsjernysjevka|чернышевка
+56.9255,81.9674,bolshayagalka|bolshajagalka|большаягалка
+56.9795,81.7517,bogatyrëvka|bogatyrevka|bogatyrjovka|богатыревка
+56.7000,81.8333,astafyevo|astafevo|astafyeva|astafjevo|астафьево

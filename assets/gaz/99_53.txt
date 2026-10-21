@@ -1,0 +1,5 @@
+53.3333,99.7000,yurtykaragozskiye|karagosskiyehuts|yurtykaragosskiye|yurtykaragovskiye
+53.8833,99.4000,uluszykova|zykova
+53.8833,99.6667,deyanova|dejanova|деянова
+53.7500,99.4333,barbitay|abalakova|barbitaj|барбитай
+53.9250,99.9100,arshan|arsjan|аршан

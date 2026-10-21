@@ -1,0 +1,14 @@
+64.3627,35.6876,yukovo|jukovo|юково
+64.3316,35.1885,virma|birma|virmajoki|virmi|вирма
+64.1167,35.7667,ukhtporog|uhtkoski
+64.0667,35.9000,ukhtitsa
+64.2562,35.4171,sumskiyposad|poselokimenivoronina|posëlokimenivoronina|suma|sumankauppala|sumskiposad|sumskiipasad|sumskijposad|sumskiyposats|сумскийпосад
+64.1833,35.6167,pertozero|пертозеро
+64.2998,35.3773,malostrov|malisaari|poselokmalostrov|posëlokmalostrov|мальостров
+64.1000,35.2667,lapino|laapina|laappina|лапино
+64.2371,35.8764,kolezhma|kolejma|koleshma|kolezma|koležma|kuolisma|колежма
+64.0333,35.2333,khvoynyy|khvojnyj|хвойный
+64.2667,35.9167,krasnayashchelya|krasnajashhelja|краснаящелья
+64.6794,35.5610,bolshoyzhuzhmuy|bolshojzhuzhmuj|большойжужмуй
+64.6676,35.5946,makritka|макритка
+64.1895,35.5610,tegozero

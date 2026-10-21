@@ -1,0 +1,15 @@
+52.7000,135.7833,yasnyy
+52.2841,135.4155,yashkino
+52.3500,135.8833,vesenniy|ivanovskaya|orogo
+52.2837,135.8012,vesëlayagorka|veselayagorka|veselajagorka|vesjolajagorka|веселаягорка
+52.3833,135.6167,salauli|салаули
+52.1038,135.3531,poputnyy|poputnyj|попутный
+52.1500,135.6333,nilamokit|afanasyevskiy|ниламокит
+52.2833,135.4167,medvezhiy|medvezhij|медвежий
+52.6883,135.7370,kamakan|камакан
+52.2967,135.6143,gongren|гонгрен
+52.3147,135.8317,briakan|бриакан
+52.2680,135.7657,glavnyystan|glavnyjstan|главныйстан
+52.2191,135.7222,vesëlyy|veselyy|veselyj|vesjolyj|веселый
+52.2971,135.8091,pervyyklyuch|pervyjkljuch|первыйключ
+52.6489,135.7968,yasnyy|jasnyj|ясный

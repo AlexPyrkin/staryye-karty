@@ -1,0 +1,11 @@
+62.4000,73.2333,teulinav
+62.2333,73.6000,teulinap
+62.1000,73.8167,sopochinaz|сопочиназ
+62.6167,73.5333,sopochinam|сопочинам
+62.0500,73.7833,sopochina|uriypugol|сопочина
+62.1333,73.4667,russkiyn|russkijn|русскийн
+62.1538,73.6010,russkinskiye|russkinskaja|russkinskie|русскинская|русскинские
+62.6333,73.1667,pokaachëvap|pokaachevap|pokaachjovap|покаачевап
+62.5500,73.5833,nokachevas|нокачевас
+62.4333,73.1333,kochevaya|kochevaja|kochevyye|kotsjevaja|кочевая
+62.2000,73.4500,kechimovaa|кечимоваа

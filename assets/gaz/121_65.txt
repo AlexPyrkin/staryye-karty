@@ -1,0 +1,8 @@
+65.6381,121.6133,syngot
+65.7540,121.5410,staroyelinde|staroelinde|staryjlinde|староелинде|старыйлинде
+65.6894,121.7131,orgystyr|оргыстыр
+65.1833,121.0000,khomustakh|хомустах
+65.1167,121.0167,kegechakh|кегечах
+65.5900,121.9683,borolgustakh|боролгустах
+65.2000,121.2000,billeekh|billeehkh|billyakh|биллеэх
+65.9500,121.6000,andylyr|андылыр

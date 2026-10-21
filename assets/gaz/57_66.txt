@@ -1,0 +1,10 @@
+66.0000,57.7000,parma|парма
+66.3559,57.3414,khatayakha|khatayaga|khatajakha|хатаяха
+66.4578,57.1269,pripolyarnyy|pripoljarnyj|приполярный
+66.4608,57.1608,vozey|vozej|возей
+66.0087,57.5305,usinsk|oesinsk|oussinsk|usk|usinska|uskar|ussinsk|uszinszk|awsynsk|wuxinsike|усинск|усинскбалһсн|ускар|усінск|усінськ|أوسينسك|اوسینسک|烏辛斯克
+66.0331,57.4331,usador|усадор
+66.1333,57.3167,michayël|michayel|michael|michajol|mitsjajel|мичаель
+66.3696,57.2984,npzenisej
+66.2257,57.2446,burovaya
+66.1490,57.3370,npsusa

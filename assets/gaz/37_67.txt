@@ -1,0 +1,5 @@
+67.7029,37.1564,semiostrovye|semiostrove|semiostrovskiypogost|семиостровье
+67.3327,37.1345,oksino|оксино
+67.3510,37.0483,krasnoshchelye|krasnayashcelya|krasnoshhele|krasnosjtsjelje|краснощелье
+67.2667,37.7667,kamenskiy|izbakamenka|kamenka|kamenskij|kamenskiypogost|letnikkamenskiypogost|каменский
+67.1679,37.5947,chalmnyvarre|chalmnavaray|chalmnyvarreh|ivanovka|tsjalmnyvarre|чальмныварре|чальмнываррэ

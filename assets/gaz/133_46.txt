@@ -1,0 +1,13 @@
+46.1610,133.9921,znamenka|знаменка
+46.2147,133.8924,tartyshëvka|tartyshevka|tartyshevskiy|tartyshjovka|тартышевка
+46.0881,133.8533,sukhanovka|сухановка
+46.5884,133.9236,sopkikulebyakiny|sopkikulebjakiny|сопкикулебякины
+46.4833,133.8667,nizhnenikolskiy|nizhnenikolskij|nizhnenikolskoye|нижненикольский
+46.4444,133.9141,nizhnemikhaylovka|nizhnemikhaylovskaya|nizhnemikhaylovskiy|nizhnemikhaylovskoye|nizhnemikhajlovka|nizjnemikhajlovka|novomikhaylov|novomikhaylovskoye|нижнемихайловка
+46.0831,133.7355,knyazhevka|knjazhevka|knjazhevskoe|knyazherskiy|knyazhevskoye|княжевка|княжевское
+46.1968,133.9517,guberovo|губерово
+46.3422,133.9193,chërnayarechka|chernayarechka|chjornajarechka|чернаяречка
+46.0382,133.7818,ebergard|ehbergard|эбергард
+46.1201,133.8764,chaldanka|чалданка
+46.1467,133.8831,kamenushka|каменушка
+46.1894,133.9408,novostroyka|novostrojka|новостройка

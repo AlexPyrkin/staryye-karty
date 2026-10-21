@@ -1,0 +1,5 @@
+58.1333,124.7833,tommot
+58.8308,124.9935,tobuk|тобук
+58.4667,124.9000,pobedasotsializma|pobedasocializma|tovarishchestvopobedasotsializma|победасоциализма
+58.4296,124.9426,imenichkalova|именичкалова
+58.4762,124.3577,perekratnyy|perekatnyj|perekratnyj|перекатный|перекратный

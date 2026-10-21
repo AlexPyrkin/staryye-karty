@@ -1,0 +1,9 @@
+59.2167,71.9000,syrovskiye|yurtysyrovskiye
+59.8500,71.9000,sorovskiyeyurty|sorovskiejurty|yurtysorovskiye|соровскиеюрты
+59.9085,71.5738,sorovskiye|sorovskie|sorovskije|соровские
+59.5116,71.6582,kaimykova|каимыкова
+59.1715,71.2479,ebudor|ebutor|ehbudor|эбудор
+59.3656,71.0794,bolshoykunyak|bolshojkunjak|kunyagompugol|большойкуньяк
+59.0172,71.6788,kalemyaga|kalemjaga|калемьяга
+59.0668,71.3222,nemchinovo|немчиново
+59.6245,71.1860,keum|кеум

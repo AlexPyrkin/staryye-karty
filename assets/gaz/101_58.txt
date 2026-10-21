@@ -1,0 +1,6 @@
+58.9846,101.3105,verkhnyayakezhma
+58.9333,101.9833,selengino|selenga|селенгино
+58.9706,101.8581,panovo|panovskoye|паново
+58.8833,101.0000,kutarey|kutarej|кутарей
+58.9686,101.1186,kezhma|keima|kezhemsk|kezjma|кежма
+58.9339,101.5867,aksënovo|aksenovo|aksenova|aksjonovo|aksënova|аксеново

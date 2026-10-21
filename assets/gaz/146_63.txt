@@ -1,0 +1,12 @@
+63.4043,146.5685,ustkhakchan|ustkhaktsjan|устьхакчан
+63.7333,146.2167,tamgalen|dalniy|tangalen
+63.5333,146.3000,privetlivaya|privetlivaja|приветливая
+63.7442,146.1128,ozërnoye|ozernoye|ozernaya|ozernoe|ozernoje|ozjornoe|озерное
+63.2993,146.9128,kontrandya|kontrandja|контрандья
+63.6167,146.3333,khudzhakh|khujakh|худжах
+63.4000,146.4667,imenidvadtsatpyatogooktyabrya|imenidvadcatpjatogooktjabrja|pochtovaya|именидвадцатьпятогооктября
+63.3000,146.6500,gryaznyy|grjaznyj|грязный
+63.0000,146.9667,arkagalinskaya|arkagalinskaja|аркагалинская
+63.1532,146.9413,arkagala|ugolny|ugolnyy|ugolnoy|аркагала
+63.6667,146.2500,amonalnaya|amonalnaja|амональная
+63.2949,146.6454,talyuryakh|taljurjakh|талюрях

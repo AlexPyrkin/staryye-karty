@@ -1,0 +1,10 @@
+66.4009,36.5909,varzuga|varzukha|варзуга
+66.2673,36.9483,ustyevarzugi|ustvarzuga|ustevarzugi|ustyerekivarzugi|ustjevarzugi|устьеварзуги
+66.2833,36.5167,tolstoye
+66.2890,36.8502,kuzomen|kuzomenskiy|кузомень
+66.3383,36.0104,kashkarantsy|kashkarancy|kasjkarantsy|кашкаранцы
+66.3172,36.2261,malayatochilna|malajatochilna|малаяточильна
+66.2886,36.4792,stepanovskaya|stepanovskaja|степановская
+66.3204,36.7411,kolonikha|колониха
+66.2974,36.8721,podnevodye|podnevode|подневодье
+66.2929,36.4039,turbazalodochnyjruchej

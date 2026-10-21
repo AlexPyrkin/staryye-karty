@@ -1,0 +1,9 @@
+64.7833,144.8167,verkhneantagachakskiy|verkhneantagachanskiy
+64.6000,144.5000,ustanka|indigirskij|indigirskiy|индигирский|устьанка
+64.4667,144.6000,tagynya
+64.3667,144.7333,promezhutochnyy|promezhutochnyj|промежуточный
+64.4364,144.9026,pobeda|победа
+64.6167,144.1667,perevalnaya|perevalnaja|перевальная
+64.4167,144.0667,kylaybyt
+64.4206,144.7112,burustakh|bustakh|бурустах
+64.4375,144.3042,uchastokalachubuk|участокалачубук

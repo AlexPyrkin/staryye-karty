@@ -1,0 +1,13 @@
+68.4019,160.6998,zludyanka
+68.4831,160.4869,yermolova
+68.5000,160.5000,yamki
+68.5152,160.3583,volochëk|volochek|volchek
+68.5088,160.6169,verkhniyeyamki
+68.6667,160.6333,plikhina|плихина
+68.6333,160.7500,pesterëva|pestereva|pesterjova|пестерева
+68.5313,160.9233,nizhnekolymsk|lowerkolymsk|nizjnekolymsk|нижнеколымск
+68.4833,160.7000,malmikha|мальмиха
+68.7000,160.8000,krestovka|крестовка
+68.3667,160.6000,dveviski|twotemples|двевиски
+68.3167,160.8333,bogatenki|богатенки
+68.2333,160.8333,antokhina|антохина

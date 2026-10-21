@@ -1,0 +1,9 @@
+50.9407,49.2685,tsementnyy|cementnyj|trikhachev|vostochnyj|vostochnyy|восточный|цементный
+50.8071,49.1406,staryyzizevskiy|starozizevskij|starozizevskiy|staryjzizevskij|staryylizevskiy|старозизевский|старыйзизевский
+50.9523,49.1350,oktyabrskiy|alimovskiy|krasnorechenskiy|oktjabrskij|октябрьский
+50.8071,49.1253,novozizevka|novosisevka|novozizevskiy|новозизевка
+50.9025,49.1366,krasnoozërnyy|krasnoozernyy|korovin|krasnoozernyj|krasnoozjornyj|красноозерный
+50.9239,49.3526,khorolskiy|kharolskiy|khoralskiy|khorolskij|хорольский
+50.9816,49.0276,preobrazhenka|преображенка
+50.8980,49.0587,stepnoy|stepnoj|степной
+50.8455,49.3414,pindeyev|pindeev|пиндеев

@@ -1,0 +1,3 @@
+65.0136,-175.8450,enmelen|bering|ehnmelen|enmilen|enmylin|enmylyn|энмелен
+65.0500,-175.8000,valkatlen|valkalten
+65.4000,-175.9333,neran|redkin|redkino|redkimo|неран

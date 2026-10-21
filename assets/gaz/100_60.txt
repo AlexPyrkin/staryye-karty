@@ -1,0 +1,5 @@
+60.8023,100.4687,zimovyepriduta|priduta|stanovishchepriduta
+60.5162,100.4728,zimovyekumto|kumto
+60.2500,100.1833,solzavod|сользавод
+60.2833,100.9167,soba|соба
+60.2628,100.4739,oskoba|faktoriyaoskoba|oskova|оскоба

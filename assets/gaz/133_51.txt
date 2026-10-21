@@ -1,0 +1,12 @@
+51.3000,133.7500,yankan
+51.2500,133.6333,vasilyevskiy
+51.6318,133.2990,ustumalta|umalta|устьумальта
+51.5283,133.9913,usman|усмань
+51.9295,133.5659,umalta|polovinka|ulmatinskiy|umaltinskiy|umaltinskij|zaimkapolovinka|умальта
+51.5833,133.9167,mogdy|могды
+51.4833,133.1000,iorokhan|ierokhan|ijerokhan|иерохан|иорохан
+51.5333,133.1833,iorik|erik|jerik|yerik|ерик|иорик
+51.1306,133.0020,chegdomyn|chagdamin|chagdamyn|tsjegdomyn|чегдомын
+51.3939,133.1079,aleksandrovskiy|aleksandrovskij|александровский
+51.6334,133.2593,shakhtinskiy|shakhtinskij|шахтинский
+51.4001,133.0539,oktyabrskiy|oktjabrskij|октябрьский

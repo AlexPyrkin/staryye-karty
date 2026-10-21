@@ -1,0 +1,13 @@
+61.2011,69.8782,zenkovo|зенково
+61.2175,69.0691,trenka|тренька
+61.1333,69.6667,sumkino|сумкино
+61.1667,69.8167,spirina|spirino|спирина|спирино
+61.3236,69.7536,skripunova|skripunovo|skripunovskoye|скрипунова
+61.0903,69.4464,shapsha|shapshinskaya|sjapsja|шапша
+61.7939,69.3897,pyzhyan|pyzhjan|pyzjan|пыжьян
+61.4044,69.2217,pyryakh|pyrjakh|пырьях
+61.2500,69.0833,pashkinskiye|pashkinskie|пашкинские
+61.2908,69.5561,nyalinskoye|njalina|njalinskoe|nyalino|nyalinskiy|нялина|нялинское
+61.3667,69.1167,kyshik|kysjik|кышик
+61.0019,69.0273,khantymansiysk|chantimansiisk|chantymansijskas|chantymansiejsk|chantymansijsk|chantymansyjsk|hma|hantimansiisk|hantimansijsk|hantimansiysk|hantimanszijszk|hantimansijska|hantomansiisk|hantymansijsk|hantîmansiisk|hantõmansiisk|hantımansiysk|jantymansisk|jograkar|jomvosh|khantimansijsk|khantimansisk|khantymansisk|khantymansiisk|khantymansijsk|khantymansiïsk|ostyakovogulsk|xantimansi|xantimansiysk|hantemanxisike|hantimansiseukeu|hntymnsysq|kanitimanisisiki|khantimanasiyaska|khantimansisaka|khantimansiyaska|khantymansyysk|khantymnsysk|khantymansysk|ĥantimansijsk|емвош|йӧгракар|хантимансийск|хантимансијск|хантимансійськ|хантымансийск|хантымансійск|խանտիմանսիյսկ|חנטימנסיסק|خانتيمانسييسك|خانتیمانسیئسک|خانتیمنسیسک|خانتیمانسیسک|خانتیمانسییسک|खतमसयसक|খনতমনসযসক|ਖਤਮਸਸਕ|ხანტიმანსიისკი|ካንቲማንሲስክ|ハンティマンシースク|汉特曼西斯克|한티만시스크
+61.1000,69.8667,gorodishche|gorodishhe|gorodisjtsje|городище

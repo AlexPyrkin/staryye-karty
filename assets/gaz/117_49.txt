@@ -1,0 +1,13 @@
+49.6514,117.3267,zabaykalsk|otpor|zabajkalsk|забайкальск
+49.9742,117.5638,verkhniykaltan|verkhnijkaltan|верхнийкалтан
+49.7010,117.8860,rudnikabagaytuy|abagaitui|abagaytuy|rudnikabagajtuj|рудникабагайтуй
+49.6500,117.4333,bugutur|бугутур
+49.8274,117.1026,bilyutuy|bilituj|bilituy|biljutuj|билитуй|билютуй
+49.5833,117.8333,abagaytuy|abagajtuj|абагайтуй
+49.6722,117.2435,nagadan|нагадан
+49.6955,117.2713,chikhortuy|chikhortuj|чихортуй
+49.5507,117.8336,molokanka|молоканка
+49.6156,117.6207,kuladzha|куладжа
+49.7245,117.2766,matsiyevskaya|macievskaja|мациевская
+49.5679,117.7546,negatuy|negatuj|негатуй
+49.8633,117.3354,gavlyubulak|gavljubulak|гавлюбулак

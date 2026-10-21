@@ -1,0 +1,9 @@
+65.9814,56.9094,ustusa|ustussa|usvavom|устьуса
+65.6813,56.6785,ustlyzha|ustlyzja|устьлыжа
+65.9000,56.8167,polyakurya|poljakurja|полякурья
+65.0333,56.4333,mokhovaya|mokhovaja|моховая
+65.6667,56.6667,lyzha|лыжа
+65.0375,56.6374,kamenka|каменка
+65.1060,56.9880,izyayu|izujaju|изъяю
+65.0142,56.5829,berëzovka|berezovka|berjozovka|березовка
+65.8386,56.7563,akis|akichi|smolnyy|smolnyymaterik|акись

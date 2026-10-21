@@ -1,0 +1,3 @@
+60.8967,89.6893,zotino|zotina|зотино
+60.6999,89.9686,tankovo|tonkovo
+60.0180,89.4240,mayskoye|majskoe|майское

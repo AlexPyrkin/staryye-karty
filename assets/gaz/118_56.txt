@@ -1,0 +1,12 @@
+56.7667,118.5333,ukianovykh
+56.4833,118.9833,soyuzzoloto|sojuzzoloto|союззолото
+56.5971,118.5200,naminga|namenga|наминга
+56.9662,118.3179,kyustkemda|kjustkemda|кюстькемда
+56.9033,118.2590,chara|czr|char|starajachara|стараячара|чара
+56.9989,118.7737,ikabya|ikabja|икабья
+56.7528,118.3075,udokan|удокан
+56.7968,118.2695,novayachara|novajachara|novajatsjara|новаячара
+56.8602,118.5998,unkur|ункур
+56.6157,118.4278,geologicheskiyposëloknirungnakan|geologicheskiyposeloknirungnakan|geologicheskijposjoloknirungnakan|геологическийпоселокнирунгнакан
+56.5719,118.4715,zaozërnyy|zaozernyy|zaozjornyj|заозерный
+56.4612,118.6725,chineyskiyuchastok|chinejskijuchastok|чинейскийучасток

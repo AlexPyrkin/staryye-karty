@@ -1,0 +1,8 @@
+52.5000,130.7333,ustinkindisk|ustinkidynsk|ustinkindikan|ustinkindinsk
+52.4500,130.7333,tulupovskoye
+52.5333,130.7500,polovinka|половинка
+52.4333,130.1500,mitroshenskoye|mitroshenskoe|митрошенское
+52.4564,130.8761,fevralsk|fevralskiy|fevralskoe|fevralskoye|fevralskiv|февральск|февральское
+52.4077,130.5232,byssa|бысса
+52.4333,130.1333,afanasyevskoye|afanasevskoe|afanasyevskiy|afanasievskoje|афанасьевское
+52.4897,130.8819,fevralskoye|fevralskoe|февральское

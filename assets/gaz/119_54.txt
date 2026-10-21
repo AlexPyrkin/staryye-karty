@@ -1,0 +1,7 @@
+54.4605,119.9316,zarechnoye|chetvertyykilometr|chetvërtyykilometr|zarechnoe|zaretsjnoje|заречное
+54.4280,119.9420,tupik|tulik|тупик
+54.9333,119.5000,tsvetmetzoloto
+54.1000,119.3500,nikolayevskiy|nikolaevskij|николаевский
+54.2667,119.4667,kropachëv|kropachev|kropachjov|кропачев
+54.3000,119.8333,kavykta|кавыкта
+54.0274,119.8388,kadacha|кадача

@@ -1,0 +1,17 @@
+57.7167,115.5667,zavitaya|poselokzavitinskiy|posëlokzavitinskiy|zavitinski|zavitinskiy|zovitinski
+57.2667,115.1333,zakrytyy|zakryty
+57.6000,115.3000,vereshchagino
+57.7667,115.0167,suvorova|zimniksuvorova
+57.7500,115.2167,sinyuga|sinjuga|синюга
+57.7500,115.1500,radost|радость
+57.5167,115.5167,oporog|опорог
+57.4633,115.3142,nerpo|nerpinskaya|нерпо
+57.7167,115.2833,maksimovskoye|maksimovskoe|максимовское
+57.5000,115.3000,maksimova|максимова
+57.8000,115.0500,khrustalnayakaskada|khrustalnajakaskada|хрустальнаякаскада
+57.0174,115.8887,karalon|kharalon|korolon|каралон
+57.2656,115.2314,chayandra|chajandra|tsjajandra|чаяндра
+57.3005,115.2335,irbo|ирбо
+57.2984,115.3038,kuikta|куикта
+57.2321,115.5023,orlovka|орловка
+57.0916,115.8468,uchastokdvenadtsatyykilometr|uchastokdvenadcatyjkilometr|участокдвенадцатыйкилометр

@@ -1,0 +1,7 @@
+69.6637,84.4077,ustport|usteniseiskiport|ustyeniseiport|ustveniseyskiyport|ustyeniseyskiyport|устьпорт
+69.7125,84.0917,selyakino|izbaselyakino|seljakino|селякино
+69.9667,84.1500,notoga|нотога
+69.8000,84.8333,malyshevka|faktoriyamalyshevka|малышевка
+69.5650,84.5494,malayakheta|malajakheta|малаяхета
+69.4000,84.3667,geologicheskiy|geologicheskij|геологический
+69.3264,84.3681,tukhart|тухарт

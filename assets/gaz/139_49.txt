@@ -1,0 +1,6 @@
+49.9833,139.9167,mulidatta|mulidata|мулидатта
+49.3000,139.2833,dzhausa|джауса
+49.8850,139.9561,tuluchi|тулучи
+49.9973,139.8728,koto|кото
+49.1272,139.8329,tayëzhnyy|tayezhnyy|tajozhnyj|таежный
+49.2803,139.9495,tëplyyklyuch|teplyyklyuch|tjoplyjkljuch|теплыйключ

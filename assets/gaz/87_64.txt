@@ -1,0 +1,6 @@
+64.2424,87.5754,vereshchagino|vereshhagino|veresjtsjagino|yamskaya|верещагино
+64.7331,87.7681,tatarskoye|peskoyeskaya|tatarsk|tatarstoye|татарск
+64.8667,87.8500,pupkovo|pulkovo|pulnodo|pupkovskaya|пупково
+64.0333,87.5667,markovo|fatyanovskoye|markova|марково
+64.6167,87.6167,chernoostrovskoye|chernoostrovsk|chernoostrovskoe|novikskaya|tsjernoostrovsk|черноостровск|черноостровское
+64.4333,87.5833,baklanikha|бакланиха

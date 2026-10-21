@@ -1,0 +1,12 @@
+46.4519,135.8277,vostok|vostokvtoroy|восток
+46.7167,135.5500,valikan|fanzatakholo|takholo
+46.6000,135.4167,sigou|сигоу
+46.5382,135.3370,olon|олон
+46.6249,135.4224,nizhneyeselo|nizhneeselo|siin|syain|syaindtsza|syaintsza|syandtsza|нижнеесело
+46.5410,135.3619,krasnyyyar|krasnyjjar|красныйяр
+46.5833,135.0667,kapshanza|капшанза
+46.0681,135.3885,glubinnoye|glubinnoe|glubinnoje|sibichi|глубинное
+46.7333,135.6833,fandulaza|фандулаза
+46.6031,135.4072,yasenevyy|jasenevyj|ясеневый
+46.5414,135.3610,krasnyyyar|krasnyjjar|красныйяр
+46.6770,135.4355,sobolinyy|sobolinyj|соболиный

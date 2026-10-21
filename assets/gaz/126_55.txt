@@ -1,0 +1,4 @@
+55.0500,126.8000,unakha|skladunakhinskiy|unakhinskiy|unikhinskiystorehouse
+55.7000,126.1833,sutam
+55.4380,126.3329,zimovkapetrovskoye|petrovskoe|petrovskoye|petrovskoyehomestead|zimovepetrovskoe|zimovyepetrovskoye|zimovkapetrovskoe|зимовкапетровское|зимовьепетровское|петровское
+55.1302,126.7816,dipkun|dypkwn|дипкун|دیپکون

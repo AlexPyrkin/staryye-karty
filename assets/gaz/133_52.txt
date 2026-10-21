@@ -1,0 +1,15 @@
+52.9683,133.5985,zlatoustovsk|златоустовск
+52.3667,133.7500,zinaidinskiy
+52.8833,133.4333,voskresenskiy
+52.6667,133.5500,verkhnyayatalama
+52.9000,133.6000,ugolnyy|regakan
+52.2560,133.9931,sofiysk|sofiiskiy|sofijsk|sofiyskiy|sosiiskiipriisk|софийск
+52.2500,133.9333,sergeyevskiy|sergeevskij|сергеевский
+52.8839,133.4151,olginsk|olginskiy|ольгинск
+52.9500,133.6167,kitayskayaderevnya|kitajskajaderevnja|shadrinskiy|китайскаядеревня
+52.8652,133.4077,ivanovskoye|ivanovskiy|ivanovskoe|ivanovskoje|ивановское
+52.9833,133.3667,ingagli|ингагли
+52.8167,133.3833,imenivoroshilova|krylova|имениворошилова
+52.9333,133.6667,elgakan|ehlgakan|elgakanskiy|эльгакан
+52.2167,133.8167,chudinovskiy|chudinovskij|mavrikiyevskiy|чудиновский
+52.1667,133.8833,buryatskiy|burjatskij|бурятский

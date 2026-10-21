@@ -1,0 +1,5 @@
+60.1875,165.4670,vyvenka|vivinskopointvillage|vivinskoevillage|vivnik|vyvenko|vyvenskoye|vyvnyk|вывенка
+60.2500,165.6333,otpryadyshi|otprjadyshi|otpryadoshi|otpryadöshi|отпрядыши
+60.2667,165.7500,medvezhska|medvezhka|medvezjka|медвежка|медвежска
+60.3333,165.9000,korfovskiy|korfovskij|korfovskiykombinat|korfovskiyrybnyykombinat|корфовский
+60.0797,165.1610,geka|гека

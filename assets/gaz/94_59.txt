@@ -1,0 +1,3 @@
+59.1630,94.1768,yeremenskiy|ereminskij|jereminskij|ереминский
+59.2264,94.0817,konduyak|ajakhta|ayakhta|kondujak|аяхта|кондуяк
+59.7333,94.4000,bugarikhta|бугарихта

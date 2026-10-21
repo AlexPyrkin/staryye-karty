@@ -1,0 +1,11 @@
+51.6694,101.8324,bolshoyzangisan|bolshojzangisan|poselokzangisansk|poselokzangisanskiy|posëlokzangisansk|posëlokzangisanskiy|zangisan|zangisanskiy|большойзангисан
+51.6891,101.9893,yeloty|eloty|jeloty|yelety|елоты
+51.6667,101.5833,verkhniyboru
+51.6362,101.6565,turan|туран
+51.6931,101.6787,nilovka|nilovapustyn|ниловапустынь|ниловка
+51.6476,101.3882,moygoty|mogoyty|mojgoty|мойготы
+51.6667,101.5333,khutun|khutul|kutul|хутун
+51.7037,101.5223,khoytogol|khaitogol|khoitogol|khojtogol|uluskhoytogol|хойтогол
+51.6715,101.1938,kharadaban|харадабан
+51.6489,101.9974,shimkimskiysenopunkt|shimkimskijsenopunkt|shimkinskiysenopunkt|шимкимскийсенопункт
+51.6192,101.6271,turanskiysenopunkt|turanskijsenopunkt|туранскийсенопункт

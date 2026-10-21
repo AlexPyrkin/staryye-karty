@@ -1,0 +1,8 @@
+65.0370,47.5307,zhitel|zhiteli|zjitel|житель
+65.6848,47.5541,yëlkino|yelkino|elkino|jelkino|jolkino|елкино
+65.6689,47.6921,safonovo|сафоново
+65.2833,47.7500,izbaskuzmina|skuzmina|избаскузьмина
+65.2833,47.9667,izbakyamova|izbakamovo|izbakjamova|kamovo|избакямова
+65.2333,47.4833,izbakuzmina|izbagkuzmina|kuzmina|избакузьмина
+65.3000,47.9167,izbaanachik|anachin|izbaanachin|избааначик
+65.0981,47.1604,sukhrassokha|сухрассоха

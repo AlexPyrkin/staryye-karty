@@ -1,0 +1,6 @@
+57.6333,135.4000,solovyëva|solovyeva|solovjova|соловьева
+57.6667,135.5000,maymakan|majmakan|маймакан
+57.7500,135.3667,marokon|марокон
+57.6802,135.4533,khakhar|uchakhr|хахар|хахарь
+57.5459,135.8857,dzhigda|dzjigda|джигда
+57.8833,135.2333,diktik|dikhtik|диктик

@@ -1,0 +1,12 @@
+61.7833,76.2333,yukonyakonpul
+61.9333,76.7167,sardakova|сардакова
+61.9449,76.6625,novoagansk|novoagansko|nowoagansk|nwwwaqanzk|xinagansike|новоаганск|новоаганськ|նովոագանսկ|نووواقانزک|新阿甘斯克
+61.0343,76.1068,megion|majon|maron|mayon|megijon|megiono|meguion|meqion|miegion|mjegion|meijiweng|mgywn|myjwn|майон|мегион|мегіен|ميجون|مگیون|メギオン|梅吉翁|메기온
+61.0500,76.3000,mega|мега
+61.0333,76.8167,malayatarkhova|malajatarkhova|malytarkhovy|malyyetarkhovy|yurtytarkhovy|малаятархова
+61.0599,76.9580,vodozabor|водозабор
+61.0883,76.9224,peschanyymys|peschanyjmys|песчаныймыс
+61.4172,76.1690,aganskoemestorozhdenie
+61.1119,76.0159,vatinskoemestorozhdenie
+61.1259,76.6510,samotlorskoemestorozhdenie
+61.3760,76.6781,samotlorskoemestorozhdeniedns

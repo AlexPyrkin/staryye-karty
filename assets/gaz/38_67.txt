@@ -1,0 +1,4 @@
+67.9000,38.1833,osenniysemiostrovskiypogost|osensemiostrovye|osennijsemiostrovskijpogost|осеннийсемиостровскийпогост
+67.0623,38.5740,lebyazhye|lebjazhe|lebjazje|лебяжье
+67.3295,38.7865,iokangskiy|iokangskij|iokangskiyzimniypogost|zimnikiokange|zimnyayaiokanskiypogost|zimnyayayokanga|иокангский
+67.6555,38.4978,lagerjokangasuhaya

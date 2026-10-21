@@ -1,0 +1,6 @@
+50.9333,134.3833,urkalytu
+50.8685,134.2143,talidzhak|talidzjak|талиджак
+50.7167,134.0333,orokot|орокот
+50.8065,134.1210,gerbi|герби
+50.9876,134.4231,badzhal|badzjal|bajal|баджал
+50.6961,134.8992,posëlokgeologovbadzhal|poselokgeologovbadzhal|posjolokgeologovbadzhal|поселокгеологовбаджал

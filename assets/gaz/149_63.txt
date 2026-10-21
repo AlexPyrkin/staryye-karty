@@ -1,0 +1,4 @@
+63.1270,149.3676,eschan|ehschan|estsjan|staryjehschan|staryyeschan|старыйэсчан|эсчан
+63.1596,149.9689,izvestkovyy|izvestkovaya|izvestkovyj|известковый
+63.1932,149.2520,bolonoye|bolonoe|болоное
+63.3021,149.0748,molodëzhnyy|molodezhnyy|molodjozhnyj|молодежный

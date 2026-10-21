@@ -1,0 +1,10 @@
+47.5333,139.1000,sonye|sone|сонье
+47.9000,139.1833,sitnikovklyuch|sitnikovkljuch|ситниковключ
+47.5036,139.0694,nemi|неми
+47.6522,139.1750,nelma|нельма
+47.6884,139.1961,lugovaya|lugovaja|lugovoye|луговая
+47.9846,139.5329,grossevichi|grosservicha|grossevicha|grossevitsji|гроссевичи
+47.7632,139.2433,bystraya|bystraja|быстрая
+47.5453,139.0935,ptichye|ptiche|птичье
+47.6761,139.0958,tretyazaimka|tretjazaimka|третьязаимка
+47.6624,139.1177,vtorayazaimka|vtorajazaimka|втораязаимка

@@ -1,0 +1,12 @@
+51.4632,156.8071,pauzhetka|pauzjetka|паужетка
+51.4862,156.6338,shumnyy|shumnyj|sjumnyj|шумный
+51.5151,156.7144,teplyy|teplyj|теплый
+51.5020,156.5214,zaporozhye|zaporozhe|zaporozhskaya|zaporozhskoye|zaporozje|запорожье
+51.7042,156.5042,yavina|yavino
+51.4960,156.5010,ozernovskiy|ozernaya|ozernovskij|ozernoye|озерновский
+51.9167,156.5000,otradnoye|otradnoe|отрадное
+51.7000,156.5000,koshegochek|koshegochen|koshegochik|koshogochek|koshogochik|кошегочек
+51.4667,156.8167,goryachiyeklyuchivtoryye|gorjachiekljuchivtorye|горячиеключивторые
+51.8833,156.7500,golygino|golygina|голыгино
+51.0500,156.8000,chashechka|чашечка
+51.4792,156.4917,ozërnyyzapadnyy|ozernyyzapadnyy|ozjornyjzapadnyj|озерныйзападный

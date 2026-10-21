@@ -1,0 +1,4 @@
+67.2347,39.6328,lumbovskaya|lumbovskaja|zimnelumbovskiy|zimnelumbovskiypogost|zimnyayalumbovka|лумбовская
+67.1280,39.6745,kanëvka|kanevka|kanjovka|каневка
+67.9833,39.8000,kachalovka|katsjalovka|качаловка
+67.9482,39.2908,lagerjokanga

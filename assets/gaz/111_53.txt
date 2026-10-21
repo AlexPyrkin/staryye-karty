@@ -1,0 +1,10 @@
+53.1667,111.6667,ustzaza|zaza|устьзаза
+53.6649,111.9461,ustdzhilinda|dzhilinda|ustdzjilinda|устьджилинда
+53.0667,111.4000,turkhel|turkel|turkhe|ulusturkhel
+53.1667,111.7333,saganuga|sagannuga|saganugoy|сагануга
+53.2167,111.8500,dzhergalan|zhergalan|джергалан
+53.7000,111.2667,chilir|чилир
+53.7333,111.8833,burulzay|burulzaj|бурульзай
+53.5994,111.8840,borto|борто
+53.0335,111.7032,posëlokgeologovulzyte|poselokgeologovulzyte|posjolokgeologovulzyteh|поселокгеологовулзытэ
+53.0611,111.6849,geologicheskiyposëlokulzutuy|geologicheskiyposelokulzutuy|geologicheskijposjolokulzutuj|геологическийпоселокульзутуй

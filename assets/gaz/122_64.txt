@@ -1,0 +1,8 @@
+64.5500,122.2333,sogobut|согобут
+64.4228,122.0422,seyat|sejat|siyet|сеят
+64.4810,122.7097,satagay|satagaj|сатагай
+64.6000,122.3833,mastakh|mastaakh|muostakh|мастах
+64.3902,122.2348,balagachchi|balagehchchy|балагаччи|балагэччы
+64.6833,122.2333,arkhangda|архангда
+64.5459,122.2423,kirovo|кирово
+64.4631,122.4153,zhdanovo|zjdanovo|жданово

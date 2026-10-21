@@ -1,0 +1,9 @@
+63.4000,123.1333,tymay
+63.8575,123.8431,sayylyk|sajylyk|unardakh|сайылык
+63.8333,123.5667,ortokyuyël|ortokyuyel|ortokjujol|ортокюель
+63.1167,123.9833,kholbolakh|холболах
+63.4167,123.3500,elgen|ehlgen|элген
+63.4879,123.1804,ebe|ebya|ehbe|khapchagai|khapchagaj|khapchagay|khapchagaya|khaptagay|khaptsjagaj|хапчагай|эбе
+63.0333,123.9833,bappagay|bappagaj|баппагай
+63.7116,123.7751,bagadya|bagadja|bagadzha|багадя
+63.8568,123.8376,sayiluik

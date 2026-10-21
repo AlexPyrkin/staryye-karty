@@ -1,0 +1,4 @@
+65.2789,39.8454,malyyekozly|malkozli|malikozlivillage|malyekozly|малыекозлы
+65.2542,39.8847,kozly|bolkozly|bolshiyekozly|козлы
+65.4795,39.7127,zimnegorskiy|zimnegorskij|зимнегорский
+65.6239,39.8738,veprevskiy|veprevskij|вепревский

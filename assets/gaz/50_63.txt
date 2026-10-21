@@ -1,0 +1,7 @@
+63.0489,50.8803,yevdino|evdino|jevdino|yelvino|евдино
+63.2160,50.9221,pytyryu|pytyrju|pytyruju|пытыръю
+63.4310,50.5478,pegysh|pechazhdor|pegyshdor|pegysj|пегыш
+63.3375,50.9146,meshchura|meshhura|meshura|mesjtsjura|mishura|мещура
+63.0164,50.8710,kerosskaya|keres|kerosskaja|kerës|керес|керосская
+63.3987,50.7460,sedyudor|sedjudor|sedujudor|седъюдор|седьюдор
+63.1208,50.6178,orsyu|orsuju|орсъю

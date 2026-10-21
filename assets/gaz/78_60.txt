@@ -1,0 +1,14 @@
+60.4492,78.2645,topolëvka|topolevka|topolevskiy|тополевка
+60.4167,78.1667,tobolgino|tobolgina
+60.2167,78.4500,staroakasomskaya|akasomskaya|staroakasomsk|staroakasomskaja|староакасомск|староакасомская
+60.9772,78.9842,okhteurye|okhteure|okhteurje|okhteurskiye|okhteurskiyeyurty|yurtyokhteurskiye|охтеурье
+60.2500,78.5833,novoakosomskaya|novoakasomsk|novoakasomskaya|novoakosomskaja|новоакасомск|новоакосомская
+60.1286,78.9333,nazino|nazina|naziny|назино
+60.2833,78.5167,megipugolskaya|mechipugolskaya|megipugolskaja|мегипугольская
+60.4031,78.2789,maloyevachpugolskoye|malvachpugolskoe|malvatsjpugolskoje|malovachpgolskiye|malovachpugolskoye|maloevachpugolskoe|малвачпугольское|малоевачпугольское
+60.3300,78.3942,lukashkinyar|lukashkinjar|lukasjkinjar|лукашкиняр
+60.9475,78.6075,lapchinskaya|lapchinskaja|laptsjinskaja|lobchinskiye|lopchinskiye|лапчинская
+60.2064,78.6928,krivolutskoye|krivoluckoe|krivolutskoe|krivolutskoje|криволутское|криволуцкое
+60.1500,78.1167,chapayevka|chapaevka|чапаевка
+60.3667,78.3500,bolshevachpugolskoye|bolshevachpugolskiye|bolshevachpugolskoe|большевачпугольское
+60.9548,78.7826,vakhovsk|ваховск

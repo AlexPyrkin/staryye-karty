@@ -1,0 +1,11 @@
+58.2611,109.1150,spoloshino|spoloshina|spolosjino|сполошино
+58.1900,109.3094,pushchina|pushchino|pushhina|pusjtsjina|пущина
+58.2500,109.6000,podlesnyak|podlesnjak|подлесняк
+58.3017,109.6386,mironovo|mironova|мироново
+58.3833,109.7167,mandra|mandrino|мандра
+58.2000,109.4000,ilinskaya|ilinskaja|ильинская
+58.2000,109.4167,ilina|ilino|ильина|ильино
+58.5131,109.7603,ichëra|ichera|ichjora|itsjera|ичера
+58.5833,109.9333,davydova|dauydova|davydovo|давыдова
+58.3500,109.6667,darino|darina|дарьина|дарьино
+58.2500,109.0500,berëzovka|berezovka|berjozovka|березовка

@@ -1,0 +1,17 @@
+52.1000,139.8167,zholmykh
+52.8554,139.9953,voskresenskoye|voskresenskaya|voskresenskoe|voskresenskoje|воскресенское
+52.9500,139.7000,ustamgun|usuchiamgum
+52.0254,139.7097,rezidentsiyaudylskaya|oparina|potapovka|rezidencijaudylskaja|udyl|udylskaya|резиденцияудыльская
+52.9307,139.7597,tyr|toiru|torushka|тыр
+52.1667,139.0665,somnitelnyy|somnitelnyj|сомнительный
+52.9209,139.1008,sergomikhaylovsk|sergiemikhajlovskoe|sergiyemikhaylovskoye|sergomikhajlovsk|сергиемихайловское|сергомихайловск
+52.2667,139.3000,serafimovskiy|serafimovskij|серафимовский
+52.4167,139.6000,olovyanka|olovjanka|оловянка
+52.9449,139.2426,knyazevo|knjazevo|князево
+52.9833,139.2333,khutorbobylëvka|khutorbobylevka|bakhireva|bobylevka|khutorbobyljovka|хуторбобылевка
+52.9723,139.7362,kalma|karima|кальма
+52.8667,139.4833,ivanovka|krymovka|ивановка
+52.7000,139.1000,ilinskiy|ilinskij|ильинский
+52.9287,139.8456,beloglinka|belayaglinka|белоглинка
+52.9000,139.9833,akcha|aksha|aktsja|tylmenskoye|акча
+52.6902,139.4247,oktyabrskiy|oktjabrskij|октябрьский

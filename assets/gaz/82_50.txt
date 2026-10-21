@@ -1,0 +1,17 @@
+50.9120,82.0168,yekaterininskoye|ekaterininskoe|jekaterininskoje|екатерининское
+50.8552,82.4432,verkhnyayaaleyka|verkhnyayaaleyskaya
+50.8167,82.0667,tolmachevskiy
+50.9325,82.3781,shipunikha|novoshipunovo|shipunova|shipunovo|shipunovskoe|shipunovskoye|sjipunikha|шипуниха
+50.9586,82.4692,semenovka|semenovskaya|semenovskoye|semënovskoye|семеновка
+50.8522,82.1511,ploskoye|ploskoe|ploskoje|плоское
+50.9328,82.1136,novokamyshinka|novokamyshenka|novokamyshenskiy|novokamysjenka|novyyekamyshenskiy|новокамышенка|новокамышинка
+50.8475,82.4086,novoaleyskoye|novoalejskoe|novoalejskoje|новоалейское
+50.9672,82.2747,pervokamenka|kamenka|kamenkapervaya|первокаменка
+50.7497,82.1650,dobrovolets|dobrovolec|доброволец
+50.9728,82.0389,novogaltsovka|novogalcovka|новогальцовка
+50.9228,82.4019,ivanovka|ивановка
+50.9125,82.0981,lopatinka|лопатинка
+50.9103,82.3342,krasnoyerazdolye|krasnoerazdole|krasnojerazdolje|красноераздолье
+50.8581,82.2761,kurayevka|kuraevka|кураевка
+50.8313,82.1929,svetlayazarya|svetlajazarja|светлаязаря
+50.8256,82.2928,borovlyanka|borovljanka|боровлянка

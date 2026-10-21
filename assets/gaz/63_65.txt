@@ -1,0 +1,7 @@
+65.4191,63.3947,yevreygort
+65.2417,63.5210,tiltim|pildymgort|тильтим
+65.0091,63.6229,ovolyngort|ovalingort|ovalyngort|овалынгорт|оволынгорт
+65.3258,63.4825,mugort|muntgort|muugort|мугорт
+65.0740,63.5951,lorovgort|larovagort|лоровгорт
+65.1658,63.5775,khorpungort|хорпунгорт
+65.9667,63.8500,azyakhovgort|aziakhovgort|azjakhovgort|azyakovy|yazyakhovy|азяховгорть

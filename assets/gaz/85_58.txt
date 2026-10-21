@@ -1,0 +1,14 @@
+58.5000,85.3500,zhirovaya
+58.1833,85.1833,yagodnyy
+58.2610,85.2302,yagodnoye|jagodnoe|jagodnoje|svetlyymys|ягодное
+58.4500,85.0000,shirokovo|shirokovy|yurtyshirokovy|широково
+58.5667,85.7000,muleshka|mulesjka|yurtymuleshka|мулешка
+58.5427,85.8622,klyukvinka|kljukvinka|klyukvenka|yurtyibesvkiny|клюквинка
+58.4771,85.5457,karelino|karelina|kareliny|yurtykareliny|карелино
+58.5500,85.9333,berëzovka|berezovka|berezovskiy|berjozovka|berëzovskiy|березовка
+58.4426,85.0452,belyyyar|belyyar|belyjjar|белыйяр
+58.6253,85.6022,makzyr|макзыр
+58.0282,85.4283,sayga|sajga|сайга
+58.7002,85.2248,lisitsa|lisica|лисица
+58.2788,85.1849,sandzhik|sandzjik|санджик
+58.9639,85.5856,vakhtovyyposëlok|vakhtovyyposelok|vakhtovyjposjolok|вахтовыйпоселок

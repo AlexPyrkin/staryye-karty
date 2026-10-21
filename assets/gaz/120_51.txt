@@ -1,0 +1,15 @@
+51.7904,120.3172,verkhnyayavereya|verkhnjajavereja|верхняяверея
+51.9817,120.6878,verkhneyebashurovo|bashurovo|verkhniybashur
+51.6333,120.0500,tarasovo|tarasovskiy
+51.9544,120.2007,talakan|талакан
+51.6817,120.0942,serednyaya|serednjaja|serednyanskiy|seredyanka|seredyanna|srednyaya|середняя
+51.9111,120.5721,nizhnyayavereya|nizhvereja|nizhnevereya|nizhnjajavereja|nizjvereja|vereya|нижверея|нижняяверея
+51.9958,120.6931,nizhneyebashurovo|bashurovo|nizhneebashurovo|nizhniybashur|нижнеебашурово
+51.6797,120.1647,mulachi|мулачи
+51.5988,120.0130,kamara|kamarinskiy|komarskiy|камара
+51.7481,120.2578,zapisina|ilyazapisina|ilya|zapisino|zapisyano|записина
+51.7389,120.2519,ilinskiy|ilinskij|ильинский
+51.8456,120.4450,dzhoktanga|toktanga|zhektanskoye|джоктанга
+51.5769,120.0224,argunsk|argunskaya|argunskiy|argunskoye|starayaargunskaya|аргунск
+51.9500,120.1333,alashir|alasjir|alishary|алашир
+51.6483,120.0733,novoseredyanka|novoseredjanka|новосередянка

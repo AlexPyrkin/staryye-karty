@@ -1,0 +1,12 @@
+63.3833,128.9167,ylgyndzha|ylgyndzja|ылгынджа
+63.0167,128.6333,uluusysa|ulusysy
+63.4167,128.4000,turakh
+63.6000,128.5167,tuostumary
+63.5500,128.1333,temirbaga
+63.4833,128.0167,sinnigesatakh|синнигесатах
+63.4500,128.1000,menkere|менкере
+63.3667,128.6000,khylbystakh|khalbylstakh|хылбыстах
+63.5000,128.2333,kenkho|кенхо
+63.7833,128.0167,eksenyakhta|ehksenjakhta|эксеняхта
+63.0000,128.2000,beskyuyele|beskjuele|mokhsogol|бескюеле
+63.4183,128.6374,bakycha|arylakh|bakytsja|bokycha|бакыча

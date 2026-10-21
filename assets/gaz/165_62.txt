@@ -1,0 +1,6 @@
+62.0833,165.3000,verkhnyayatalovka
+62.4879,165.1285,ustpenzhino|kamenskoe|kamenskoye|ustpenzjino|устьпенжино
+62.4500,165.7000,triyurty
+62.4167,165.2000,talovka
+62.4898,165.1791,pervayarechka|pervajarechka|pervaya|перваяречка
+62.4877,165.3457,manily|manilly|manilpy|manolli|manölli|манилы

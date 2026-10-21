@@ -1,0 +1,15 @@
+64.6703,47.8219,zasulye|zasule|zasulskaya|zasulje|засулье
+64.8500,47.5000,yakshiny
+64.0117,47.0484,vazhgort|vazhgorskoye|vazhgortsk|vazjgort|важгорт
+64.6497,47.8453,ustnizemskaya
+64.8310,47.4892,ustkyma|ustkym|устькыма
+64.8783,47.2893,paloshchelye|paloshchelskoye|paloshhele|palosjtsjelje|палощелье
+64.6349,47.8733,kyssa|кысса
+64.7527,47.6432,koynas|koinasskoye|kojnas|kolnas|koynass|койнас
+64.9198,47.0945,koneshchelye|koneshhele|konesjtsjelje|konetsshchelye|конещелье
+64.0333,47.0000,kacha|koyta|кача
+64.8414,47.5207,chukhari|chukhary|чухари
+64.8265,47.4556,chuchepala|tsjutsjepala|чучепала
+64.7513,47.7524,nenga|неньга
+64.8421,47.6185,gorevoye|gorevoe|горевое
+64.9492,47.8217,vizenga|визеньга

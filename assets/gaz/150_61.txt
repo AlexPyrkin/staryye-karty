@@ -1,0 +1,3 @@
+61.4667,150.5667,khurchan|хурчан
+61.2333,150.0000,khilgycha|хилгыча
+61.7100,150.6439,ekspeditsionnyy|ehkspedicionnyj|ekspditsionnoy|ekspditsionnöy|ekspeditsionniy|экспедиционный

@@ -1,0 +1,9 @@
+59.6667,132.8000,stal|сталь
+59.2667,132.4333,novyyput|novyjput|новыйпуть
+59.3833,132.8167,molot|молот
+59.8000,132.5000,kynynaydaakh|kynynaidakh|kynynakdakh|kynynekdakh
+59.6833,132.8167,evenki|ehvenki|эвенки
+59.2667,132.4000,dyachkovskogo|djachkovskogo|dyachkovskiy|дьячковского
+59.8922,132.5524,darany|дараны
+59.2500,132.4000,chapanda|чапанда
+59.3713,132.7260,bilir|билир

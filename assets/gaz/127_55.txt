@@ -1,0 +1,14 @@
+55.5333,127.0167,yasnyy
+55.8000,127.4667,viktorovskiy
+55.2667,127.8000,utugeya|zaimkautugeya
+55.9587,127.5941,sutam|sutim|сутам
+55.1333,127.8500,sibiryakova|sibirjakova|сибирякова
+55.4028,127.3777,oktyabrskiy|oktjabrskij|sedunovskoye|октябрьский
+55.5833,127.2000,malyydëss|malyydess|malyjdjoss|malyydzhes|malyyjeshomestead|zaimkamalyydzhes|zimovyemalyydess|малыйдесс
+55.7030,127.4788,delinda|dzhelindinskiy|dzhelindskiy|dzhilingdinskiy|jelinda|jilindinskiy|jilingdinskiy|делинда
+55.5833,127.7333,bryanta|brjanta|zaimkabryanta|брянта
+55.3333,127.0000,bolshoydëss|bolshoydess|bolshojdjoss|bolshoydzhes|bolshoyjeshomestead|zaimkabolshoydzhes|zimovyebolshoydess|большойдесс
+55.0000,127.9000,bezymyannoye|bezymjannoe|bezymjannoje|безымянное
+55.7667,127.5333,alekseyevskiy|alekseevskij|aleksejevskij|алексеевский
+55.7333,127.4500,aleksandrovskiy|aleksandrovskij|александровский
+55.0216,127.4600,tutaul|тутаул

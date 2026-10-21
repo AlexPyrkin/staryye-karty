@@ -1,0 +1,11 @@
+71.6667,83.1667,zverevsk|zvereva|zverevo|zverevskoye
+71.0372,83.3506,yakovlevka|jakovlevka|яковлевка
+71.6968,83.5569,vorontsovo|faktoriyavorontsova|voroncovo|vorontsova|воронцово
+71.8131,83.4256,volchya
+71.7167,83.1167,layda|lajda|лайда
+71.5500,83.6333,kazachiy|kazachij|казачий
+71.4167,83.4192,karepovsk|karepovskiy|кареповск
+71.5686,83.1461,innokentyevsk|faktoriyainnokentyevskaya|innokentevsk|innokentyevskaya|innokentjevsk|иннокентьевск
+71.7167,83.6000,golchikha|galchikha|goltschicha|гольчиха
+71.7750,83.4713,troitsk|troick|троицк
+71.7108,83.2306,layda|lajda|лайда

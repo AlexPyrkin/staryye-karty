@@ -1,0 +1,17 @@
+51.2386,96.2438,verkhniyshivey
+51.3667,96.3000,uzhepaksy|ustuzhep|ustuzjep|устьужеп
+51.3746,96.7106,unzheyaksy|ustundzhej|ustundzhey|ustunzhey|ustundzjej|устьунджей
+51.3167,96.2833,shivey|nizhniyshivey|shivej|шивей
+51.9667,96.3667,oyna|ojna|ойна
+51.4000,96.5667,okchary|oktsjary|окчары
+51.3167,96.4667,most|мость
+51.2833,96.4167,mikoye|mikoe|микое
+51.5667,96.2667,kunduk|kundus|кундук|кундус
+51.5667,96.1667,kudruk|кудрук
+51.9667,96.6500,kharal|khoralskiy|харал
+51.7167,96.0500,karaus|караус
+51.1667,96.7000,karabeldir|karabeldyr|карабельдир|карабельдыр
+51.6667,96.2500,kagzhirba|kagzjirba|kozherva|кагжирба
+51.9333,96.4167,demirzhi|demirzji|демиржи
+51.3667,96.4000,choduralyg|choduralyt|tsjoduralyt|чодуралыг|чодуралыт
+51.3667,96.2333,baybalyg|bajbalyg|stukalova|байбалыг

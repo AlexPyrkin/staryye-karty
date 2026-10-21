@@ -1,0 +1,10 @@
+49.8667,109.0833,ustburkal|ustburlak
+49.3592,109.1152,mayakkumyrskiy|kumorskiybeaconlight|majakkumyrskij|маяккумырский
+49.6833,109.0333,mashkovka|moshkovka|машковка
+49.8333,109.5500,kobachki|kabachki|кобачки
+49.7449,109.1212,dakituy|dakitui|dakituj|дакитуй
+49.8347,109.8601,chikokon|tsjikokon|чикокон
+49.2167,109.8500,ashinga|ashiga|ashinginskipost|ashinginskiy|ashingo|ashingsk|ashynga|asjinga|poselokashinginskiy|posëlokashinginskiy|ашинга
+49.8833,109.0667,altan|алтан
+49.8090,109.1516,bolshayarechka|bolshajarechka|большаяречка
+49.2258,109.6857,khudzherniga|худжернига

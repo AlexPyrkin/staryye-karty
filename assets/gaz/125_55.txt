@@ -1,0 +1,6 @@
+55.0500,125.3000,vernyy|vernoy|vernöy
+55.8333,125.0167,mogot|maksimovskoye|могот
+55.9167,125.0000,azovskiy|azovskij|азовский
+55.3120,125.8998,marevyy|marevyj|маревый
+55.3136,125.9328,rabochiyposëlok|rabochiyposelok|rabochijposjolok|рабочийпоселок
+55.8564,125.8084,yurskij

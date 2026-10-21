@@ -1,0 +1,9 @@
+50.5111,102.9176,yengorboy|engorboj|jengorboj|ulusyamburgoy|ulusyemburgoy|yemburgoy|yemburgoysettlement|енгорбой
+50.8267,102.7827,utata|ulusulat|утата
+50.9000,102.8167,uluskhabartanyrta|khabarta|khabartanyrta|uluskhabartanorta|uluskhabartanörta
+50.7306,102.7999,sanaga|datsansanaga|санага
+50.7000,102.8500,namtogol|nantogol|ulusnantogol|намтогол
+50.7500,102.8333,klyuchevskoye|kljuchevskoe|kluchovskiykut|klyuchevski|klyuchevskiy|klyuchevskoy|ключевское
+50.7667,102.8000,khuzhar|imenistalina|хужар
+50.8953,102.8853,dalakhay|dalakhaj|ulusdalakhay|далахай
+50.5667,102.9000,bilchir|бильчир

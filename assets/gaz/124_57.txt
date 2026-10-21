@@ -1,0 +1,5 @@
+57.3350,124.2357,yukhta
+57.1500,124.6833,razdolnaya|razdolnaja|razdolnoye|razdolnyy|раздольная
+57.4667,124.9833,polovinka|половинка
+57.2064,124.8111,bolshoyduray|bolshojduraj|большойдурай
+57.3801,124.8985,bolshayakhatyma|bolshajakhatyma|bolshiyekhatymi|bolshiyekhatymy|bolshojkhatymi|bolsjojkhatymi|khatymi|khatymy|большаяхатыма|большойхатыми

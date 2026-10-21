@@ -1,0 +1,6 @@
+68.4500,35.3500,voronyë|voronye|voronezhskiypogost|voroninskiy|voroninskiypogost|voroniypogost
+68.8847,35.6944,tumannyy|tumannyj|туманный
+68.8292,35.5421,serebryanskiy|serebrjanskij|серебрянский
+68.1000,35.1500,nivka|нивка
+68.0056,35.0187,lovozero|lovozeras|lovozerskiypogost|lowosero|lowozero|lujavri|lujavvr|lujávri|luovasjaervi|luovasjärvi|luujaervi|luujärvi|ловозеро|луяввр
+68.9887,35.7021,bolshoypadun|bolshojpadun|большойпадун

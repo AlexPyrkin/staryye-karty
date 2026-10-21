@@ -1,0 +1,8 @@
+54.1667,97.4000,sergeyevskiy|sergeevskij|sergiyevskiy|сергеевский
+54.0733,97.3797,pokrovsk|pokrovskiy|покровск
+54.4803,97.8253,neroy|biriusa|neroi|neroj|neroypervyy|нерой
+54.0167,97.5000,khoroy|khoroj|хорой
+54.1000,97.3833,katashnyy|katashnyj|katyshnyj|katysjnyj|каташный|катышный
+54.7226,97.4044,gutara|gutar|nizhgutara|nizhniygutara|nizjgutara|гутара|нижгутара
+54.0167,97.4000,andreyevskiy|andreevskij|andrejevskij|андреевский
+54.6743,97.3965,nizhnayyagutara|nizhnjajagutara|нижняягутара

@@ -1,0 +1,4 @@
+52.0833,114.2500,voznesensk|voznesenskiy
+52.0833,114.2500,verkhniystan
+52.0675,114.1815,ilinka|ilinskij|ilinskiy|ilinski|ильинка|ильинский
+52.5837,114.2832,ablatuy|ablatuj|аблатуй

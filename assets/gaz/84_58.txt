@@ -1,0 +1,17 @@
+58.4833,84.9500,verkhnyayakoroma|koroma
+58.4500,84.7333,tyapsamarga
+58.7500,84.4667,tsentralnyy|centralnyj|tsentralnyj|центральный
+58.3667,84.9500,tsentralnyy
+58.3878,84.1136,taynoye|taynyye|yurtytaynyye
+58.4667,84.1167,starokyzurovo|старокызурово
+58.3881,84.7350,rybinsk|rybinskiy|рыбинск
+58.3667,84.5833,protochka|palochka|palotsjka|protochnyy|палочка|проточка
+58.4436,84.9433,poludënovka|poludenovka|poludenovskiy|poludjonovka|полуденовка
+58.3778,84.6228,palochka|палочка
+58.4000,84.0500,osinovka|осиновка
+58.4636,84.0982,kuzurovo|kyzurova|kyzurovo|yurtykyzurovy|кузурово
+58.7247,84.4939,kurolino|куролино
+58.3667,84.2500,koryevka|karyevka|korevka|корьевка
+58.3833,84.6167,gorodetsk|gorodeck|gorodetskiy|городецк
+58.3833,84.3667,borkino|yurtyborkiny|боркино
+58.2814,84.8697,nibeginskiy|nibeginskij|нибегинский

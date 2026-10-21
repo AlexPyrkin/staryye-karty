@@ -1,0 +1,7 @@
+58.0601,66.9457,yemanaulskiye
+58.3607,66.6443,yangutumskiye|yankutumskiye
+58.7333,66.0667,uralskiy
+58.2833,66.1333,malyyenoskinbashskiye|malyenoskinbashskie|малыеноскинбашские
+58.6667,66.5667,kuminskiy|kuminskij|куминский
+58.2500,66.1167,bolshoynoskinbash|bolshojnoskinbash|большойноскинбаш
+58.1000,66.6000,bolshekuskurgulskiye|bolshekuskurgulskie|большекускургульские

@@ -1,0 +1,4 @@
+56.5833,117.2167,perevalnoye|perevalnoe|перевальное
+56.5167,117.3667,krasnyybulchut|krasnyjbulchut|красныйбульчут
+56.5934,117.3087,kodar|кодар
+56.6386,117.5868,леприндо|leprindo

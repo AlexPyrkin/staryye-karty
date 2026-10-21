@@ -1,0 +1,8 @@
+58.2897,162.0839,rusakovo|rusakov|russakovo|русаково
+58.6167,162.4000,pankara|панкара
+58.8500,162.7000,novyykayum|nizhniykayum|novyjkajum|новыйкаюм
+58.8998,162.8536,makaryevsk|makarevsk|makarevskoe|makaryevskiy|makaryevskoye|makarjevskoje|макарьевск|макарьевское
+58.1333,162.0500,khaylyulinskiy|khajljulinskij|хайлюлинский
+58.8779,162.7375,kayum|kajum|kayun|nizhniykayum|каюм
+58.5636,162.3004,ivashka|ivashkinskoe|ivasjka|ивашка
+58.6667,162.3833,imyvan|imovan|имыван

@@ -1,0 +1,5 @@
+46.0697,150.3008,khiva|хива
+46.1833,150.3333,shchekal|shhekal|щекал
+46.1500,150.4000,ryabinovka|rjabinovka|рябиновка
+46.2100,150.3182,kompaneyskoye|kompanejskoe|kompanejskoje|kompaneysk|компанейское
+46.2042,150.4893,kastrikum|кастрикум

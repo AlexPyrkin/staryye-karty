@@ -1,0 +1,8 @@
+59.4500,117.2000,voskresenskiy
+59.7879,117.9890,tochilnoye|tochilnaya|tochilnoe|totsjilnoje|точильное
+59.9319,117.6036,nokhtuysk|nokhtujsk|nokhtuyskaya|nokhtuyskoye|noktuyskoye|нохтуйск
+59.9928,117.4050,nikolskoye|nikolskaya|nikolskoe|nikolskoje|никольское
+59.2000,117.0833,markovskiy|markovskij|марковский
+59.4500,117.1000,malayavalyukhta|malajavaljukhta|малаявалюхта
+59.9031,117.5894,macha|matsja|мача
+59.8500,117.7500,innokentyevskaya|innokentevskaja|innokentyevskoye|иннокентьевская

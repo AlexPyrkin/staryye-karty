@@ -1,0 +1,8 @@
+54.2290,120.2832,vershinabukhty|versjinabukhty|вершинабухты
+54.3500,120.4333,kropochëva|kropocheva|kropochjova|кропочева
+54.1500,120.4000,razvalinypriiskakedrovyy|kedrovyj|kedrovyy|razvalinypriiskakedrovyj|кедровый|развалиныприискакедровый
+54.6698,120.9956,gulya|gulja|гуля
+54.1833,120.5000,chichatka|чичатка
+54.2353,120.1313,razvalinybukhta|bukhta|bukhtinskiy|razvlinybukhta|srednebukhtinskiy|бухта|развалиныбухта|развлиныбухта
+54.0333,120.1667,berëzovskiy|berezovskiy|berjozovskij|beryozovsky|березовский
+54.3889,120.5327,kudu|куду

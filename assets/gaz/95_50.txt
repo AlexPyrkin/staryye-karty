@@ -1,0 +1,11 @@
+50.9984,95.3078,vladimirovka|vladimirovskiy|владимировка
+50.6506,95.3244,shurmak|shuurmak|sjurmak|шурмак|шуурмак
+50.6015,95.0003,samagaltay|samagalday|samagaltaj|samgaltay|самагалтай
+50.1991,95.5693,naryn|khondey|khondeyaksy|kondeyaksy|нарын
+50.2000,95.7667,naryn|нарын
+50.3143,95.3732,moren|морен
+50.9297,95.1987,kyzylaryg|kyzylaryn|кызыларыг
+50.2600,95.1623,erzin|baytag|ehrzin|sarygbuluk|sarygbulun|эрзин
+50.2669,95.2150,bulunbazhy|bulunbazhi|bulunbazji|булунбажи|булунбажы
+50.3010,95.1027,baydag|bajdag|байдаг
+50.4542,95.4006,ortaadyr|ортаадыр

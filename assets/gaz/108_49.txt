@@ -1,0 +1,10 @@
+49.4649,108.8783,ukyr|ukir|укыр
+49.6460,108.9791,shonuy|shonui|shonuj|sjonuj|шонуй
+49.9000,108.5167,poloshchikha|poloshhikha|полощиха
+49.4299,108.8534,menza|menzinsk|menzinskaya|менза
+49.8067,108.0732,konkino|konkina|конкино
+49.9202,108.0809,khilkotoy|khilkotoi|khilkotoj|хилкотой
+49.9964,108.1974,gutay|chikoy|gutai|gutaj|гутай
+49.9667,108.0667,dolozhino|dolazheno|dolazhino|доложино
+49.7667,108.1000,ashantsy|ashancy|asjantsy|ашанцы
+49.7399,108.1608,dolotuy|dolotuj|долотуй

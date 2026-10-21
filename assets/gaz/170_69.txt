@@ -1,0 +1,13 @@
+69.9220,170.5411,yanrangay|janranaj|yanranay|янранай
+69.6003,170.1837,valkumey|valkumej|валькумей
+69.7028,170.3071,pevek|pwe|peeqin|peveka|pevekas|peveke|pewek|byfyk|pebekeu|peiweike|pevueku|pwkchwkwtka|pywyk|певек|بيفيك|پوکچوکوتکا|پیویک|ペヴェク|佩韦克|페베크
+69.5895,170.5971,zapadnyy|pervyy|zapadnyj|западный
+69.9333,170.5333,perevalochnayabaza|perevalochnajabaza|перевалочнаябаза
+69.4000,170.8000,mlelino|млелино
+69.7920,170.6161,apapelkhin|appapelkhino|апапельхин
+69.5999,170.6960,verkhniy|verkhnij|верхний
+69.7961,170.6164,apapelgino|апапельгино
+69.6965,170.3766,transportnyy
+69.6861,170.2585,morgorodok|pyatyykilometr|моргородок
+69.6513,170.1980,stroitelnyy|stroitelnyj|строительный
+69.6608,170.2452,pyatyykilometr|pjatyjkilometr|пятыйкилометр

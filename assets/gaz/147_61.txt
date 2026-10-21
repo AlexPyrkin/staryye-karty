@@ -1,0 +1,14 @@
+61.6562,147.8766,svobodnyy|imenivoroshilov|imenivoroshilova
+61.6430,147.8762,omchak|imenitimoshenko|omtsjak|омчак
+61.9833,147.3500,neryuchi|nerjuchi|noryuchyu|нерючи
+61.8804,147.0231,neryuchi|nerjuchi|neryuchinskiy|нерючи
+61.5617,147.9723,nagornyy|imenibudennogo|imenibudennyy|imenibudënnogo|nagornyj|нагорный
+61.8813,147.4336,kulu|kulinskaya|кулу
+61.6490,147.8119,imenimatrosova|immatrosova|имениматросова|имматросова
+61.6136,147.9069,imenigastello|именигастелло
+61.5333,147.8333,imenigastello|именигастелло
+61.6833,147.9000,imeniberiya|imeniberija|имениберия
+61.9869,147.0824,gvardeyets|gvardeec|gvardejets|гвардеец
+61.9944,147.0460,degdekan|дегдекан
+61.9216,147.2647,dorozhnyy|dorozhnyj|дорожный
+61.8481,147.6618,stokovoye|stokovoe|стоковое

@@ -1,0 +1,8 @@
+58.1886,93.3503,tatarka|татарка
+58.0728,93.0344,strelka|strehlka|strielka|striełka|aystrlkarwsyh|sitelieerka|стрелка|стрэлка|ստրելկա|ایسترلکاروسیه|斯特列尔卡
+58.0075,93.1339,rychkovo|рычково
+58.0828,93.9369,podkamennyy|podkamennyj|подкаменный
+58.0056,93.3375,novoseltsy|novoselcy|novoselskaya|новосельцы
+58.0950,93.7530,kulakovo|kulakova|кулаково
+58.1045,93.0421,ustangarsk|устьангарск
+58.1247,93.4894,novoangarsk|новоангарск

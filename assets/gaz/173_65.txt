@@ -1,0 +1,5 @@
+65.2833,173.7333,vilka|vllka
+65.2084,173.6521,utesiki
+65.5058,173.2815,ustbelaya|ustbelskoye
+65.8000,173.3333,petushkova|petushkovo|петушкова
+65.8833,173.3167,chuvanskoye|chuvanskaya|chuvanskoe|чуванское

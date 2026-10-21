@@ -1,0 +1,4 @@
+54.5061,134.4058,udskoye|udskoe|удское
+54.5082,134.4100,staroudskoye|staroudskoe|staroyeudskoye|udsk|udskoe|udskoiiostrog|udskoje|udskoye|староудское|удское
+54.4667,134.5000,rybalkachetvërtaya|rybalkachetvertaya|pashinykh|rybalkachetvjortaja|рыбалкачетвертая
+54.4874,134.3594,aimni|аимни

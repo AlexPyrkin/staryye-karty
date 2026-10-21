@@ -1,0 +1,17 @@
+49.2711,143.9795,vladimirovo|nishinokoro|norkoro|zaitsevo|владимирово
+49.2952,143.3197,ustye|nishitaraika|nisitaraika|taraikajuhachigo|taraikajūhachigō|uste|ustje|устье
+49.2546,143.1723,rechnaya|lozovaya|rechnaja|taran|речная
+49.3117,143.4454,promyslovaya|ainukon|higashitaraika|higasitaraika|promyslovaja|taraika|taraykanomervosemnadtsat|промысловая
+49.2204,143.0912,poronaysk|poronajsk|shikika|shikuka|shisuka|sikuka|поронайск
+49.9671,143.2675,pervomayskoye|pervomajskoe|pervomajskoje|pervomaysk|первомайское
+49.9667,143.1167,pervomayskoye|pervomajskoe|первомайское
+49.4501,143.2979,oleniy|furido|furito|futto|oleni|olenij|oren|олений
+49.3092,143.7054,neva|chipiikarushi|taraikajunigo|taraikajūnigō|tsubukaru|tsubukarushi|tubukaru|нева
+49.9550,143.3750,izvestkovyy|izvestkovyj|известковый
+49.2353,143.0335,goncharovo|goncharov|nakashikuka|гончарово
+49.3321,143.1762,genzapan|гензапань
+49.3177,143.5616,kosa|коса
+49.4696,143.6923,trudovoye|trudovoe|трудовое
+49.6115,143.0393,krasnooktyabrskoye|krasnooktjabrskoe|краснооктябрьское
+49.9451,143.1797,cherëmukhovo|cheremukhovo|cherjomukhovo|черемухово
+49.9233,143.2694,lesnaya|lesnaja|лесная

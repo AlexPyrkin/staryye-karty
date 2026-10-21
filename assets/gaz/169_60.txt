@@ -1,0 +1,9 @@
+60.5667,169.2333,tkeenmon|tkeenman
+60.8286,169.0676,srednyayapakhacha|srednjajapakhacha|средняяпахача
+60.5558,169.1445,pakhachi|pakhacha|pakhatsji|pokacha|пахачи
+60.4333,169.6667,olyutorskiy|oljutorskij|olyutorskiyfishingvillage|olyutorskiyrybnyykombinat|олюторский
+60.5667,169.6667,kultbaza|культбаза
+60.2667,169.8500,kavacha|kavatsja|кавача
+60.6500,169.7333,asuvaam|asuveem|асуваам
+60.6667,169.8333,apukakoryakskaya|apukakorjakskaja|апукакорякская
+60.4444,169.6014,apuka|apuk|olyutorskiy|olyutorskoe|olyutorskoye|ustapuka|апука

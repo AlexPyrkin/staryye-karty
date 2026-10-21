@@ -1,0 +1,17 @@
+61.5500,74.4667,usonovya|usanovayas
+61.7943,74.0867,tromagan|ermakovo|jermakovo|yermakovo|ермаково
+61.4167,74.4667,sopochind|сопочинд
+61.7667,74.0333,sopochinaye|sopochinae|сопочинае
+61.7000,74.1000,sopochinaka|сопочинака
+61.1667,74.6667,shpakovo|шпаково
+61.1333,74.4667,penkovy|пеньковы
+61.2000,74.5000,nizhnemysovaya|nizhnemysovaja|nizhnimysovaya|nizjnemysovaja|нижнемысовая
+61.1167,74.8667,nagornyy|nagornyj|нагорный
+61.8333,74.4167,lyankhuriypugol|ljankhurijpugol|лянхурийпугол
+61.1333,74.8167,lokosovo|локосово
+61.9000,74.4333,kechimovap|кечимовап
+61.3500,74.2500,kechimovai|kachimova|kechimovay|yurtakachimova|кечимоваи
+61.1500,74.4333,katesovy|катесовы
+61.2000,74.2667,golgi|голги
+61.0333,74.0500,asomkiny|асомкины
+61.5057,74.2162,ultugun|ультугун

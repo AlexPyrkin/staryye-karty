@@ -1,0 +1,10 @@
+53.1570,117.9266,ulyakan|uljakan|ульякан
+53.8431,117.6662,syrygichi|sirigichi|сырыгичи
+53.1667,117.4667,ochunonda|ochukonda|очунонда
+53.2000,117.8833,kurort|курорт
+53.1667,117.8000,archikoy|archikoj|artsjikoj|арчикой
+53.0351,117.3992,archikoy|archikoi|archikoj|artsjikoj|арчикой
+53.0716,117.5060,aksënovozilovskoye|aksenovozilovskoye|aksenovozilovskoe|aksjonovozilovskoe|zilovoaksenovo|zilovoaksënovo|аксеновозиловское
+53.0868,117.6564,tamka|тамка
+53.1063,117.7956,zudyra|зудыра
+53.6481,117.9046,amutkan|амуткан

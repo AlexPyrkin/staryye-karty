@@ -1,0 +1,9 @@
+60.8167,71.5000,varlamkiny
+60.7000,71.5333,suliny|yurtysuliny|сулины
+60.9667,71.7333,satarino|сатарино
+60.0625,71.4789,salym|kintus|салым
+60.9333,71.4667,rymovy|yurtyrymovy|рымовы
+60.7667,71.3667,mulnashevy|мулнашевы
+60.6000,71.6167,milyasovy|miljasovy|yurtymilyasovy|милясовы
+60.9833,71.3500,lempiny|lempino|yurtylemliny|yurtylempiny|лемпино|лемпины
+60.9722,71.2408,lempino|лемпино

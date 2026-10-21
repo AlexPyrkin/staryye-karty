@@ -1,0 +1,6 @@
+54.6291,158.4675,verkhnekamchatsk|upperkamchalka|vevkhnekamchatsk
+54.3998,158.2100,sharomy|shanomy|sharom|sheromy|sjaromy|шаромы
+54.1781,158.0068,pushchino|pushhino|pushino|pusjtsjino|пущино
+54.6947,158.6188,milkovo|mulkovo|мильково
+54.2333,158.1000,krasnoyeznamya|krasnoeznamja|красноезнамя
+54.8095,158.8141,kirganik|kybganik|kyrganik|kyrgarik|кирганик

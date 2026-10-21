@@ -1,0 +1,3 @@
+73.2833,54.0000,pomorskoye|matochkinshar|pomorskoe|pomorskoje|seleniyepomorskoye|поморское
+73.3339,54.3611,lagernyy|lagernoe|lagernoye|lagernyj|lagyer|stanovischelagernoye|stanovishchelagernoye|лагерный
+73.3872,54.7383,severnyy|severnyj|северный

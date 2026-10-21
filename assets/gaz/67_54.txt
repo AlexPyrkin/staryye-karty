@@ -1,0 +1,13 @@
+54.9758,67.7228,teplodubrovnoye|teplodubrovskoye
+54.9669,67.7258,streltsy|strelcy|streletskaya|стрельцы
+54.9667,67.2333,slivki|сливки
+54.9725,67.1575,serebryanoye|serebrjanoe|серебряное
+54.8444,67.0794,pokrovka|покровка
+54.8658,67.5200,poduvalnaya|poduvalnaja|подувальная
+54.8858,67.5625,maloyepriyutnoye|maloeprijutnoe|malopriyutnoye|малоеприютное
+54.9078,67.1964,martino|bolshoyemartino|мартино
+54.9111,67.6019,bolshoyepriyutnoye|bolshepriyutnoye|bolshoeprijutnoe|bolsjojeprijutnoje|большоеприютное
+54.9836,67.4278,bolshoyegusinoye|bolshegusinoye|bolshoegusinoe|bolsjojegusinoje|gusinoye|большоегусиное
+54.9486,67.5972,bogdany|bogdanovichi|богданы
+54.9753,67.2256,slevnoye|slevnoe|slevnoje|слевное
+54.8931,67.0072,profintern|профинтерн

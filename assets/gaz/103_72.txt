@@ -1,0 +1,3 @@
+72.4000,103.6167,staroletovye|staroletove|старолетовье
+72.4833,103.3167,sagyr|сагыр
+72.3167,103.2000,novoletovye|novoletove|novoletovje|новолетовье

@@ -1,0 +1,5 @@
+66.7500,35.2146,verkhniyvyalozërskiy|verkhniyvyalozerskiy
+66.4000,35.8000,salnitsa|salnica|сальница
+66.4698,35.3212,olenitsa|olenica|oleniza|оленица
+66.9627,35.2818,indel|индель
+66.8962,35.0980,vilma

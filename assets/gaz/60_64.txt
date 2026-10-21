@@ -1,0 +1,9 @@
+64.1667,60.5000,yatriya
+64.4092,60.0385,ustpuyva|ustpujva|устьпуйва
+64.2701,60.8535,shchekurya|shchekurinskoye|shchokurinskoye|shhekurja|sjtsjekurja|щекурья
+64.2610,60.9023,saranpaul|саранпауль
+64.3000,60.2667,sarankhapner|саранхапнер
+64.2000,60.9667,puolokh|puvlakh|puvlokh|пувлох|пуолох
+64.4000,60.9000,manya|manja|yurtamanyapaul|манья
+64.9062,60.1820,khobeyu|khobeju|хобею
+64.6000,60.4000,kedrasyu|kedrasju|kedrasiu|кедрасью

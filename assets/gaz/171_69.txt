@@ -1,0 +1,11 @@
+69.7791,171.5860,zapadnyy
+69.4300,171.9453,yuzhnyy|juzhnyj|juzjnyj|южный
+69.2157,171.6530,yubileynyy
+69.7394,171.8519,vostochnyy
+69.7313,171.8079,severnyy|severnyj|северный
+69.8005,171.5432,romanovskiy|romanovskij|романовский
+69.9098,171.7092,primorskiy|primorskij|приморский
+69.9638,171.4282,kuyviveyem|kujviveem|куйвивеем
+69.5422,171.9929,krasnoarmeyskiy|krasnoarmejskij|krasnoarmeyskoye|красноармейский
+69.0333,171.0500,ichun|ичунь
+69.8426,171.4501,gyrgychan|гыргычан

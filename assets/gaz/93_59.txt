@@ -1,0 +1,9 @@
+59.1928,93.9714,yuzhnayakadra|vsekhsvyatskiy
+59.9731,93.6130,vangash|vangasj|вангаш
+59.3031,93.8172,pitgorodok|ustkadrinskoye|питгородок
+59.6000,93.5000,panimba|панимба
+59.7836,93.4839,novoyerudinskiy|novoerudinskij|novojerudinskij|новоерудинский
+59.7167,93.0000,chirimba
+59.1144,93.4706,bryanka|brjanka|брянка
+59.7158,93.5617,novodrazhnyy|novodrazhnyj|novodrazjnyj|новодражный
+59.3963,93.3530,veduga

@@ -1,0 +1,14 @@
+54.7833,128.8833,yemelyanovskiy
+54.1000,128.6500,yelnichnoye|zaimkayelnichnoye|zimovkayelnichnoye
+54.2000,128.4167,rubanova|zaimkakubanova|zimovkarubanova|рубанова
+54.5000,128.7000,pioner|pionerskiy|пионер
+54.1667,128.2500,lozhnikova|ложникова
+54.2833,128.2333,krasikovo|красиково
+54.1667,128.0167,kitayskiy|kitajskij|kitayskiyklyuch|китайский
+54.6497,128.4231,gornyy|gornyj|горный
+54.6833,128.5833,dovninskoye|dovninskoe|довнинское
+54.6000,128.4167,dorovskikh|доровских
+54.7090,128.8469,bomnak|bamnak|bomnakskiy|buomnaakh|buomnakh|бомнак
+54.5500,128.4333,bezrukovo|zimovkabezrukova|безруково
+54.6260,128.5520,verkhnezeysk|verkhnezejsk|верхнезейск
+54.8053,128.0290,mulmuga|мульмуга

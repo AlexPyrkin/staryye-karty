@@ -1,0 +1,13 @@
+61.7641,149.6238,vetrenyy|vetrenyj|ветреный
+61.1367,149.6326,ustomchug|ustomchuk|ustomtsjug|устьомчуг
+61.8333,149.6333,sangatolon|sangatalon|сангатолон
+61.6500,149.5500,sangatolon|сангатолон
+61.2500,149.0500,komsomolsk|комсомольск
+61.3833,149.3333,imenichapayeva|imenichapaeva|vakkhanka|именичапаева
+61.4167,149.4500,detrin|детрин
+61.0180,149.7043,nalednyy|nalednyj|наледный
+61.0705,149.6471,chalbukhan|чалбухан
+61.9432,149.6745,sibiktyellakh|sibiktyehllakh|сибиктыэллах
+61.7938,149.7730,obo|обо
+61.8896,149.2740,bezhinlug|бежинлуг
+61.8482,149.5243,moyurusta|mojurusta|мойуруста

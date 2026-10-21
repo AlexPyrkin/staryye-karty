@@ -1,0 +1,13 @@
+60.3000,74.1833,yeparkina
+60.3333,74.1333,varmuriy
+60.5103,74.0448,ugut|ugutskiyeyurty|yurtyugutskiy|угут
+60.1500,74.7500,surlamkiny|сурламкины
+60.6333,74.1000,nyuglamkina|njuglamkina|нюгламкина
+60.2833,74.5833,kinyaminyvtoryye|kinjaminyvtorye|киняминывторые
+60.4828,74.4369,kinyaminypervyye|kinjaminypervye|киняминыпервые
+60.0833,74.8333,karayevy|karaevy|караевы
+60.1449,74.9960,achimovypervyye|achimovypervye|atsjimovypervye|ачимовыпервые
+60.4801,74.1175,ugutskiyevtoryye|ugutskievtorye|угутскиевторые
+60.4907,74.4638,kinyaminy|kinjaminy|кинямины
+60.9905,74.3404,katesovoyugan|katesovojugan|катесовоюган
+60.8707,74.1331,putalinskiy|putalinskij|путалинский

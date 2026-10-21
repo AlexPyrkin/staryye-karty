@@ -1,0 +1,10 @@
+70.7318,148.7546,ukresta
+70.7333,148.7667,shevelëva|sheveleva|shevelevo|sheveljova|шевелева
+70.7167,148.8667,semiruchye|letniksemiruchye|semiruche|семиручье
+70.7670,148.7199,ostenga|bulurgin|bulurgun|burulgin|остенга
+70.6523,148.6833,ostenga|ojotung|oyetun|oyetuonga|oyotun|oyotung|oyëtuonga|setun|ойотунг|остенга
+70.8178,148.8913,osenikovo|osinino|осениково
+70.8833,148.6000,doleoy|doleoj|долеой
+70.9000,148.9833,cherëmnik|cheremnik|cherjomnik|povarnyacheremnik|черемник
+70.8333,148.2000,chakasire|chanasirya|чакасире
+70.6667,148.1667,bagil|bygyy|багиль

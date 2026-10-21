@@ -1,0 +1,15 @@
+50.6191,88.7719,yazulu|jazula|язула
+50.7506,88.1556,tuzhar
+50.0106,88.7492,telengitsortogoy|telengitsortogay|telengitsortogoj|теленгитсортогой
+50.5333,88.3000,saratan|саратан
+50.0500,88.5000,ortolyk|ортолык
+50.1333,88.3333,meshtuyëryk|meshtuyeryk|meshtujoryk|мештуерык
+50.5896,88.0086,kyzylmany
+50.9333,88.2000,katuyaryk|katujaryk|катуярык
+50.8333,88.5667,chodro|tsjodro|чодро
+50.1019,88.3639,chaganuzun|tsjaganuzun|чаганузун
+50.7833,88.0500,balyktuyul|balyktujul|balyktyyul|балыктуюль
+50.9106,88.2171,perevalkatuyaryk
+50.9248,88.1965,chulyshmanskayadolina
+50.0599,88.2974,marsianskiegory
+50.0242,88.2661,luna

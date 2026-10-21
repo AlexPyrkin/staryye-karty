@@ -1,0 +1,4 @@
+69.3000,29.6000,pitkyayarvi|pitkajarvi|pitkajärvi|pitkayarvi|pitkeyarvi|pitkjajarvi|питкяярви
+69.0000,29.0333,nautsi|nauci|nautsk|njäʹhčč|naqi|наутсі|науци|納齊
+69.1333,29.2500,mayatalo|hevoskoski|kheyukhenyarvenmayatalo|majatalo|маятало
+69.1500,29.3167,neyukhenyarvi|hoyhenjarvi|höyhenjärvi|khejkhenujarvi|kheykhenyarvi|хейхенъярви

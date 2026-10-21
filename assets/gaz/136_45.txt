@@ -1,0 +1,14 @@
+45.8781,136.8157,yasnayapolyana
+45.1385,136.3799,ustserebryanyy|ustserebrjanyj|устьсеребряный
+45.0495,136.6124,terney|nei|ternaie|ternay|ternei|ternej|terneymorozovskoye|терней
+45.1864,136.7856,tavayza|russkoye
+45.2500,136.8333,shirokayapad
+45.0833,136.5333,gavrino|гаврино
+45.4333,136.2667,fanzalyusintse|fanzaljusince|lyusintse|фанзалюсинце
+45.2883,136.9656,belembe|белембе
+45.1072,136.5445,artëmovo|artemovo|artjomovo|артемово
+45.7131,136.2352,tayëzhnoye|tayezhnoye|taezhnoe|tajezjnoje|tajozhnoe|таежное
+45.9581,136.4836,molodëzhnoye|molodezhnoye|molodezhnoe|molodezjnoje|molodjozhnoe|молодежное
+45.9921,136.4469,ternistyy|ternistyj|тернистый
+45.7901,136.2378,tayëzhnoye|tayezhnoye|tajozhnoe|таежное
+45.0439,136.5907,pionerskiy|pionerskij|пионерский

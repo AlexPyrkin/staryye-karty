@@ -1,0 +1,4 @@
+61.9000,146.6000,neryuchinskaya|nerjuchinskaja|нерючинская
+61.8333,146.5333,khenikandzha|otechestvennyy|хениканджа
+61.4906,146.9697,berendya|berehndja|берэндя
+61.4008,146.6513,taryn|тарын

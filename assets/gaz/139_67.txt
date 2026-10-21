@@ -1,0 +1,5 @@
+67.5000,139.8500,suordakh|sardakh|суордах
+67.7000,139.5167,omchuk|омчук
+67.9167,139.3833,kysylyuryakh|kygyluryakh
+67.3167,139.7000,kiries|kiriehs|krest|кириэс
+67.9833,139.4333,burkhaybyt|burkhajbyt|бурхайбыт

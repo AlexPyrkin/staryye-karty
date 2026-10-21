@@ -1,0 +1,4 @@
+70.8000,138.2000,suokurdakhdardye|sokuordakhdardye|suokurdakhdarde|суокурдахдардье
+70.6000,138.4000,sugulan|sugulaan|сугулан
+70.9333,138.4000,sagyr|сагыр
+70.8167,138.2500,orotka|оротка

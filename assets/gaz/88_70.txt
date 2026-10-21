@@ -1,0 +1,4 @@
+70.5000,88.8667,zaostrovka|stanovyezaostrovka|zaostroak
+70.1000,88.4000,stanovishchevedenskoye|stanokvedenskiy|stanovishchevvedenskiy|stanovishhevedenskoe|становищеведенское
+70.2500,88.5500,kurya|kurja|курья
+70.5167,88.9667,chërnaya|chernaya|chernaja|chernoye|chjornaja|stanokchernaya|tsjernaja|черная

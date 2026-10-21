@@ -1,0 +1,6 @@
+60.0890,117.2166,zheday|zhedaj|zhedayskaya|zhedoyskaya|zjedaj|жедай
+60.0833,117.3333,nizhniyzheday|nizhnijzhedaj|нижнийжедай
+60.2333,117.1000,kamenka|kamenskaya|каменка
+60.6833,117.2333,dzhampa|джампа
+60.1167,117.1000,chapayevzheday|chapaevzhedaj|чапаевжедай
+60.1319,117.1108,chapayevo|chapaevo|tsjapajevo|чапаево

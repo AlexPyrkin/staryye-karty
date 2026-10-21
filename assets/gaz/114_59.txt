@@ -1,0 +1,4 @@
+59.6000,114.1333,bolshoypatom|bolshojpatom|большойпатом
+59.4000,114.7167,bezymyanka|bezymjanka|безымянка
+59.5000,114.7500,andreyevskiy|andreevskij|andrejevskij|андреевский
+59.4833,114.8333,andreyevskiy|andreevskij|andrejevskij|андреевский

@@ -1,0 +1,13 @@
+56.4333,79.0667,stepino|stepkinskiy|степино
+56.1500,79.2333,sharypino|шарыпино
+56.2167,79.3500,pechengulskiy|pechengulskij|печенгульский
+56.0394,79.4312,pavlovskiy|pavlovskij|павловский
+56.0333,79.0500,novolugay|novolugaj|novolugayskiy|новолугай
+56.1833,79.2667,nazarovo|nazarovskiy|назарово
+56.3833,79.1167,losinskiy|losinskij|лосинский
+56.4500,79.2333,kosminka|косьминка
+56.4333,79.0833,kobylkinskiykordon|kobylinskiykordon|kobylkinskijkordon|kordon|кобылкинскийкордон|кордон
+56.3833,79.0833,kirillovskiy|kirillovskij|кирилловский
+56.4667,79.2000,kasmanka|kayemanka|касманка
+56.0862,79.3458,itkul|иткуль
+56.0718,79.2919,gornostalevskiy|gornostalevskij|gornostalsvskiy|горносталевский

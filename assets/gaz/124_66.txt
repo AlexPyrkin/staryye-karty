@@ -1,0 +1,4 @@
+66.2053,124.0417,syalakh|sylakh|сыалах
+66.2500,124.0000,kharalakh|kuranakh|харалах
+66.3500,124.4000,botorchuna|botoryunya|боторчуна
+66.5667,124.0667,begidzhyan|begideen|begidzhjan|begidzjan|бегиджян

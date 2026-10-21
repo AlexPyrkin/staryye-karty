@@ -1,0 +1,10 @@
+61.4709,64.0434,zelenoborsk|konda|зеленоборск
+61.9461,64.9403,vonyegan|vonuegan|wonegan|вонъеган
+61.6256,64.6811,tugrovskiy
+61.6789,64.4819,kommunisticheskiy|kommunisticheskij|samza|коммунистический|самза
+61.9644,64.2428,khangokurt|khangakurt|khongakurt|khongogort|khongokurt|khongorurt|хангакурт|хангокурт
+61.1897,64.8383,kartopya|kartolya|kartopja|картопья
+61.9562,64.9471,unyugan|unjugan|унъюган
+61.8811,64.7539,pantyng|пантынг
+61.0139,64.4706,pervyybarak|pervyjbarak|первыйбарак
+61.9592,64.9703,unyugan

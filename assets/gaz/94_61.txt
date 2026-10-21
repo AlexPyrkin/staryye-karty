@@ -1,0 +1,5 @@
+61.6434,94.8354,yengida|iginda|ingida
+61.0667,94.1500,solzavod|сользавод
+61.9893,94.6559,poligus|полигус
+61.1000,94.1333,komne|комне
+61.8500,94.1833,kochenyata|kochemyata|kochenjata|коченята

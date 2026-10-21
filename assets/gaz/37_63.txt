@@ -1,0 +1,16 @@
+63.6027,37.6855,yudmozero|judmozero|юдмозеро
+63.8898,37.6672,vorzogory|selovorzogory|vorzgory|ворзогоры
+63.7500,37.3833,vachevskaya
+63.5667,37.3000,stayki|stajki|стайки
+63.8833,37.9000,rochevo|рочево
+63.3500,37.5000,pnëvo|pnevo|pnjovo|пнево
+63.6028,37.2734,peringozero|перингозеро
+63.7740,37.6680,nimenga|nimenganiz|selonimenga|нименьга
+63.7121,37.4496,maloshuyka|malashujka|malochouika|malochouïka|maloschuika|maloshujka|malosjoeyka|malosjujka|malosuyka|maloszujka|maloşuyka|małoszujka|selomaloshuyka|malwshwyka|xiaoshuyika|малашуйка|малошуйка|մալոշույկա|مالوشویکا|小舒伊卡
+63.6585,37.1618,leveshka|левешка
+63.8005,37.1730,kushereka|kusheivka|kushreka|kusjereka|selokushereka|кушерека
+63.9000,37.6833,kondratyevskaya|kondratevskaja|кондратьевская
+63.5500,37.5667,akan|акан
+63.6940,37.6153,nimenga|нименьга
+63.7433,37.4085,abramovskaya|abramovskaja|абрамовская
+63.7221,37.0530,kusha|kusja|куша

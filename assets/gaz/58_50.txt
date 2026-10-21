@@ -1,0 +1,5 @@
+50.7819,58.9952,sokolovka|sokolovskiy|соколовка
+50.8986,58.6867,yekaterinoslavka|ekaterinoslavka|jekaterinoslavka|shandasha|екатеринославка
+50.7640,58.9912,polevoy|polevoj|полевой
+50.9340,58.7791,kinzhebulak|kinzjebulak|кинжебулак
+50.9256,58.9689,ostrovok|островок

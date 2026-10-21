@@ -1,0 +1,5 @@
+64.0970,126.7137,uongayy|uongajy|уонгайы
+64.1820,126.6832,tastumus|тастумус
+64.2002,126.4050,promyshlennyy|promyshlennyj|promysjlennyj|sobokhaya|промышленный
+64.2533,126.8321,dolgoye|dolgoe|долгое
+64.3333,126.4000,aryta|kharyyalaakh|арыта

@@ -1,0 +1,11 @@
+59.7682,70.8951,tsynga|cynga|tsinga|tsinginskiye|usayk|usaykova|цынга
+59.6981,70.3834,starayayeska|starajaeska|staroeskinskiye|стараяеска
+59.4778,70.9633,sipailov|sipaylov|сипаилов
+59.6815,70.4925,novayayeska|novajaeska|novoeskinskiye|новаяеска
+59.5272,70.3943,lumkoy|lumkoj|lymkoy|lymkoyevskiye|лумкой
+59.5204,70.6982,kuim|куим
+59.8053,70.7939,mugen|муген
+59.4751,70.0808,usaykin|usajkin|усайкин
+59.4969,70.1590,urmatka|урматка
+59.5223,70.2400,cheremkoy|cheremkoj|черемкой
+59.9798,70.0676,sredniymassiv|srednijmassiv|средниймассив

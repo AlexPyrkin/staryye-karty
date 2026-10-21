@@ -1,0 +1,6 @@
+70.7440,134.8006,vlasovo|власово
+70.5696,134.9847,severnyy|severnyj|северный
+70.6389,134.3528,kular|кулар
+70.9000,134.1833,ekeyks|ehkejks|ekeyyas|экейкс
+70.6667,134.4167,basaryuryakh|basarjurjakh|bataryurekh|басарюрях
+70.8646,134.5904,entuziastov|ehntuziastov|энтузиастов

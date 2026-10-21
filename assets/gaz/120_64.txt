@@ -1,0 +1,10 @@
+64.5500,120.5000,ugulyat|ugolyak|ugulya|yugyuleet
+64.3734,120.5454,tiyerbes|terbyas|tierbes|tijerbes|tiyebes|tylgyny|тиербес
+64.8000,120.4000,kyuletskiytretiy
+64.8323,120.9185,kyulekyan|kjulekjan|кюлекянь
+64.6240,120.1746,kyubyainde|kjubejingde|kjubejingdeh|kyubeyingde|ugulyet|yulgyuyat|кюбейингдэ
+64.0957,120.5114,kuoramykyt|bettieme|bettijeme|bettiyeme|беттиеме|куорамыкыт
+64.1117,120.3023,kharbala|kharbaka|magasy|харбала
+64.7500,120.3000,faktoriyayaktorga|faktorijajaktorga|faktoriyayakuttorg|yaktorga|факторияякторга
+64.1795,120.1950,chëngërë|chengere|chjongjorjo|tsjengere|ченгере
+64.7333,120.2833,bagadzha|bagadzja|багаджа

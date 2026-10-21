@@ -1,0 +1,8 @@
+56.7726,108.0103,vilyuyeva
+56.8891,108.1680,verkhnemartynovo
+56.7965,108.0378,sharabora|шарабора
+56.8833,108.1667,novayaderevnya|novajaderevnja|новаядеревня
+56.8667,108.2167,nikolayevka|nikolaevka|николаевка
+56.9167,108.2000,martynova|martynovskoye|verkhneyemartynovo|мартынова
+56.9333,108.2000,andronovka|андроновка
+56.9228,108.1777,nizhnemartynovo|nizhnemartynova|verkhnemartynovo|верхнемартыново|нижнемартынова|нижнемартыново

@@ -1,0 +1,4 @@
+66.0635,38.2432,tetrino|derevnyatetrina|seleniyetetrino|tetrina|тетрино
+66.0691,38.6587,strelna|стрельна
+66.7034,38.0521,slyudyanka|sljudjanka|slyudorazrabotki|слюдянка
+66.1041,38.8696,chapoma|seleniyechapoma|tsjapoma|чапома

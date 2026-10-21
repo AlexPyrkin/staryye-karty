@@ -1,0 +1,11 @@
+61.1000,70.3000,yelykovo|elykovo|jelykovo|елыково
+61.1000,70.8500,sivokhrebt|yurtysyvokhrepskiye|сивохребт
+61.2906,70.3425,seliyarovo|selijarovo|seliyarskoye|селиярово
+61.6667,70.6667,gorshkova|faktoriyagorshkova|gorshkovo|горшкова
+61.1875,70.4850,dolgoyeplëso|dolgoyepleso|dolgoepljoso|dolgoepleso|dolgojepleso|долгоеплесо
+61.6900,70.6889,darkogorshkovskiy|darkogorshkovskij|darkogorsjkovskij|даркогоршковский
+61.2667,70.1833,chebykovo|tsjebykovo|чебыково
+61.3000,70.6333,bala|бала
+61.1333,70.5333,alëkino|alekino|aljokino|алекино
+61.3032,70.4576,pionernyj
+61.3207,70.3857,mikishinoekoton

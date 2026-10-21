@@ -1,0 +1,16 @@
+49.0833,134.4000,zhingan|zhungan
+49.2000,134.6000,yulki|yudki|yulk
+49.0609,134.3278,pobeda|pebeda|победа
+49.1167,134.5167,olgon|олгон
+49.6667,134.4833,niln|нильн
+49.6333,134.5833,mukdykan|muidenan|мукдыкан
+49.0167,134.3333,mugdusa|мугдуса
+49.3333,134.7167,konkura|конкура
+49.2131,134.5840,khail|хаил
+49.2667,134.6500,kafan|кафан
+49.0949,134.4570,ivankovtsy|ivankovcy|иванковцы
+49.3333,134.5000,eyfu|efu|ehjfu|eytu|эйфу
+49.1500,134.4833,eldy|ehldy|elgdi|yeldi|эльды
+49.5833,134.7167,agonyuulyani|agonjuuljani|agonyuulani|агонюуляни
+49.0597,134.3535,paseka|пасека
+49.2794,134.2369,birakan|биракан

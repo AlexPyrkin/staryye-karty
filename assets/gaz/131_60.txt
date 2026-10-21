@@ -1,0 +1,15 @@
+60.4833,131.0833,yënnyuyës|yennyuyes
+60.7272,131.7553,tyuyëlbe|tyuyelbe
+60.7579,131.7814,pokrovka|покровка
+60.4670,131.4071,maralakh|маралах
+60.5333,131.3667,krasnayazvezda|krasnajazvezda|krasnaya|краснаязвезда
+60.6000,131.3667,karlamarksa|карламаркса
+60.8429,131.8305,chakyrvtoroy|chagyr|chakyr|chakyrvtoroj|chakyrj|tsjakyrj|чакырвторой|чакырй
+60.6897,131.6033,bulun|булун
+60.6016,131.4708,bolugur|bologur|болугур
+60.7167,131.5833,bolotur|болотур
+60.6833,131.4667,amolonskiyposëlok|amolonskiyposelok|amolonskijposiolok|amolonskijposjolok|амолонскийпоселок
+60.8994,131.9818,amga|amia|amma|sjaloamga|amgha|амга|амма|сялоамга|ամգա|أمغا
+60.7333,131.5000,altansy|алтансы
+60.7209,131.6160,aallaakh|allakh|ааллаах|аллах
+60.4628,131.0989,onnës|onnes|onnjos|оннес

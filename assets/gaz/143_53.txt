@@ -1,0 +1,4 @@
+53.4860,143.0652,vostochnyy|ekhabivtoraya|ekhabivtoroye|vostochnyj|vostotsjnyj|восточный
+53.2833,143.1000,tossi
+53.5956,143.0258,kaygan|kajgan|кайган
+53.1490,143.2594,bkpodoptu

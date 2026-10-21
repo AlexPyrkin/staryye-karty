@@ -1,0 +1,6 @@
+56.2135,159.9839,ushki|usjki|ушки
+56.0486,159.8715,kozyrevsk|kozyrjovsk|kozyrëvsk|козыревск
+56.2000,159.5333,kishkerdinskiy|kishkerdinskij|кишкердинский
+56.1167,159.7333,kishkerdino|кишкердино
+56.1667,159.9167,kamenka|каменка
+56.1333,159.8833,granëvo|granevo|granjovo|гранево

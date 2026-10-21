@@ -1,0 +1,15 @@
+63.4000,117.1167,uoladabana
+63.1667,117.7000,unkyulyur
+63.0500,117.8833,suorattakh|суораттах
+63.5053,117.0292,malykay|malykaj|shologonomarkhinskaya|малыкай
+63.0833,117.3833,kyusyut
+63.0833,117.6167,khomustakh|хомустах
+63.7500,117.9167,khampakh|kompakt|хампах
+63.0500,117.4833,khakhynaydakh|khakhynajdakh|хахынайдах
+63.7506,117.9622,chukar|чукар
+63.5789,117.4492,bysyttakh|tumusakh|бысыттах
+63.0500,117.7833,botomoyu|botomay|botomoju|ботомою
+63.0025,117.5108,arylakh|arylakhskiy|арылах
+63.1911,117.8825,arangastakh|арангастах
+63.5500,117.1833,alar|алар
+63.2333,117.8833,alar|алар

@@ -1,0 +1,4 @@
+71.3333,132.2000,povarnyaboltunova|boltunov|povarnjaboltunova|поварняболтунова
+71.2667,132.2000,dzhamm|damm|джамм
+71.2000,132.6000,bimir|bilir|бимир
+71.7167,132.4000,balyktakh|balykstakh|balyntakh|балыктах

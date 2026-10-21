@@ -1,0 +1,10 @@
+49.9139,88.7937,tebeler|tobeler|тобелер
+49.9833,88.5500,mukhortarkhata|mukhortarkhatty|мухортархата
+49.9773,88.1743,kyzylmany
+49.8500,88.9167,жанааул|zhanaaul|kurlej|kurley|курлей
+49.9927,88.6760,koshagach|kosjagatsj|кошагач
+49.9500,88.8000,kazaksortogoy|kazaksortogoj|казаксортогой
+49.4000,88.1000,kalguty|калгуты
+49.9167,88.8667,aktal|актал
+49.9296,88.6022,novyjbeltir
+49.9766,88.1721,beltir

@@ -1,0 +1,7 @@
+57.6939,112.1600,sogdiondon|согдиондон
+57.9689,112.7636,slyudyanka|malayaslyudyanka|sljudjanka|слюдянка
+57.5617,112.4944,konkudera|kochneva|kunkuderi|конкудера
+57.8167,112.5500,kamniga|камнига
+57.6364,112.5247,bramya|bramja|брамья
+57.7833,112.8500,bolshiyeugli|bolshieugli|большиеугли
+57.9500,112.7333,bolshayaslyudyanka|bolshajasljudjanka|bolsjajasljudjanka|большаяслюдянка

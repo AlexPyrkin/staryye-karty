@@ -1,0 +1,16 @@
+61.3753,138.1417,yevkandzhinskiy|evkandinskij|evkandzhinskij|jevkandinskij|yevkanja|yevkandiya|yevkandzha|евканджинский|евкандинский
+61.4000,138.0500,tayëzhko|tayezhko|tayezhka|tayëzhka
+61.2333,138.3000,suncha|сунча
+61.7333,138.1667,snegurka|снегурка
+61.0500,138.1333,shamayvtoroy|shamajvtoroj|шамайвторой
+61.3258,138.0594,seginevtoroy|seginey|seginevtoroj|seginevtoroye|sehginehj|sehginehvtoroj|сегиневторой|сэгинэй|сэгинэвторой
+61.3500,138.0833,seginetretiy|seginetretij|сегинетретий
+61.3064,138.1049,seginepervyy|seginepervyj|сегинепервый
+61.7167,138.2167,osnova|основа
+61.7500,138.3333,mustafa|мустафа
+61.0000,138.0667,khochulukan|хочулукан
+61.7740,138.3501,kenne|kehnneh|kennya|кенне|кэннэ
+61.6773,138.2023,burkhalinskiy|burkhala|burkhalinskij|бурхалинский
+61.0157,138.6901,ancha|antsja|nerodaanche|анча
+61.2433,138.0593,alysardakh|alysardaakh|алысардах
+61.1352,138.0459,allakhyun|allakh|allakhjun|аллахюнь

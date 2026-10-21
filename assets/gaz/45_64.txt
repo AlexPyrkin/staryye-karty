@@ -1,0 +1,16 @@
+64.8417,45.2610,zalaznaya|starayazalazskaya|starayazelaznaya
+64.8950,45.8333,yedoma|edoma|jedoma|едома
+64.0333,45.7500,yadviy|vysokiyyadviy
+64.9540,45.5790,berëznik|bereznik|berjoznik|verkhnebereznitskoye|verkhneyebereznitskoye|verkhniybereznik|березник
+64.9255,45.6474,ushchelye|ushhele|ущелье
+64.9234,45.7508,smolenets|smolenec|smolenetz|смоленец
+64.7313,45.8826,rusoma|русома
+64.9802,45.9834,pylema|пылема
+64.8827,45.7464,melospolye|melospol|melospole|ustvashka|мелосполье
+64.9932,45.6192,malayanisogora|malnisogora|malajanisogora|malonisogorskaya|malonisogory|малнисогора|малаянисогора
+64.8999,45.7617,leshukonskoye|ldg|leschukonskaja|leshukonskoe|lesjukonskoje|лешуконское
+64.9175,45.3311,komsha|komshchinskaya|starayakolitsinskaya|starayakomshchinskaya|комша
+64.8491,45.7606,karashchelye|karashchelskaya|karashhele|каращелье
+64.7833,45.1833,chublozhskaya|chublozhskaja|starayachublazhskaya|чубложская
+64.7268,45.1021,chublas|chublasa|tsjublas|чублас
+64.9873,45.5711,bolshayanisogora|bolshajanisogora|bolshenisogorskaya|bolshenisogory|bolnisogora|nisogora|nisogory|болнисогора|большаянисогора

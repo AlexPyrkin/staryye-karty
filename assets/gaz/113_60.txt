@@ -1,0 +1,9 @@
+60.1667,113.8667,serkino|yegorovo|серкино
+60.0667,113.7833,polovinka|polovinnaya|половинка
+60.4667,113.1167,oldon|олдон
+60.6000,113.5667,namskiy|namskij|namskoye|nimskoye|намский
+60.7009,113.6517,kyubyurgen|kjubergen|kyuberga|kyuberkan|кюберген
+60.5333,113.2333,kharaastakh|хараастах
+60.6667,113.7500,chasovaya|chasovaja|часовая
+60.7297,113.8192,arylakh|арылах
+60.1552,113.9331,yaroslavskiy|jaroslavskij|ярославский

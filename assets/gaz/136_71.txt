@@ -1,0 +1,13 @@
+71.5167,136.2333,yusbalagan
+71.5167,136.5667,uedey|yuyedey
+71.0000,136.0167,tuguttakh|tugutakh|tuguttaakh
+71.4667,136.3000,talagan
+71.1333,136.8000,sysylbytalakh
+71.2500,136.2667,systangnakh|systangnaakh|systygan
+71.4667,136.1000,okhsu|okhsuu|охсу
+71.4403,136.1359,nizhneyansk|nijneyansk|nischnejansk|nizhneiansk|nizhnejansk|nizhnejanskaj|nizhnjajansk|nizjnejansk|niznejansk|niznejanskas|nizniejansk|niżniejansk|nižnejansk|nižnejanskas|nyzhnyyanzk|xiayangsike|нижнеянск|нижнеянскай|ніжняянск|نیژنئیانزک|下揚斯克
+71.4833,136.2167,nikitabalagan|никитабалаган
+71.1253,136.9152,mokhnatka|мохнатка
+71.2000,136.1667,krestyakh|kiriesteekh|krestjakh|krestyayakh|крестях
+71.1500,136.6000,khleb|хлеб
+71.4000,136.0500,cherëmka|cheremka|cherjomka|yerema|черемка

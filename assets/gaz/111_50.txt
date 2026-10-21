@@ -1,0 +1,14 @@
+50.9875,111.5460,tanga|tanginskoye|танга
+50.9758,111.4207,novosaliya|novosalia|novosalija|новосалия
+50.9333,111.5833,novopavlovskoye|novopavlovsk|novopavlovskaya|novopavlovskoe|новопавловское
+50.9900,111.7977,novyyeklyuchi|novkljuchi|novkljutsji|novoklyuchi|novyekljuchi|новключи|новыеключи
+50.8432,111.5166,leninskiy|leninskij|ленинский
+50.9808,111.7799,deshulan|dushelan|dusjelan|дешулан|душелан
+50.0333,111.7167,bylyrinskiygoryachiyklyuch|bylyrinskijgorjachijkljuch|былыринскийгорячийключ
+50.9709,111.2466,arey|arej|arejskij|areyskiy|арей|арейский
+50.9988,111.8230,staryyeklyuchi|staryekljuchi|старыеключи
+50.5364,111.2141,sapba|сапба
+50.0278,111.8232,nadëzhnyy|nadezhnyy|nadjozhnyj|надежный
+50.0464,111.6851,kuzmina|кузьмина
+50.0172,111.1690,gryazi|grjazi|грязи
+50.0067,111.7617,arashantuy|arashantuj|letnikarashantuj|letnikarashantuy|арашантуй|летникарашантуй

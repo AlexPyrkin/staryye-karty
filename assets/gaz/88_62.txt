@@ -1,0 +1,4 @@
+62.8000,88.8667,tynep
+62.6167,88.7167,novosëlovo|novoselovo|novosjolovo|новоселово
+62.7667,88.5000,chulkovo|chulkova|surgum|tsjulkovo|чулково
+62.9167,88.1500,borodino|dolgaya|бородино

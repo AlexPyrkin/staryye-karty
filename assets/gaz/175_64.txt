@@ -1,0 +1,4 @@
+64.7167,175.2667,ugolnaya
+64.1500,175.8333,safonovo|safanova|zimovyesafonovo|сафоново
+64.7833,175.9333,omocha|omochakitchen|povarnyaomocha|омоча
+64.9167,175.4167,kuyveyem|kujveem|куйвеем

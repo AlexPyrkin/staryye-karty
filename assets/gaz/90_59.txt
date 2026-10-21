@@ -1,0 +1,5 @@
+59.6640,90.8380,sergeyeva|sergeeva|sergeevo|sergejevo|sergeyevka|sergeyevo|сергеева|сергеево
+59.8320,90.1810,novyygorodok|novyjgorodok|новыйгородок
+59.9233,90.6406,nizhneshadrino|nizhneshadrina|nizjnesjadrino|нижнешадрино
+59.5094,90.9322,nazimovo|nazimovskoye|назимово
+59.5706,90.8150,novonazimovo|новоназимово

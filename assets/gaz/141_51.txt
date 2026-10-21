@@ -1,0 +1,7 @@
+51.9983,141.2225,vidanovo|виданово
+51.5761,141.9410,viakhtu|vikahtu|vivakhtu|viyakhtu|виахту
+51.7266,141.7244,tyk
+51.6849,141.9620,olenevod|koopkhozolenevod|оленевод
+51.8833,141.6333,lakh|lakha|lyak|лах
+51.7979,141.1606,chikhachëvo|chikhachevo|chikhachjovo|чихачево
+51.7252,141.1061,sushchëvo|sushchevo|sushhjovo|сущево

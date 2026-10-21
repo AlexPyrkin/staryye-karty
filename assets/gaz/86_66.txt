@@ -1,0 +1,4 @@
+66.6050,86.2078,yermakovo|ermakovo|jermakovo|ермаково
+66.7333,86.5667,poloy|poloi|poloj|полой
+66.8833,86.7000,karasino|карасино
+66.6333,86.7500,denezhkino|denezjkino|денежкино

@@ -1,0 +1,4 @@
+67.6665,140.3741,suordakh|суордах
+67.9000,140.9000,olenyakh|olenjakh|yelengnyeyekh|yelëngnyëyëkh|оленях
+67.7500,140.7333,kyuerelyakh|kerelyakh|kyuryuyeleekh|kyuryuyëleekh|kyuyerelyakh
+67.2000,140.2333,khobolchan|khobolchoon|хобольчан

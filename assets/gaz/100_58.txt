@@ -1,0 +1,14 @@
+58.6865,100.6787,zaimka|заимка
+58.4167,100.0000,yerma|kashinoshiverskoye
+58.1963,100.5760,uyar
+58.6624,100.4814,tayëzhnyy|tayezhnyy|taezhnyj|tajezjnyj|таежный
+58.1167,100.6333,sizaya|sizaja|сизая
+58.0500,100.6500,prokopyevo|prokofyeva|prokopevo|prokopyeva|prokopjevo|прокопьево
+58.5333,100.4333,okunëvka|okunevka|okunjovka|окуневка
+58.5760,100.6210,nedokura|nedokurova|недокура
+58.3000,100.3500,kova|ustkova|кова
+58.3233,100.0953,kosoybyk|kosojbyk|косойбык
+58.6333,100.5167,kameshok|камешок
+58.6833,100.6333,gusevka|гусевка
+58.3361,100.0131,bolturino|balturino|болтурино
+58.5717,100.4278,alëshkino|aleshkino|aleshkina|aljoshkino|алешкино

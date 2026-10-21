@@ -1,0 +1,12 @@
+61.1500,75.2500,verkhnemysovaya|verkhnemysovaja|verkhnyayamysovaya|верхнемысовая
+61.0903,75.8200,vata|вата
+61.2490,75.1142,uryevskiye
+61.6000,75.0000,sartymuriypugol|sartymurijpugol|сартымурийпугол
+61.0333,75.4333,pokur|покур
+61.6500,75.1333,nankyagun|nangyagunpugol|nankjagun|nankyaun|нанкягун
+61.0667,75.0500,lobanovy|lobanovskiye|лобановы
+61.2333,75.3000,lismanovy|лисмановы
+61.2833,75.0833,chumpas|чумпас
+61.6360,75.0820,agan|intletovy|аган
+61.2544,75.2124,langepas|лангепас
+61.7198,75.3683,pokachi|покачи

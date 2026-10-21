@@ -1,0 +1,9 @@
+69.1609,35.1453,teribërka|teriberka|териберка
+69.0333,35.7500,serebryanskayages
+69.1500,35.9333,podpakhta|подпахта
+69.1871,35.1166,lodeynoye|lodejnoe|lodejnoje|лодейное
+69.2000,35.2333,korabelnaya|korabelnaja|корабельная
+69.0464,35.7719,golitsino|golicino|golitsyno|голицино
+69.1771,35.8460,gavrilovo|gabrilovo|гаврилово
+69.2497,35.1583,teriberskiymayak
+69.1852,35.8120,voronyë|voronye

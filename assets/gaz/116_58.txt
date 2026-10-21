@@ -1,0 +1,11 @@
+58.7500,116.9000,zolotoyyar
+58.7333,116.9167,zolotoyeustye
+58.9667,116.2333,vernyyput
+58.4167,116.1167,spektralnyy|spektralnyj|спектральный
+58.5000,116.2167,sisina|zaimkasisina|сисина
+58.9989,116.9153,perevoz|перевоз
+58.6000,116.5000,nechera|netsjera|нечера
+58.5833,116.9500,khodokan|ходокан
+58.5833,116.4000,innokentyevskiy|innokentevskij|иннокентьевский
+58.7869,116.6558,balaganakh|balaganak|ballaganakh|балаганах
+58.4194,116.0462,svetlovskijgok

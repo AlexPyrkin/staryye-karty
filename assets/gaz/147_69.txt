@@ -1,0 +1,16 @@
+69.8833,147.4333,yakutskiyeyurty
+69.5759,147.5324,vorontsovo|ercha|voroncovo|yercha|yerchi|воронцово
+69.0333,147.5000,vankina
+69.9583,147.5791,shamanovo|sjamanovo|шаманово
+69.1500,147.7500,prokhorovo|прохорово
+69.2053,147.2831,polousnyy|polousnyj|полоусный
+69.3914,147.7067,pokhvalnyy|pokhvalnoya|pokhvalnyj|похвальный
+69.2000,147.5667,pelageya|pelageja|пелагея
+69.1258,147.5220,ozhogino|ozhoginskoe|ozhogoino|ozjogino|ожогино
+69.6333,147.3500,neverkina|neverkan|неверкина
+69.8122,147.4887,khayagastakh|khajagastakh|khalgastaakh|khalgastakh|хаягастах
+69.2732,147.3532,khargytyr|khargystyr|харгытыр
+69.3667,147.3667,kamukovo|kamukova|камуково
+69.2500,147.3833,dudevo|dudeva|дудево
+69.0000,147.5000,chukuchanye|chekuchany|chukuchane|чукучанье
+69.2500,147.0167,chorokhtumsa|чорохтумса

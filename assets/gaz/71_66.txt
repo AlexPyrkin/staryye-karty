@@ -1,0 +1,7 @@
+66.9833,71.5333,yada
+66.7500,71.5000,varnya
+66.9010,71.2660,siunaisale
+66.3167,71.5667,shuga|sjuga|sukhuy|zimovyashuga|шуга
+66.7667,71.3333,mura|мура
+66.1667,71.9667,khorovaya|kharobka|kharovka|khorovaja|хоровая
+66.3333,71.2000,khe|хе

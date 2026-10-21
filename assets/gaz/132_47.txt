@@ -1,0 +1,11 @@
+47.7500,132.3000,ustbidzhan
+47.9333,132.6333,stepnoye|stepnoe|степное
+47.8096,132.3348,novoye|novoe|novoje|novyy|nowoje|новое
+47.9637,132.6695,nizhneleninskoye|nizhneleninskoe|nizjneleninskoje|нижнеленинское
+47.9427,132.6192,leninskoye|blyukherovo|leninskoe|mikhailosemenovskoye|mikhaylosemenovskoye|ленинское
+47.7782,132.1301,kvashnino|krashninskiy|kvashnina|kvasjnino|kvatninskiy|квашнино
+47.8913,132.5225,kukelëvo|kukelevo|kukelevskiy|kukeljovo|kukolevo|кукелево
+47.8551,132.0596,kirovo|кирово
+47.7965,132.1952,dezhnëvo|dezhnevo|dezhnevskiy|dezhnevskoye|dezhnjovo|dezjnevo|дежнево
+47.9406,132.0264,bashmak|basjmak|башмак
+47.9835,132.6133,leninsk|ленинск

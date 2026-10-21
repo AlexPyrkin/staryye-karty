@@ -1,0 +1,9 @@
+68.9023,28.4421,virtaniyemi|viraniemi|virtaniemi|вираниеми|виртaниеми
+68.6299,28.6417,riyka|rijka|рийка
+68.5500,28.8833,ontas|онтас
+68.4333,28.8000,ontas|онтас
+68.5667,28.6333,livana|libana|ливана
+68.7508,28.8910,kiurilo|киурило
+68.8167,28.9833,khuotari|хуотари
+68.9689,28.7781,янискоски|janiskoski|yaniskoski
+68.5495,28.9341,svetlyj

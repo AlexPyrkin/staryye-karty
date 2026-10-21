@@ -1,0 +1,7 @@
+50.1167,143.1167,voronyëgnezdo|voronyegnezdo
+50.6167,143.7000,shalash|шалаш
+50.3790,143.7519,pogranichnoye|kombinatlangeri|langeri|pogranichnoe|pogranitsjnoje|пограничное
+50.1167,143.9167,pilenga|pogranichnaya|пиленга
+50.9009,143.6185,urochishchenampi|nampi|urochishhenampi|нампи|урочищенампи
+50.1074,143.2006,langeri|лангери
+50.6333,143.4167,balagan|балаган

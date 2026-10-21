@@ -1,0 +1,7 @@
+67.1308,47.7776,volonga|волонга
+67.3611,47.8231,velikaya|velikaja|великая
+67.0167,47.8333,prishchatinitsa|prishhatinica|прищатиница
+67.0667,47.7500,prishchatenok|prishhatenok|прищатенок
+67.2667,47.8000,ludovatoye|ludovatoe|ludovatoje|лудоватое
+67.5000,47.9667,chërnoye|chernoye|chjornoe|черное
+67.1667,47.7333,beloshchelye|beloshhele|belosjtsjelje|beloyeshchelve|белощелье

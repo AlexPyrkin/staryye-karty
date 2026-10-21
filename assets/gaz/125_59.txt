@@ -1,0 +1,5 @@
+59.0460,125.3297,ustseligdar|устьселигдар
+59.2560,125.2925,ugoyan|aldan|aldanzoloto|ugojan|угоян
+59.4041,125.2331,tuora|tora|туора
+59.0333,125.3167,seligdar|селигдар
+59.1000,125.8000,imenilenina|имениленина

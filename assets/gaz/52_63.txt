@@ -1,0 +1,15 @@
+63.0628,52.0855,verkhneveslyanskiy|verkhnevesljanskij|верхневеслянский
+63.4667,52.8000,usttobysh|tobys|tobysh|тобысь
+63.6000,52.6000,ukhtinskiy
+63.3167,52.8333,tobysh|tobish
+63.3313,52.9388,tobys|тобысь
+63.0366,52.3060,ropcha|ропча
+63.0667,52.3333,popcha|ropcha|roptsja|попча|ропча
+63.5947,52.5678,perevolok|pevolok|переволок
+63.2094,52.6693,chinyavoryk|chinjavoryk|tsjinjavoryk|чиньяворык
+63.2300,52.8903,borovoy|borovoj|borovyj|borovyy|боровой|боровый
+63.1803,52.6035,mesyu|mesju|mesiu|месью
+63.4746,52.7618,kommuna|коммуна
+63.3381,52.7629,ydzhidyag|ydzhidjag|ыджидяг
+63.2402,52.8874,yukarka|jukarka|юкарка
+63.1290,52.5336,timanskiy|timanskij|тиманский

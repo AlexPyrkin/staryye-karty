@@ -1,0 +1,17 @@
+57.0889,75.2678,verkhnyayabaklyanka|verkhnjajabakljanka|верхняябаклянка
+57.4167,75.5667,ustkurenga|ustkurenginskiy
+57.0127,75.8597,spassk|spasskiy|spasskoye|спасск
+57.0737,75.9645,solovyëvka|solovyevka|solovevka|solovjovka|solovyevskiy|solovjevka|соловьевка
+57.0814,75.9435,saratovka|saratovskiy|саратовка
+57.4098,75.1033,petrovka|petrovskiy|петровка
+57.0311,75.1983,novouyka|novouyskiy|novoujka|новоуйка
+57.0167,75.0167,nikodimovka|никодимовка
+57.0333,75.4333,nikiforovka|никифоровка
+57.3409,75.1017,litkovka|litkovskiy|литковка
+57.0544,75.1587,lileyka|lilejka|лилейка
+57.0095,75.1312,korolenka|korolenko|короленка
+57.0167,75.6000,chekhovka|chekhovskiy|чеховка
+57.0388,75.6791,blagoveshchenka|blagoveshchenskiy|blagoveshhenka|blagovesjtsjenka|благовещенка
+57.3667,75.1000,berëzovka|berezovka|berezovskiy|berjozovka|березовка
+57.1333,75.9167,alturay|alturaj|malyalturay|malyyalturay|алтурай
+57.0719,75.2243,estonka|ehstonka|эстонка

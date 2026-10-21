@@ -1,0 +1,8 @@
+62.4173,163.0916,paren|naren|парень
+62.3559,163.3282,nachgaty|nachgato|nachgatö|начгаты
+62.5500,163.5000,maynatkhyr|maingatkhych|majnatkhyr|maynatkhor|maynatkhos|maynatkhys|maynatkhör|maynatkhös|mayngatkhych|майнатхыр
+62.4333,163.1833,matavik|mitavik|матавик
+62.3262,163.3203,khaimchik|khayimchun|хаимчик
+62.3500,163.2500,katnochen|катночен
+62.5000,163.0833,gelbmezya|gelbmezja|гельбмезя
+62.5333,163.4167,achkhaan|atsjkhaan|ачхаан

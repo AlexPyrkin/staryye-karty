@@ -1,0 +1,12 @@
+50.5961,132.4014,yagdynya|jagdynja|ягдынья
+50.0456,132.1712,tyrma|тырма
+50.3392,132.2865,sogda|согда
+50.9623,132.9698,mugule|мугуле
+50.6833,132.3833,mostovoy|mostovoj|мостовой
+50.2733,132.2747,moshka|мошка
+50.8480,132.3080,elga|ehlga|эльга
+50.9833,132.4167,dublikan|adnikan|dulnikanskoye|dulnikan|адникан|дубликан
+50.8671,132.2551,chekunda|cekunda|tsjekunda|txekunda|chkwndarwsyh|tshykwnda|чекунда|تشيكوندا|چکونداروسیه
+50.4175,132.2673,ushman|ушман
+50.5132,132.3328,korchagin|корчагин
+50.0129,132.1663,stroyuchastok|strojuchastok|стройучасток
