@@ -1,1 +1,0 @@
-import{Nt as Re,cn as Y}from"./chunk-ypMCTwHV.js";var u=(()=>{let t=class t{constructor(){this.sub=Re(null)}};t.ɵfac=function(e){return new(e||t)},t.ɵprov=Y({token:t,factory:t.ɵfac,providedIn:`root`});return t})();export{u as t};
