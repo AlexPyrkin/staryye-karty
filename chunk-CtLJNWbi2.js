@@ -1,0 +1,1 @@
+import{L as G,Pt as Re}from"./chunk-BIoD_NiA.js";var f=(()=>{let t=class t{constructor(){this.open=Re(!1)}};t.ɵfac=function(n){return new(n||t)},t.ɵprov=G({token:t,factory:t.ɵfac,providedIn:`root`});return t})();export{f as t};

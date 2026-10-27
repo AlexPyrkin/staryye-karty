@@ -1,1 +1,0 @@
-import{Mt as Re,sn as Y}from"./chunk-rb_zA5p0.js";var f=(()=>{let t=class t{constructor(){this.open=Re(!1)}};t.ɵfac=function(n){return new(n||t)},t.ɵprov=Y({token:t,factory:t.ɵfac,providedIn:`root`});return t})();export{f as t};
