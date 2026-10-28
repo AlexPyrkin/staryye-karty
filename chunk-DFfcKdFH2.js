@@ -1,1 +1,0 @@
-import{Rt as Ve,yr as q}from"./chunk-COXF_Cdw.js";var u=(()=>{let t=class t{constructor(){this.sub=Ve(null)}};t.ɵfac=function(e){return new(e||t)},t.ɵprov=q({token:t,factory:t.ɵfac,providedIn:`root`});return t})();export{u as t};
