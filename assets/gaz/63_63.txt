@@ -1,9 +1,0 @@
-63.8000,63.7500,vyshpyrtomskiye|vyzhnyr
-63.1833,63.6667,toboldinskiye
-63.3722,63.0556,sartynya|sartynja|sortynya|сартынья
-63.1167,63.8167,salyuripaul|saljuripaul|сальюрипауль
-63.2667,63.1333,patyspaul|patespaul|патыспауль
-63.2333,63.1000,kurtyapaul|kurtjapaul|куртьяпауль
-63.0500,63.9500,bolshoysoboklond|bolshojsoboklond|soboklont|большойсобоклонд
-63.1506,63.9867,aneyevo|aneeva|aneevo|aneyeva|aneyevskiye|aneyevy|анеева|анеево
-63.1833,63.7000,altatump|altatuma|olgotumb|oltotumb|ompatum|алтатума|алтатумп

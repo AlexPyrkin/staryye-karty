@@ -1,9 +1,0 @@
-54.5167,114.0333,stepanikha|степаниха
-54.3000,114.2500,rassoshino|rossoshino|rossosjino|рассошино|россошино
-54.4000,114.5000,orochenka|ороченка
-54.5333,114.1000,nizhnyayastepanikha|nizhnjajastepanikha|нижняястепаниха
-54.3786,114.6189,koryakinsk|korjakinsk|корякинск
-54.5500,114.9000,kormëzhka|kormezhka|kormjozhka|кормежка
-54.5667,114.9333,klyuchëvka|klyuchevka|kljuchjovka|ключевка
-54.4333,114.6833,dikayastep|dikajastep|дикаястепь
-54.0500,114.1500,arbazhankit|arbazjankit|арбажанкит

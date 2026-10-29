@@ -1,6 +1,0 @@
-63.7003,87.3263,zyryanovo|peskovskaya|zyrjanovo|зыряново
-63.1567,87.9635,verkhneimbatsk|verkhneimbatskoe|verkhneimbatskoye|verkhneinbatskaya|verkhneinbatskoe|верхнеимбатск
-63.8528,87.3442,surgutikha|сургутиха
-63.8833,87.5667,nizhneimbatskoye|nizhneimbatskoe|nizhneinbatskaya|nizhneinbatskoe|nizjneimbatskoje|нижнеимбатское
-63.4450,87.3053,kangotovo|kangatovo|канготово
-63.3069,87.6136,alinskoye|alinskaya|alinskoe|alinskoje|алинское

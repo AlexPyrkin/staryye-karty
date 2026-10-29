@@ -1,4 +1,0 @@
-68.7000,34.8333,karozero|карозеро
-68.2667,34.3333,chudzyavr|chudzjavr|chudzyarvi|чудзьявр
-68.8738,34.1107,auroravillage
-68.8774,34.1260,turbazakm

@@ -1,4 +1,0 @@
-51.1001,131.3510,melginskayabaza|melginskajabaza|мельгинскаябаза
-51.1578,131.9052,nyarotma|njarotma|няротма
-51.7568,131.0292,isa|иса
-51.5219,131.5255,etyrken|ehtyrkehn|этыркэн

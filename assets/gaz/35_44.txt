@@ -1,9 +1,0 @@
-44.8719,35.1062,sonyachnadolyna|koz|kozy|qoz|solnechnajadolina|solnechnayadolina|soniachnadolyna|sonjachnadolina|козы|коз|солнечнаядолина|сонячнадолина
-44.9385,35.1583,shchebetovka|otus|otuz|otuzy|scebetovka|scebetovko|shchehbehtouka|shebetovka|shhebetovka|xiebietuofuka|ŝĉebetovko|șcebetovka|шчэбэтоўка|щебетовка|շչեբետովկա|謝別托夫卡
-44.9646,35.2477,koktebel|kaktehbel|koektoebel|koktebelo|köktöbel|planerske|planerskoye|keketaibeili|kokuteberi|kwktbl|kwktblrwsyh|kwktybl|kwktybyl|кактэбель|коктебель|կոկտեբել|كوكتيبيل|کوکتبل|کوکتبلروسیه|کوکتیبل|コクテベリ|科克泰贝利
-44.9640,35.3558,kayhador|kaihador|kajgador|kaygador|ordzhonikidze|кайгадор|орджоникидзе|орджонікідзе
-44.9118,35.1894,kurortne|asagiotuz|aşağıotuz|kurortnoe|nizhnijotuz|курортне|курортное|нижнийотуз
-44.8693,35.0600,bogatovka|bagativka|tokluk|багатівка|богатовка|токлук
-44.8487,35.0437,mindalnoye|arkaderesi|mindalne|mindalnoe|аркадереси|миндальне|миндальное
-44.9245,35.0754,krasnokamyanka|feodosia|feodosija|feodosiya|kiziltash|krasnokamjanka|krasnokamenka|krasnokamianka|kyzyltash|qiziltas|qızıltaş|кизилташ|краснокаменка|краснокамянка|феодосія
-44.8600,35.1337,pribrezhnoye|priberezhne|pribrezhnoe|прибережне|прибрежное

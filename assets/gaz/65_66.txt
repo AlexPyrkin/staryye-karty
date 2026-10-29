@@ -1,9 +1,0 @@
-66.1443,65.6734,yukhyamkhot
-66.3996,65.6975,yugangort
-66.0778,65.6020,vyrvozh
-66.4620,65.5750,tushgort|tusjgort|тушгорт
-66.2000,65.8167,nangyamgort|nangjamgort|нангямгорт
-66.0492,65.5339,lokhpodgort|лохподгорт
-66.8014,65.8081,kharp|charp|harp|xarp|haerpu|harupudoushijuzhuquyu|kharprwsyh|χαρπ|харп|խարպ|خارپروسیه|ハルプ都市居住区域|哈尔普
-66.1667,65.9167,khalepigor|khalepugor|халепигор|халепугор
-66.0833,65.6667,bolshayaob|bolshajaob|большаяобь

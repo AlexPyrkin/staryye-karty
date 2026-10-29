@@ -1,5 +1,0 @@
-57.1667,105.0000,mikheyevo|mikheevo|mikheyeva|михеево
-57.1233,105.0113,maksimovo|maksimova|максимово
-57.6667,105.0167,bolshayaicheda|bolshajaicheda|большаяичеда
-57.1965,105.0587,bobrovka|бобровка
-57.8771,105.8815,icheda

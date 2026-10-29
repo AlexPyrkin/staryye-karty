@@ -1,6 +1,0 @@
-63.6486,62.1097,sosva|sosvinskaya|sosvinskayakultbaza|сосьва
-63.6000,62.2000,shomy|sjomy|yurtyshomy|шомы
-63.4167,62.5167,kugi|куги
-63.5167,62.1667,khorsaypaul|khorsajpaul|yurtykhorsimpaul|хорсайпауль
-63.4333,62.3000,khonga|хонга
-63.3500,62.8000,bedkazh|bedkash|бедкаж|бедкаш

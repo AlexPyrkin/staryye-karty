@@ -1,8 +1,0 @@
-57.3469,98.1112,polinchet|polintsjet|полинчет
-57.1595,98.4443,petropavlovka|petropavlovskoye|петропавловка
-57.3511,98.1871,kondratyevo|kondrashevo|kondratevo|kondratjevo|кондратьево
-57.3809,98.0183,kadareya|kadareja|kandareya|кадарея
-57.2164,98.5759,brusovo|брусово
-57.5322,98.3999,kadareyskiy|kadarejskij|кадарейский
-57.1940,98.3829,novyy|novyj|новый
-57.0771,98.6549,yekunchet|ekunchet|екунчет

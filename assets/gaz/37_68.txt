@@ -1,8 +1,0 @@
-68.8667,37.0167,zolotaya|zalotaya
-68.6292,37.7891,vostochnayalitsa|litsa|litsavostochnaya|vostochnajalica|vostotsjnajalitsa|восточнаялица
-68.7333,37.4667,semiostrovskoye|semiostrovskoe|семиостровское
-68.7000,37.5667,plekhanovo|плеханово
-68.7787,37.3254,kharlovka|харловка
-68.8333,37.1000,chegodayevka|chegodaevka|чегодаевка
-68.8104,37.3322,ostrovkharlov|островхарлов
-68.7384,37.2657,turbazaharlovka

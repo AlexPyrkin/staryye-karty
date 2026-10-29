@@ -1,9 +1,0 @@
-58.8528,112.9020,vorontsovka|voroncovka|vorontsovskayapristan|воронцовка
-58.0833,112.9833,verkhnyayalugovka
-58.9283,112.2258,ustyemalykh|ustmalykh|ustemalykh|устьмалых|устьемалых
-58.2891,112.9638,teterinsk|teterinskoye|тетеринск
-58.3096,112.9038,mama|мама
-58.0614,112.8928,lugovskiy|lugovskij|ustlugovka|луговский
-58.0833,112.9833,lugovka|луговка
-58.8333,112.2167,kishechnyy|batalova|kishechnyj|кишечный
-58.2469,112.9244,chukcha|tsjuktsja|чукча

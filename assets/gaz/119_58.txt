@@ -1,4 +1,0 @@
-58.4572,119.5245,torgo|торго
-58.8298,119.7243,tokkinskaya|tokkinskoe|tokkinskoje|токкинское
-58.2044,119.2570,tarynnakh|тарыннах
-58.4196,119.0453,kedrovyy|kedrovyj|кедровый

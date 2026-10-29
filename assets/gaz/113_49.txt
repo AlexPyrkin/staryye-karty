@@ -1,4 +1,0 @@
-49.6790,113.0150,mikhaylopavlovsk|mikhailopavlovsk|mikhajlopavlovsk|михайлопавловск
-49.7604,113.1387,turgen|турген
-49.9167,113.3833,kundulun|кундулун
-49.8833,113.3000,bytev|бытев

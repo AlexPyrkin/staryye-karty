@@ -1,7 +1,0 @@
-71.5000,137.1833,yarok
-71.0167,137.5833,tastakh
-71.0833,137.8333,kusunaan|кусунаан
-71.2000,137.5500,khayachas|khajachas|khayagas|хаячас
-71.0667,137.7000,dyuley|djulej|дюлей
-71.0333,137.9833,chape|чапе
-71.5167,137.0000,amyator|amjator|amnator|амятор

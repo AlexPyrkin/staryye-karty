@@ -1,4 +1,0 @@
-71.8500,101.9500,nakhon|нахон
-71.7333,101.1500,imenistakhanova|именистаханова
-71.7000,101.5500,ignatyevskiy|ignatevskij|игнатьевский
-71.7500,101.3000,faktoriyanovaya|faktorijanovaja|факторияновая

@@ -1,8 +1,0 @@
-54.7500,125.7333,yerofeyevskiy
-54.8333,125.4167,vspomogatelnyy|vspomogatelnoy|vspomogatelnöy
-54.4667,125.8667,voskresenskiy
-54.3704,125.7850,ostrovnoy|lazarevskiy|ostrovnoj|островной
-54.7627,125.8789,mogoktak|могоктак
-54.9605,125.2191,kurbatovskiy|kurbatovskij|курбатовский
-54.9836,125.2597,fart|farta|farto|фарт
-54.4313,125.6648,levayatynda|levajatynda|леваятында

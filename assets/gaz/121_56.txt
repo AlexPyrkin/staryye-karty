@@ -1,9 +1,0 @@
-56.5621,121.5915,ustnyukzha|nyukzha|srednyayanyukzha|ustnjukzha|ustnjukzja|устьнюкжа
-56.5692,121.8878,taluma
-56.3833,121.4833,stanovishchezolotoiskateley|campzolotoiskateley|stanovishhezolotoiskatelej|zolotoiskateley|становищезолотоискателей
-56.8833,121.0667,pervyyevyboryvverkhovnyysovet|pervyevyboryvverkhovnyjsovet|первыевыборывверховныйсовет
-56.6000,121.4500,nyukzha|njukzha|нюкжа
-56.5898,121.6693,leontyevskiy|leontevskij|леонтьевский
-56.3891,121.9635,dyugabul|djugabul|дюгабуль
-56.6220,121.4141,mostovoy|mostovoj|мостовой
-56.5948,121.6473,yuktali|juktali|юктали

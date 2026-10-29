@@ -1,9 +1,0 @@
-50.8128,92.6826,torgalyg|торгалыг
-50.7330,92.0756,khandagayty|handagaytay|khandagajty|хандагайты
-50.8000,92.9500,kadyybazhi|kadyjbazhi|kadyjbazji|кадыйбажи
-50.8167,92.6833,dabusutusomon|chabasatasuma|дабусутусомон
-50.8333,92.9000,chingedërgun|chingedergun|chingedjorgun|чингедергун
-50.8230,92.7620,chasur|tsjasur|часур
-50.8167,92.7500,arygbazhi|arygbazji|арыгбажи
-50.7667,92.0000,arygbazhi|arygbazji|арыгбажи
-50.8167,92.6167,akkarasug|аккарасуг

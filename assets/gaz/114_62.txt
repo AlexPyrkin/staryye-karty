@@ -1,6 +1,0 @@
-62.0500,114.0333,kharyya|kharyja|харыя
-62.3167,114.3000,byldzhati|быльджати
-62.4492,114.3278,almaznyy|almaznyj|алмазный
-62.1069,114.1878,zarya|zarja|заря
-62.3844,114.3483,arylakh|арылах
-62.4511,114.1028,berëzovka|berezovka|berjozovka|березовка

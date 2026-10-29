@@ -1,6 +1,0 @@
-66.4789,137.5649,tayakhyurekh
-66.3096,137.1664,nyandelga|njandelga|няньдельга
-66.3801,137.2300,krasnayagorka|krasnajagorka|краснаягорка
-66.3242,137.9052,cheulik|чеулик
-66.8667,137.3833,charkytogoy|charky|charkytogoj|чаркытогой
-66.3692,137.4589,burgavli|бургавли

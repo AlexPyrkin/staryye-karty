@@ -1,8 +1,0 @@
-54.3500,94.1500,zherba|zhorba
-54.9771,94.1373,mina|мина
-54.8167,94.7000,mimiya|mimija|мимия
-54.9333,94.7333,listvyazhnoye|listvjazhnoe|листвяжное
-54.9363,94.2136,kuturchin|kutorchin|kuturchino|kuturtsjin|кутурчин
-54.9412,94.0908,ivanovka|ивановка
-54.6255,94.7029,yulyevskiy|julevskij|юльевский
-54.8998,94.0512,talka|талка

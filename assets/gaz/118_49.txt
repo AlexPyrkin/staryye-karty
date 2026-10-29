@@ -1,7 +1,0 @@
-49.7167,118.1833,verkhniyargun|bolshoyargun|verkhnyayaargun
-49.7000,118.1667,ustnarynskiy|poselokustnarynskiy|posëlokustnarynskiy
-49.7453,118.2599,sredneargunsk|sredniyargun|sredniyargunsk|srednyayaargun|среднеаргунск
-49.8320,118.4007,kaylastuy|kailastui|kajlastuj|kaydastuy|khaydastuy|khaylastuy|кайластуй
-49.9560,118.5963,kaptsegaytuy|kapcegajtuj|kaptsagaytuy|koptsagaytuy|korsagaitui|капцегайтуй
-49.6772,118.0165,brusilovka|brusilovski|brusilovskiy|brusilovskoye|брусиловка
-49.7500,118.3167,bogachi|богачи

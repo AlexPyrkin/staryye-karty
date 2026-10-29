@@ -1,5 +1,0 @@
-58.3642,95.3340,verkhoturovo|verkhoturova|верхотурово
-58.4583,95.4594,ordzhonikidze|ordzjonikidze|potoskuy|орджоникидзе
-58.2167,95.0119,kokuy|kokuj|kukuy|кокуй
-58.5489,95.8469,kamenka|shiverarybalnayakamenka|каменка
-58.3100,95.1536,staryybyk|byk|staryjbyk|бык|старыйбык

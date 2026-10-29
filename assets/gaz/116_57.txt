@@ -1,6 +1,0 @@
-57.7333,116.2000,starayaberëzovskaya|starayaberezovskaya|starajaberjozovskaja|starayaberezovskayarezidentsiya|стараяберезовская
-57.4167,116.4667,siskovo|zimovyesiskovo|сисково
-57.1866,116.4426,oron|орон
-57.6914,116.0136,krasnyybychëk|krasnyybychek|krasnybychek|krasnyjbychjok|rezidentsiyakrasnyybychek|красныйбычек
-57.7667,116.1500,berëzovka|berezovka|berjozovka|novayaberezovskayarezidentsiya|березовка
-57.4167,116.6167,baznyy|baznyj|базный

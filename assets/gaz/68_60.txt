@@ -1,6 +1,0 @@
-60.6848,68.3971,yangulovskiye
-60.5079,68.0722,sogom|согом
-60.0333,68.8000,siglya|siglja|yurtysiglinskiye|сигля
-60.2833,68.4000,nyurkoy|njurkoj|нюркой
-60.1833,68.4167,kososor|кососор
-60.3333,68.9667,altay|altaj|алтай

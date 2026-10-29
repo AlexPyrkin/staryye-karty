@@ -1,4 +1,0 @@
-67.4000,68.6333,verkhneyeshchuchye|verkhnyayashchuchya
-67.2833,68.7000,sredneyeshchuchye|sredneeshhuche|srednyayashchuchya|среднеещучье
-67.2500,68.6833,shchuchye|shhuche|shuchya|sjtsjutsje|щучье
-67.0000,68.4333,sedelnikovo|sedelnikovskiy|седельниково

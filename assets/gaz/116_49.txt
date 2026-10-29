@@ -1,4 +1,0 @@
-49.7862,116.8897,sharasun|шарасун
-49.8500,116.9833,nadarovskiy|nadarovskij|nadarovskoye|postnadarovski|надаровский
-49.9257,116.8455,dauriya|dauria|daurija|daurskoye|даурия
-49.7685,116.9796,tsemas|cemas|цемас

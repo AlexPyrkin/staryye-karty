@@ -1,6 +1,0 @@
-47.9977,23.6990,teresva|tarackoez|taracköz|tehrehsva|tereswa|terešva|téresva|taileisiwa|trsbh|тересва|тэрэсва|տերեսվա|טערעסיף|טרסבה|泰雷斯瓦
-47.9829,23.9090,serednievodiane|serednevodjane|serednehvodjane|serednyevodyane|sredneyevodyanoye|середнэводяне|середнєводяне
-47.9473,23.8743,solotvyno|aknaszlatina|slatina|solotvino|solotwyno|sołotwyno|солотвино
-47.9500,23.8667,slatinaselo|faluszlatina|seloslatina|слатинасело
-47.9667,23.8667,slatinadoly|aknaszlatina|flatindol|slatinskedoly|slatuiskedoly|solotvinskekopalne|слатинадолы
-47.9498,23.8957,bilatserkva|belayatserkov|bilacerkva|білацерква

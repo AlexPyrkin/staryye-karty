@@ -1,4 +1,0 @@
-50.5000,91.3000,sagly|kyzyltey|саглы
-50.6000,91.6000,khorumnugoy|khorumnugoj|хорумнугой
-50.5000,91.3500,charashdyt|чарашдыт
-50.7500,91.7000,borashay|borashaj|борашай

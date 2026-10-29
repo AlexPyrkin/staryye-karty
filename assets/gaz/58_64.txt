@@ -1,4 +1,0 @@
-64.3468,58.2186,ustpatok|patokvom
-64.1667,58.5667,ustmalyypatok|malyyustpatok
-64.1963,58.0326,michabichevnik|мичабичевник
-64.0712,58.6394,gordyuvom|gordjuvom|гордювом

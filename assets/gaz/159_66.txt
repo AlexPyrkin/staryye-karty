@@ -1,4 +1,0 @@
-66.1333,159.1667,zatishye|povarnyazatishye
-66.5667,159.4000,shepetkovo|шепетково
-66.5000,159.5167,kryukovo|krjukovo|крюково
-66.3833,159.4167,berëzkina|berezkina|ambarberezkina|berjozkina|березкина

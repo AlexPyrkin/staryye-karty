@@ -1,8 +1,0 @@
-56.8000,122.3000,vershinaamedichi|zimovyevershinaamedichi
-56.6833,122.8000,sirik|zimovyesirik|сирик
-56.6814,122.2818,naldzhikanpervyy|naldykan|naldykanj|naldzhikan|naldzhikanpervyj|налджикан|налджиканпервый|нальдыканй
-56.6800,122.4210,kabaktan|кабактан
-56.7667,122.5667,gurtakh|kurtakh|гуртах
-56.7479,122.3841,naldzhikantretiy|naldykan|naldzhikantretij|налджикантретий
-56.0113,122.4106,chilchi|чильчи
-56.6996,122.2932,naldzhikanvtoroy|naldzhikanvtoroj|налджиканвторой

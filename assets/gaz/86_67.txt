@@ -1,7 +1,0 @@
-67.7667,86.2667,yerëminskoye|yereminskoye|eremino
-67.4167,86.5167,starayaigarka|starajaigarka|стараяигарка
-67.4500,86.6167,polyarnyy|poljarnyj|полярный
-67.2833,86.5000,pogorelskoye|pogorelskoe|shadrino|погорельское
-67.9380,86.4066,plakhino|plahino|plokhino|плахино
-67.6398,86.2079,nosovaya|nosovaa|nosovaja|nosovoye|носовая
-67.4655,86.6027,igarka|iaa|igarkae|игаркæ|игарка

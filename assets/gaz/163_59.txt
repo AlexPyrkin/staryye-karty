@@ -1,8 +1,0 @@
-59.8490,163.4492,krasnoye|krasnoe|krasnoje|красное
-59.4905,163.1883,tymlat|tuumlyat|тымлат
-59.3000,163.0500,ossorskiy|ossorskij|оссорский
-59.2495,163.0720,ossora|asora|osora|osszora|aosuola|асора|осора|оссора|օսորա|オッソラ|奥索拉|奧索拉
-59.7924,163.3887,belorechensk|beloretsjensk|kichiga|kirchiga|белореченск
-59.1096,163.1207,karaga|karaginsk|карага
-59.9721,163.7902,anapka|анапка
-59.0399,163.1679,kostroma|кострома

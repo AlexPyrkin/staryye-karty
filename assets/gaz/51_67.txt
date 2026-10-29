@@ -1,7 +1,0 @@
-67.4857,51.8813,verkhnyayakamenka|kommunavozrozhdeniye|vozrozhdeniye
-67.1667,51.6000,syropyatovo
-67.5000,51.8667,nizhnyayakamenka|nizhnjajakamenka|нижняякаменка
-67.3667,51.9167,krasnayapechora|kommunakrasnayapechora|krasnajapechora|краснаяпечора
-67.0320,51.1416,kotkino|kotkina|коткино
-67.5167,51.9167,kamennoynos|kamennojnos|kamennyynos|каменнойнос
-67.5580,51.9550,hongurej

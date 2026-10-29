@@ -1,6 +1,0 @@
-59.5851,154.1422,yamsk|bolshoyeustye|jamsk|yamskoye|ямск
-59.8615,154.1850,malkachan|malkatsjan|малкачан
-59.6143,154.1615,koopgorodok|maloyeustye|коопгородок
-59.9833,154.4000,iret|иреть
-59.6374,154.2987,brokhovo|brokhova|брохова|брохово
-59.9923,154.4938,novayairet|novajairet|новаяиреть

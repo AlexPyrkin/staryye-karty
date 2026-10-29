@@ -1,7 +1,0 @@
-49.3218,137.0769,verkhnyayamanoma|verkhnjajamanoma|верхняяманома
-49.3667,137.4667,konodate|kondake|konodake|конодате
-49.2000,137.0000,chuin|чуин
-49.2335,137.2375,bira|arsenevo|arsenyevo|арсеньево|бира
-49.5806,137.0216,kuchi|кучи
-49.2171,137.0882,arsenyevo|arsenevo|арсеньево
-49.1684,137.0012,yuzhnyy|juzhnyj|южный

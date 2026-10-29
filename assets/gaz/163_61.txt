@@ -1,3 +1,0 @@
-61.6667,163.0333,isyen|isen|исен
-61.6333,163.1667,dana|oana|дана
-61.7000,163.2833,bolshayaitkana|bolshajaitkana|большаяиткана

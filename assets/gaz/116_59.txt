@@ -1,8 +1,0 @@
-59.4370,116.8062,vesëlyy|veselyy|veselyj|веселый
-59.5667,116.6667,valeryevskiy
-59.0000,116.9000,ustkhomolkho|khomolkho|ustkhomolkha|устьхомолхо
-59.1667,116.4000,polovinka|половинка
-59.4000,116.2000,pecherskiy|pecherskij|petsjerskij|печерский
-59.2328,116.9917,molbo|molvo|молбо|молво
-59.6167,116.1333,mayskiy|maiski|maiskiy|majskij|майский
-59.6000,116.0333,burnyy|burnyj|бурный

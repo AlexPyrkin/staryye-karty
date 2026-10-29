@@ -1,6 +1,0 @@
-53.9448,75.0150,yermak|ermak|jermak|ермак
-53.9614,75.0602,tatarka|tatarski|tatarskiy|татарка
-53.8833,75.0514,olkhovka|ольховка
-53.9075,75.1253,narodnyypervyy|narodnyjpervyj|narodnyyypervyy|народныйпервый
-53.9731,75.3233,kuznetsovka|kuznetsovskiy
-53.9172,75.0736,narodnyyvtoroy|narodnyjvtoroj|narodnyyyvtoroy|народныйвторой

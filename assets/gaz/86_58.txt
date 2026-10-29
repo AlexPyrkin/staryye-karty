@@ -1,6 +1,0 @@
-58.6864,86.5529,beloyarovka|belojarovka|belyyyar|белояровка
-58.6431,86.7664,stepanovka|степановка
-58.6714,86.8069,maksimkinyar|makimoyarovskoe|maksimkinjar|maksimoyarovskoye|maksimoyarskoye|максимкиняр
-58.7647,86.0736,druzhnyy|druzhnyj|druzjnyj|yagodnyy|yagodnyymys|дружный
-58.6833,86.2000,alipka|yurtyalipkiny|алипка
-58.9507,86.0021,tsentralnyy|centralnyj|tsentralnyj|центральный

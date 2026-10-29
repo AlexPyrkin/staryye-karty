@@ -1,4 +1,0 @@
-59.3333,91.1667,ponomarëvo|ponomarevo|ponomareva|ponomarjovo|пономарева|пономарево
-59.1667,91.3333,ostyatskaya|ostjatskaja|остятская
-59.1500,91.3000,nizhnesavina|savina|savino|savyna|нижнесавина
-59.2672,91.3056,kolmogorovo|kholmogorovo|kolmogorovskoye|колмогорово

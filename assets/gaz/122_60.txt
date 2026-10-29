@@ -1,5 +1,0 @@
-60.4667,122.3833,yershova|zimovyeyershova
-60.5585,122.3937,uritskoye|urickoe|uritskoje|урицкое
-60.5667,122.1167,krugloye|kruglaya|krugloe|krugloje|круглое
-60.5877,122.8975,khatyngtumul|khatyntumul|khatyntumuya|хатынгтумул
-60.5588,122.6052,beloye|belaya|beloe|beloje|белое

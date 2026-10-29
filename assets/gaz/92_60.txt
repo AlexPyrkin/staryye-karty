@@ -1,7 +1,0 @@
-60.5070,92.7183,yelizavetinskiy|elizavetinskij|jelizavetinskij|елизаветинский
-60.3667,92.6167,teystroy|teystrol
-60.3720,92.6296,teya|teja|tyyakrasnwyarskdyary|тея|տեյա|تئیاکراسنویارسکدیاری
-60.4500,92.4000,noyba|nojba|нойба
-60.2739,92.9414,mikhaylovskiy|mikhajlovskij|novomikhaylavskiyuspenskiy|novomikhaylovskiy|михайловский
-60.5838,92.6244,suvorovskiy|suvorovskij|суворовский
-60.0352,92.9839,verkhneyeyenashimo|verkhneeenashimo|verkhnejejenasjimo|верхнееенашимо

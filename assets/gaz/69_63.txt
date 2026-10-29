@@ -1,4 +1,0 @@
-63.5500,69.1667,yuilskiygorodok|yurtyyuilskiygordok
-63.6779,69.6440,yuilsk|juilsk|юильск
-63.7000,69.3000,olespolakkurt|олесполаккурт
-63.7333,69.6667,madenvuryykurt|madenvuryjkurt|маденвурыйкурт

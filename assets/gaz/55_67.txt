@@ -1,5 +1,0 @@
-67.3167,55.7167,layavozh|lajavozh|лаявож
-67.2500,55.8833,karrol|карроль
-67.5268,55.0703,tekhnosfera
-67.6107,55.1226,layavozhskoe
-67.1787,55.6864,komandirshor

@@ -1,7 +1,0 @@
-59.7500,118.0667,sosnovyybor|baykalov|sosnovyjbor|сосновыйбор
-59.9408,118.8944,kochegarovo|kochegarovskaya|kochegarskaya|kotsjegarovo|кочегарово
-59.7933,118.4714,innyakh|innjakh|innyakhskaya|иннях
-59.7167,118.1000,illyunskaya|illjunskaja|yellyunskiy|иллюнская
-59.9167,118.6000,delgeyskaya|delgejskaja|дельгейская
-59.9094,118.6158,delgey|delgej|дельгей
-59.6833,118.2833,berëzovskaya|berezovskaya|berjozovskaja|березовская

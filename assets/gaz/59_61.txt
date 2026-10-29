@@ -1,5 +1,0 @@
-61.3000,59.7667,yurtaprokopiya|prokopiya|yurtappokopiya
-61.8833,59.8333,yachipaul
-61.6340,59.9783,vtoroysevernyy|severnyyvtoroy|vtorojsevernyj|второйсеверный
-61.1667,59.9167,novyyvizhay
-61.1794,59.7089,tokhta|bakhtiyarovka|тохта

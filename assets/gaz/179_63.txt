@@ -1,6 +1,0 @@
-63.0833,179.3167,pervoyepole|pervoepole|первоеполе
-63.0618,179.2548,nagornyy|nagornyj|нагорный
-63.2559,179.1230,kommunist|коммунист
-63.0610,179.3505,beringovskiy|beringovskij|bukhtaugolnaya|ugolnaya|ugolnyy|ugolnoe|беринговский
-63.1305,179.0301,alkatvaam|алькатваам
-63.0667,179.2667,nagornyy|nagornyj|нагорный

@@ -1,6 +1,0 @@
-49.0022,132.1404,kandalik|kondalik|кандалик
-49.0157,132.2298,budukan|budikan|будукан
-49.0167,132.3167,bolshoykitay|bolshojkitaj|большойкитай
-49.0017,132.4644,bira|birskij|birskiye|bila|birading|byrajyfryj|byrh|бира|бирский|біра|բիրա|בירה|بيراجيفريج|ビラ町|比拉
-49.1318,132.9995,novyy|novyj|новый
-49.4464,132.1200,severnyy|severnyj|северный

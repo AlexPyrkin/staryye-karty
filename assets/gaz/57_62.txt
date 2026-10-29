@@ -1,6 +1,0 @@
-62.6270,57.5499,yeremeyevo|eremeevo|jeremejevo|yeremeyevka|еремеево
-62.9333,57.4000,sochustye|sochuste|сочьустье
-62.6717,57.7669,saryudin|sarjudin|sarujudin|саръюдин
-62.6162,57.2223,maksim|maksimovo|максим
-62.6464,57.1266,anton|antonovo|антон
-62.6262,57.4586,priuralskiy|gabe|martiyudin|priuralskij|приуральский

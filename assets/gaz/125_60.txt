@@ -1,7 +1,0 @@
-60.9685,125.9235,kytyldyura|dura|kytyldjura|kytylzhura|zhura|zhurinskaya|кытылдюра
-60.8596,125.5855,krestyakh|kresteekh|krestjakh|stanitsakrestyakh|крестях
-60.8122,125.3319,isit|isitskaya|isitskoya|исит
-60.8466,125.6694,dzhekemde|dzjekemde|джекемде
-60.7741,125.0154,churan|churanskaya|churu|chuuru|чуран
-60.7698,125.2184,churan|bazachuran|churanskayabaza|tsjuran|чуран
-60.2937,125.2670,buotama|буотама

@@ -1,9 +1,0 @@
-48.6382,141.9007,staritsa|kotan|starica|старица
-48.8696,141.9774,senogorye|kitausu|senogore|sinegorye|сеногорье
-48.8414,141.9298,orlovo|unari|ushiro|ushiyoro|usiioro|usiro|орлово
-48.8433,141.9484,olshanka|hamanaiko|naiko|olsjanka|ольшанка
-48.6500,141.8833,novovyselki|karukishi|karukushi|novoyyevyselki|нововыселки
-48.7167,141.8833,mostovaya|isara|itsiyaranay|mostovaja|sara|мостовая
-48.8118,141.8794,krutoyyar|endo|endokushinaibo|ento|krutojjar|yento|крутойяр
-48.9286,141.9897,izylmetyevo|horogishi|horokeshi|horokishi|horokisi|izemermetyevo|izmermetyevo|izylmetevo|izylmetjevo|изыльметьево
-48.7812,141.8507,lamanon|ламанон

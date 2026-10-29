@@ -1,6 +1,0 @@
-48.6000,139.8500,ulma|stoybishcheulma
-48.8667,139.9667,tutto|tutta
-48.0815,139.3767,nizhnyayamulpa|mulpa|multo|nizhnjajamulpa|нижняямульпа
-48.0500,139.4000,koreyskaya|korejskaja|koreyskayazaimka|корейская
-48.1231,139.6862,adzhima|adzhimi|adzjima|аджима
-48.8163,139.9985,chipali|чипали

@@ -1,7 +1,0 @@
-53.1000,128.2000,zavershayushchiy
-53.0511,128.6639,shirokiy|shirokij|sjirokij|широкий
-53.0156,128.6499,oktyabrskiy|oktjabrskij|октябрьский
-53.4500,128.2833,neupokoyevskoye|neupokoevskoe|неупокоевское
-53.1333,128.0167,lenskiy|lenskij|ленский
-53.0285,128.6224,dorozhnyy|dorozhnyj|dorozjnyj|дорожный
-53.4952,128.7492,depdolbyr|депдолбырь

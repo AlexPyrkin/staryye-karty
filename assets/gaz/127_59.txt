@@ -1,7 +1,0 @@
-59.6498,127.1168,verkhnyayaamga
-59.6000,127.0333,ustmodut|zimovyeustmodut
-59.7500,127.8500,ultulumyr
-59.4833,127.0167,modutorota|zimovyemodotorota|модуторота
-59.9333,127.1667,kurunkenkga|kurunkenkyu|kurungkyunkyu|курункенкга
-59.6333,127.0667,buyaginskiy|bujaginskij|буягинский
-59.6500,127.1667,buyaga|bujaga|буяга

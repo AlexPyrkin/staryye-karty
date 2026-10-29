@@ -1,9 +1,0 @@
-62.7000,146.8000,tukainka
-62.1563,146.5014,imeniraskovoy|imenimarinyraskovoj|imenimarinyraskovoy|imeniraskovoj|именимаринырасковой|именирасковой
-62.8208,146.6262,emtygey|ehmtygej|emtegey|эмтыгей
-62.9333,146.1167,ayanyuryakhskiy|ajanjurjakhskij|eyelik|zelik|аянюряхский
-62.2000,146.7833,argayuryakhskiy|argajurjakhskij|аргаюряхский
-62.9163,146.3946,adygalakh|адыгалах
-62.0703,146.7702,tokichan|токичан
-62.8133,146.8422,bolshoykhatyngnakh|bolshojkhatyngnakh|большойхатынгнах
-62.7913,146.1974,petenikan|петеникан

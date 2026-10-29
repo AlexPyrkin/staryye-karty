@@ -1,8 +1,0 @@
-66.3915,131.4983,ulaga|ulakha|улага
-66.6762,131.7712,suordakh|sordakh|суордах
-66.1794,131.3814,oymu|ojmu|ойму
-66.1000,131.8333,mostagakh|мостагах
-66.7661,131.6247,yekyuchchyu|khonu|khonuokyuchchu|okjuchchju|okjutsjtsju|окюччю
-66.5304,131.8336,khatyngnakh|khatynnakh|хатынгнах
-66.0328,131.5097,alysardakh|alysardokh|алысардах
-66.9986,131.9036,agday|agdaj|агдай

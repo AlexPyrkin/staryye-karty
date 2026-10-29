@@ -1,4 +1,0 @@
-62.7333,177.6167,valkelvaam
-62.9000,177.1000,pekulveyem|pekulveem|пекульвеем
-62.5389,177.0527,meynypilgyno|mainapilgen|mainapylgin|mainapylyin|maynapolgen|maynapylgen|maynapylgin|maynapylgyn|maynopylgino|maynopilgyn|mejnypilgyno|мейныпильгыно
-62.5833,177.2333,druzhba|дружба

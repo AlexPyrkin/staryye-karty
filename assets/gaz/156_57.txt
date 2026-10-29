@@ -1,5 +1,0 @@
-57.2186,156.8510,ustkovran
-57.0937,156.7415,ustkhayryuzovo|ustkhajrjuzovo|ustkharyuzovo|ustkharyuzovskoe|устьхайрюзово
-57.0500,156.6000,ustbelogolovoye
-57.1667,156.5833,ptichiy|ptichij|птичий
-57.2008,156.8899,kovran|kavran|ковран

@@ -1,7 +1,0 @@
-57.0500,101.6667,vladimirovka|vladimirova
-57.0830,101.6486,podyelanka|podedanka|poduelanka|подъеданка|подъеланка
-57.0167,101.8000,nepomilova|непомилова
-57.0500,101.5833,korolëva|koroleva|koroljova|королева
-57.0500,101.6000,fëdorova|fedorova|fjodorova|федорова
-57.0000,101.5333,anikino|аникино
-57.0233,101.5622,podyelanka|poduelanka|подъеланка

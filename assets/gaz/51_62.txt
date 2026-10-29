@@ -1,8 +1,0 @@
-62.8434,51.3320,vozhayël|vozhayel|vozhyol|vozhael|vozjajel|вожаель
-62.6990,51.2880,trakt|тракт
-62.8629,51.8905,sindor|sindar|sindorskaya|syndwrrwsyh|xinduoer|синдор|сіндар|սինդոր|سیندورروسیه|辛多尔
-62.0681,51.4457,nyanyayël|nyanyayel|njanjajol|nyanyayol|няняель
-62.3500,51.0167,kyltovskaya
-62.3333,51.0000,detskiygorodok|detskijgorodok|детскийгородок
-62.7622,51.4911,chernorechenskiy|chernorechenskij|tsjernoretsjenskij|чернореченский
-62.6818,51.1011,rakpas

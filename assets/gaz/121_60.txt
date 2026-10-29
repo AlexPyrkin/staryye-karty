@@ -1,7 +1,0 @@
-60.6167,121.6333,sovetskoye|sovetskaya|sovetskiy|sovetskoe|sovetskoje|советское
-60.5735,121.8498,russkayarechka|russkajarechka|russkaya|russkorechinskaya|russkorechenskaja|russkorechenskaya|russkorechka|russkoretsjenskaja|русскаяречка|русскореченская
-60.7057,121.1285,namana|намана
-60.6630,121.4464,khorintsy|kharintsy|khorincy|хоринцы
-60.5851,121.0402,kharyyalakh|khariyalakh|kharyjalakh|харыялах
-60.6333,121.1333,chagoydakh|chagaydakh|chagojdakh|чагойдах
-60.6462,121.1810,balagannakh|балаганнах

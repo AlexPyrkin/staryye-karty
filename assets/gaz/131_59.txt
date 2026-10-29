@@ -1,4 +1,0 @@
-59.0156,131.7539,kutana|кутана
-59.1336,131.8675,bubyakin|bubjakin|zimovyebubyakina|zimovyesbubyakina|бубякин
-59.0167,131.8500,bubyaki|bubjaki|zimovyebubyakina|бубяки
-59.1849,131.8923,belkachi|belgechi|belkatsji|bielkechi|белькачи

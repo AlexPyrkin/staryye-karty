@@ -1,6 +1,0 @@
-61.4016,55.2139,yndin|ындин
-61.7459,55.2033,lopyuvad|lopjuvad|lopujuvad|лопъювад|лопьювад
-61.5718,55.0133,krasnoyar|krasnojar|краснояр
-61.1160,55.0330,kanava|kanavskaya|канава
-61.8987,55.1121,timsher|lesnoyuchastoktimshor|timshor|timsjer|тимшер
-61.4864,55.5731,beloborsk|белоборск

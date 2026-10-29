@@ -1,4 +1,0 @@
-65.8598,55.1420,vaskino|васькино
-65.9581,55.1548,mutnyymaterik|mutnymaterik|mutnyjmaterik|мутныйматерик
-65.0333,55.9667,khrebtovaya|khrebtovaja|хребтовая
-65.0145,55.2871,borovaya|borovaja|kanmuka|боровая

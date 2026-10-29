@@ -1,9 +1,0 @@
-58.2667,67.4167,varmakhlinskiye|varmakhli|varmakhlinskoye|вармахли
-58.3333,67.1333,topkinbash
-58.0667,67.9000,podrezovo|podrezova|подрезова|подрезово
-58.6167,67.9333,noskinskiye|noskinskaja|noskinskie|носкинская|носкинские
-58.8667,67.8000,nizhnyayarynya|nizhnjajarynja|нижняярынья
-58.4333,67.0667,makhlinskiye|makhlinskie|махлинские
-58.4083,67.4592,laytamak|lajtamak|laymatamakskiye|лайтамак
-58.7000,67.6333,izemetskiye|izemetskie|иземетские
-58.7920,67.3100,achiry|achirskiye|achirskiyeyurty|atsjiry|ачиры

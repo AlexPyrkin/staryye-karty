@@ -1,5 +1,0 @@
-55.3141,123.1625,usturkima|grazhdanin|устьуркима
-55.1833,123.3833,urkima
-55.2205,123.3842,srednyayanyukzha|srednjajanjukzha|средняянюкжа
-55.4986,123.1172,larba|ларба
-55.3711,123.7684,khorogochi|хорогочи

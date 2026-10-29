@@ -1,1 +1,0 @@
-import{r as T}from"./chunk-RVNbQz2-.js";var t=T(`Device`,{web:()=>import(`./chunk-D6EIku14.js`).then(r=>new r.DeviceWeb)});export{t as Device};

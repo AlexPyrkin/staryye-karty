@@ -1,4 +1,0 @@
-62.1000,75.4500,yermakovai
-62.1833,75.8000,vatyaunpugol|vatyaun
-62.0000,75.0667,narmayaun|narmajaun|нармаяун
-62.5225,75.8386,povkh

@@ -1,5 +1,0 @@
-73.3500,126.3000,starayabuorkhaya|northborkhia|starajabuorkhaja|стараябуорхая
-73.3816,126.6001,sagastyr|sagastyyr|signalthorp|сагастыр
-73.1833,126.0833,novayabuorkhaya|borkhaga|borkhia|novajabuorkhaja|новаябуорхая
-73.3881,126.3865,dunay|dunaj|дунай
-73.3179,126.5012,bulun|belun|bulung|northbelun|northbulun|upperbulun|булун|булунг

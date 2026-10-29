@@ -1,5 +1,0 @@
-55.4000,120.6000,usttungir|soyuzzoloto
-55.4249,120.5463,srednyayaolëkma|srednyayaolekma|srednjajaoljokma|средняяолекма
-55.4167,120.2333,nizhnyayamokla|nizhnjajamokla|нижняямокла
-55.2500,120.5000,kachalova|качалова
-55.3500,120.0167,betekhtina|бетехтина

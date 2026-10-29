@@ -1,7 +1,0 @@
-55.8482,110.1418,verkhnyayazaimka
-55.9000,110.4000,ushikhta
-55.8667,110.0500,tipuki
-55.9167,110.5167,lichima|lichimi|личима
-55.9387,110.1012,kichera|kitsjera|кичера
-55.3858,110.9100,chipchikon|chipchikan|tsjiptsjikon|чипчикон
-55.8271,110.1037,angarakan|ангаракан

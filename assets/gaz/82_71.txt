@@ -1,5 +1,0 @@
-71.8858,82.6897,sopkarga|sopochnayakarga|сопкарга
-71.7833,82.8333,oshmarino|otmarine|ошмарино
-71.7619,82.7022,narzoy|narzoj|нарзой
-71.9167,82.5833,mironovskaya|mironovskaja|мироновская
-71.3967,82.9908,dorofeyevsk|dorofeevsk|dorofeevskaja|dorofejevskaja|dorofeyevskaya|дорофеевск|дорофеевская

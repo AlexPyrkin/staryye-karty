@@ -1,6 +1,0 @@
-64.8767,37.9443,yarenga|jarenga|yarensa|яреньга
-64.3805,37.4337,purnema|puryema|пурнема
-64.4155,37.9270,nizhmozero|nijmaozernaya|nizjmozero|nizmaozernaya|нижмозеро
-64.4433,37.0708,lyamtsa|ljamca|lyamtsi|lyamtzi|lyamtzy|seleniyelyamtsy|лямца
-64.9715,37.6940,lopshenga|lopsjenga|лопшеньга
-64.4775,37.9347,verhneozerskij

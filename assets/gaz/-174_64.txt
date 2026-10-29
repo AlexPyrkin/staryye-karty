@@ -1,8 +1,0 @@
-64.4081,-173.9401,sireniki|silunliqi|сиреники|斯伦里奇
-64.3579,-173.7364,imtuk|имтук
-64.7167,-173.8333,kultelyvik|retkaurgun|культелывик
-64.3758,-173.2167,ureliki|urelek|urelik
-64.4229,-173.2264,provideniya|coloniaprovidentiae|pvs|portprovideniya|pravidzennja|providenia|providenija|provideņija|providénia|providéniya|providěnija|provigyenyija|provintenigia|prowidenija|prowidienija|peulobideniya|prwbydnyyh|prwwydnyya|prwwydynya|puluoweijieniya|purovuideniya|ryfbrwfydynya|προβιντενίγια|правідзення|провидения|провиденија|провіденія|פרובידנייה|ريفبروفيدينيا|پروویدنییا|پروویدینیا|プロヴィデニヤ|普罗维杰尼亚|프로비데니야
-64.3500,-173.3500,plover|пловер
-64.7500,-173.1167,kalyarik|kaljarik|калярик
-64.4027,-173.2073,vladimirhistorical

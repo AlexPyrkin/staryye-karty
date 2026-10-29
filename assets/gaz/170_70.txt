@@ -1,5 +1,0 @@
-70.0875,170.9471,valkarkay|tumannayastantsiya|valkarkai|valkarkhay|валькаркаи
-70.1224,170.5509,tumannayastantsiya
-70.0814,170.5709,shelagskiy|shelagskij|sjelagskij|шелагский
-70.0667,170.6000,ponnegyrgyn|ponegyrgin|поннегыргын
-70.0333,170.5833,meynerylkay|manyrylken|maynyrylken|mejnerylkaj|мейнерылькай

@@ -1,8 +1,0 @@
-48.0610,136.3900,zolotoy|zolotoj|золотой
-48.9603,136.3073,sinda|синда
-48.1833,136.0500,nizhniydurminskiy|nizhnijdurminskij|нижнийдурминский
-48.1978,136.1243,mukhen|мухен
-48.9182,136.2445,mayak|majak|mysmayak|mysmajak|маяк|мысмаяк
-48.1253,136.0348,malayasidima|malajasidima|sidima|малаясидима
-48.8768,136.0300,chelny|zelenyjgaj|zelenyygay|зеленыйгай|челны
-48.9892,136.3142,iskra|искра

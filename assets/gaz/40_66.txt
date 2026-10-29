@@ -1,7 +1,0 @@
-66.5078,40.5838,sosnovka|derevnyasosnovka|sosnovec|sosnovskiy|сосновец|сосновка
-66.5833,40.7000,snezhnitsa|snezhkitsa|snezhnica|yeliseyevka|снежница
-66.3301,40.1730,likhodeyevka|bolshayalikhodeyevka|likhodeevka|лиходеевка
-66.5000,40.6167,kachalovo|качалово
-66.3667,40.2667,izbamalayababya|izbamalajababja|malayababya|избамалаябабья
-66.3833,40.3000,izbabolshayababya|babya|babye|bolshayababya|izbabolshajababja|избабольшаябабья
-66.4871,40.6799,sosnovets|sosnovec|сосновец

@@ -1,6 +1,0 @@
-72.6000,129.0000,verkhniyarangastakh|verkhnyyarangastakh
-72.0044,129.1109,bykovskiy|bykovskij|tumus|быковский
-72.1499,129.2408,arybykovskoye|arybykovskoe|arybykovskoje|aryybykovskoye|арыбыковское
-72.5589,129.1678,arangastakh|nezhid|арангастах|нежид
-72.8792,129.3522,anoshkinsk|anosjkinsk|аношкинск
-72.1343,129.3788,dallalakh|даллалах

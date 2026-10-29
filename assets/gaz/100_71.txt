@@ -1,4 +1,0 @@
-71.9500,100.7833,sokolovskiy|sokolova|sokolovskij|соколовский
-71.7333,100.8333,kononovskiy|kononovskij|кононовский
-71.8000,100.0000,isayevskiy|isaevskij|исаевский
-71.0000,100.6000,gulitsentralnoye|gulicentralnoe|гулицентральное

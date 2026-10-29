@@ -1,7 +1,0 @@
-62.4491,55.2873,zelenets|zelenec|зеленец
-62.7544,55.8275,nizhnyayaomra|nizhnjajaomra|нижняяомра
-62.7322,55.7014,grishestav|grisjestav|гришестав
-62.8066,55.4238,verkhnyayaomra
-62.7711,55.6379,badyël|badyel|badel|badujol|бадъель
-62.8392,55.2533,nibel|нибель
-62.8957,55.1026,dorozhnyy|dorozhnyj|dorozjnyj|дорожный

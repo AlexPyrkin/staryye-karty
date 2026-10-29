@@ -1,4 +1,0 @@
-52.7138,95.7256,yrban|ырбан
-52.6662,95.5069,systygkhem|ustsistigkhem|сыстыгхем
-52.7500,95.8333,khamsara|khamzyra|хамсара
-52.0000,95.3833,karakhem|karakem|карахем

@@ -1,4 +1,0 @@
-71.4833,98.5833,podkhrebetnyy|podkhrebetnyj|подхребетный
-71.3000,98.2667,mezenskiy|mezenskij|мезенский
-71.2000,98.0000,kargo|карго
-71.5333,98.8000,gorelyy|gorely|gorelyj|горелый

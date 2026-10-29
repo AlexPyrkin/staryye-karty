@@ -1,5 +1,0 @@
-64.1167,161.0000,omolon|омолон
-64.2167,161.0333,krestik|крестик
-64.1000,161.0333,krestik|krestikpovarnya|povarnyakrestik|крестик
-64.3617,161.9672,kegali|кегали
-64.6000,161.6667,karginto|zimovyekarginto|каргинто

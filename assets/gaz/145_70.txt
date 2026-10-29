@@ -1,8 +1,0 @@
-70.9167,145.5833,ukta|uukta
-70.0167,145.8000,suokurdakh|суокурдах
-70.7500,145.8833,sordongnookh|povarnyasordonakh|сордонгноох
-70.0000,145.0833,sobonoydokh|sabonaydakh|sobonnoydakh|sobonnoydookh|sobonojdokh|собонойдох
-70.6000,145.8500,seleenkyuyel|seleehnkjuel|selyankyuyel|селеэнкюель
-70.1167,145.9667,nichalakh|nychalakh|ничалах
-70.1500,145.6833,maskyuyely|maskjuely|maskyuyel|маскюелы
-70.1833,145.4833,maskel|masnel|маскель

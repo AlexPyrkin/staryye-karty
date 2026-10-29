@@ -1,8 +1,0 @@
-65.1442,35.8283,rebolda|rebalda|reybalda|ребалда|реболда
-65.1476,35.6486,novososnovaya|novososnovaja|novososnovoe|novososnovoye|новососновая|новососновое
-65.0253,35.7097,solovetsky|csh|salavecki|soloveckij|solovecki|soloveckoj|solovets|solovetski|solovetskij|solovetskiy|solowezki|swlwwtayskayarkhanqlskawblasty|swlwwtsky|салавецкі|соловетский|соловецки|соловецкий|соловецкой|соловецький|سولووتایسکایآرخانقلسکاوبلاستی|سولووتسکی
-65.0917,35.5167,beluzhye|beluzhe|beluzje|белужье
-65.1174,35.6040,savvatyevo|savatevo|savatyevo|savvatevo|саватьево|савватьево
-65.0519,35.6622,gorki|горки
-65.0948,35.6139,isakovo|исаково
-65.0267,35.9035,muksalma|муксалма

@@ -1,4 +1,0 @@
-70.7897,130.9256,tasary
-70.8501,130.7500,nayba|najba|nyayba|найба
-70.2333,130.0833,kobakh|кобах
-70.9833,130.3000,emeldzhyankhomoto|ehmeldzhjankhomoto|эмельджянхомото

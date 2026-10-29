@@ -1,6 +1,0 @@
-59.7623,119.3539,ustmolbo|ambardakh|ustmolvin|ustmolvo
-59.0560,119.7940,tyanya|tjanja|тяня
-59.9829,119.8377,tokko|chekurdakh|токко
-59.7833,119.5000,kudalakh|yakutskoyeseleniyekudalakh|кудалах
-59.2000,119.3667,khoppuruo|kopro|хоппуруо
-59.4778,119.3019,byaskyuyël|byaskyuyel|beskyuyel|beskyuyele|beskyuyël|bjaskjuel|bjaskjujol|drazhny|drazhnyy|бяськюель

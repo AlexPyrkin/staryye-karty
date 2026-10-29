@@ -1,8 +1,0 @@
-64.8291,29.7836,vazhenvara|vasonvaara|vyazhenvara
-64.8042,29.9887,torzhema|toersaemoe|törsämö
-64.8199,29.8508,sharkivara|saerkivaara|särkivaara|шаркивара
-64.8632,29.8081,nyauvara|naukuvaara|njauvara|няувара
-64.9633,29.7244,nizhniyelapukki|alalupukka|lapukkai|nizhnielapukki|nizhnyayalapukka|нижниелапукки
-64.8329,29.8878,latvozero|ladvozero|latvajaervi|latvajärvi|ладвозеро|латвозеро
-64.8524,29.8961,khappovara|haapavaara|хапповара
-64.9918,29.7523,ylälapukka|ylaelapukka

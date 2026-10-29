@@ -1,4 +1,0 @@
-65.6118,72.6842,staryynadym|staryjnadym|старыйнадым
-65.5333,72.5167,nadym|faktoriyanadym|nym|nadim|nadom|nadymas|nadõm|nademu|надим|надым|ناديم|نادیم|納德姆
-65.9333,72.6667,khambiyakha|khambijakha|хамбияха
-65.9500,72.1667,ivlevskiyepeski|ivlevskiepeski|ivlevskiye|iyevlevskiyepeski|ивлевскиепески

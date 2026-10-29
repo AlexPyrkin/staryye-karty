@@ -1,7 +1,0 @@
-53.1534,157.6885,sokoch|sokotsj|сокоч
-53.1253,157.7491,nachiki|natsjiki|начики
-53.3293,157.4752,malki|malka|malkova|малки
-53.0833,157.4000,kosogor|косогор
-53.6958,157.6227,ganaly|ganal|ганалы
-53.1814,157.6339,dalniy|dalnij|nachikinskiy|дальний
-53.3220,157.5386,malkinskiegoryachieistochniki

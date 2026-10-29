@@ -1,7 +1,0 @@
-67.7833,144.2000,sygannakh|syagaannaakh
-67.0500,144.4167,kyllakh|kylgas
-67.7697,144.4909,kubergene|kebergene|kuberganja|куберганя|кубергене
-67.6356,144.7586,krestmayor|krestmajor|maiorkrest|mayorkrest|mayyarkiries|крестмайор
-67.6000,144.3833,kin|кин
-67.7000,144.8500,choronus|чоронус
-67.9000,144.5667,boralyakh|boraljakh|боралях

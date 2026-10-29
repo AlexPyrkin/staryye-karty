@@ -1,9 +1,0 @@
-64.8495,143.5110,zakharenko|tirekhtyakh|захаренко
-64.5697,143.2370,ustnera|nera|oestnera|oustnera|usr|ustniera|usťněra|uusnara|yuryakhterde|usuchinera|устнера|устьнера|уусньара|ウスチネラ
-64.9833,143.2833,kuobakhbaga|куобахбага
-64.5454,143.1211,indigirskiy|indigirskaya|indigirskij|индигирский
-64.1833,143.0167,imenipokryshkina|именипокрышкина
-64.5127,143.6059,dzhargalakh|джаргалах
-64.4903,143.8585,balagannakh|балаганнах
-64.5500,143.4333,atyuryakh|atjurjakh|атюрях
-64.5701,143.3119,nerskij

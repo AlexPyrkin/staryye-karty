@@ -1,4 +1,0 @@
-59.2000,126.6000,temnyakit|yelenda|zimovyeyelenda
-59.1833,126.7333,tayakhtakh|recha|rega
-59.2833,126.1333,oroken|orochen|орокен
-59.3333,126.8667,modut|bolshoygorelyymodut|модут

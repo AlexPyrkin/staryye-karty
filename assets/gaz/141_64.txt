@@ -1,6 +1,0 @@
-64.3000,141.4667,selerikan|селерикан
-64.7500,141.1833,razvedchik|разведчик
-64.2802,141.4530,otor|отор
-64.4333,141.9167,nizhneelginskiy
-64.5615,141.6739,elginskiy|ehlginskij|elginskij|tongor|эльгинский
-64.7588,141.5506,alyaskitovyy|aljaskitovyj|аляскитовый

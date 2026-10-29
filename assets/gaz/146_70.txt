@@ -1,4 +1,0 @@
-70.4500,146.1000,sordongnookh|povarnyasordongnokh|сордонгноох
-70.9500,146.3333,omuksien|omuksiehn|omuksen|povarnyaomuksen|омуксиэн
-70.2000,146.6000,krestyakh|krestjakh|zimovyekrestyakh|крестях
-70.9833,146.4000,khoptolookh|kholtolokh|povarnyakholbolokh|хоптолоох

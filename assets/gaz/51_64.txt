@@ -1,6 +1,0 @@
-64.9290,51.6810,verkhovskaya|verkhovskaja|верховская
-64.9742,51.8901,stepanovskaya|stepanovskaja|степановская
-64.9544,51.8254,skitskaya|skitskaja|скитская
-64.8545,51.4703,novozhilovskaya|novozhilov|novozhilova|novozhilovka|novozhilovskaja|новожиловская
-64.7707,51.0801,levinskaya|levinskaja|levkina|levkinskaja|левинская|левкинская
-64.9667,51.9833,churkino|churkina|чуркино

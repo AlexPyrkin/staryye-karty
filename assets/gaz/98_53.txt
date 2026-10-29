@@ -1,7 +1,0 @@
-53.8456,98.2781,nerkha|нерха
-53.6833,98.9167,monkres|monyres|монкрес|монырес
-53.6833,98.9500,mankres|манкрес
-53.5000,98.4167,krestik|крестик
-53.9308,98.8206,khadama|хадама
-53.6833,98.8167,aroy|aroj|арой
-53.6397,98.2183,alygdzher|alygdzjer|alygjer|kultbazaalygdzher|алыгджер

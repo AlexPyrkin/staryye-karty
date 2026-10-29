@@ -1,7 +1,0 @@
-64.6333,172.5500,seklyuk|sekljuk|секлюк
-64.8500,172.8500,rykaramkyn|рыкарамкын
-64.5833,172.9833,rumilet|румилет
-64.8667,172.9333,penkigney|penkignej|пенкигней
-64.5000,172.7833,kytannay
-64.7167,172.8333,gilmimyl|ilmyml|ilmyll|гильмимыль
-64.2333,172.0167,alganskaya|alganskaja|alganskayapovarnya|povarnyaalganskaya|алганская

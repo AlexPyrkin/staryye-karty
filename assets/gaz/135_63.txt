@@ -1,4 +1,0 @@
-63.9141,135.8522,tompo|tomponskayakultbaza|tompovskayakultbaza|томпо
-63.4167,135.8000,talasy|zimovyetalasy
-63.0167,135.2000,khatynuryakh|khatynurjakh|pochtovayastantsiyakhatynuryakh|хатынурях
-63.1500,135.4333,byas|bjas|pochtovayastantsiyabyas|бясь

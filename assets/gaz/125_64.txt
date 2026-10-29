@@ -1,5 +1,0 @@
-64.8901,125.2422,tunguskhaya|tunguskhaja|tunguskhayata|тунгусхая
-64.3667,125.4167,modut|modutskiy|модут
-64.5667,125.3333,kuropatkalakh|куропаткалах
-64.4500,125.8500,ebelyakh|ehbeljakh|эбелях
-64.4333,125.5667,chachanda|zhokhutskiy|чачанда

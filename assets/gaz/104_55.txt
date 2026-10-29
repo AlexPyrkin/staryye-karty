@@ -1,5 +1,0 @@
-55.8379,104.2317,yasachnaya|jasachnaja|ясачная
-55.8333,104.0000,solodkova|sladkova|солодкова
-55.7000,104.0000,lykhino|lukhina|lykhina|лыхино
-55.7333,104.0167,konstantinovo|константиново
-55.9181,104.0910,kochenga|коченга

@@ -1,5 +1,0 @@
-66.2142,46.7819,tarasovo|tarasov|vyseloktarasov|тарасово
-66.5833,46.5833,sukharev|sukhareva|сухарев
-66.5674,46.5278,saviny|savino|савино|савины
-66.6436,46.4923,oma|ома
-66.7167,46.4500,chupovo|чупово

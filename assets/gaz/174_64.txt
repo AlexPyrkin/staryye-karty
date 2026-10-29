@@ -1,6 +1,0 @@
-64.8422,174.2797,tanyurer|tanjurer|танюрер
-64.9333,174.0333,omrylkot|омрылькот
-64.6667,174.2333,kurupkan|kurupken|курупкан
-64.6306,174.7759,krasneno|krasino|krasnennoye|krasnenoye|краснено
-64.5000,174.0333,imtuk|имтук
-64.7592,174.2083,chikayevo|chekayevo|chikaevo|tsjikajevo|vaykat|vaynat|чикаево

@@ -1,5 +1,0 @@
-50.9964,56.3049,yuryevka|jurevka|jurjevka|yuryevskiy|юрьевка
-50.9483,56.2667,vesëlyyvtoroy|veselyyvtoroy|veselyjvtoroj|веселыйвторой
-50.9186,56.3333,troitskiy
-50.9423,56.0065,svobodnyy
-50.9560,56.1244,kharkovka|kharkovskiy|kharkovskoye|харьковка

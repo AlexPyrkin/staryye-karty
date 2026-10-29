@@ -1,8 +1,0 @@
-59.8602,137.6130,yur|jur|юр
-59.7550,137.6918,yugorënok|yugorenok|jugorenok|jugorjonok|yugarenok|yugarënok|югоренок
-59.4473,137.0802,ytyga|ытыга
-59.8333,137.9167,glukhar|глухарь
-59.8167,137.7000,geroy|geroj|герой
-59.9000,137.7000,dombra|домбра
-59.8000,137.6333,dogor|догор
-59.8070,137.8936,khlebnyy|khlebnyj|хлебный

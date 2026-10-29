@@ -1,8 +1,0 @@
-53.4714,122.7946,sgibneva|sgibnevo|сгибнева|сгибнево
-53.9833,122.8833,pioner|voskresenka|voskresenskgoldmine|voskresenskiy|пионер
-53.5317,122.4427,ignashinka|ignashino|kurortignashino|игнашинка|игнашино|курортигнашино
-53.5833,122.9167,kudikinskiy|kudakanskiy|kudikanskiy|kudikanskiyegoldmine|kudikinskij|кудикинский
-53.4624,122.4026,ignashino|игнашино
-53.9962,122.1433,malayaomutnaya|malajaomutnaja|малаяомутная
-53.9925,122.0412,itashino|иташино
-53.9809,122.0049,yagodnyy|jagodnyj|ягодный

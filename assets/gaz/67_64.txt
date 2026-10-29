@@ -1,8 +1,0 @@
-64.4000,67.6000,yugantaygort
-64.6833,67.5833,vashnël|vashnel
-64.7833,67.3333,sangymgort|kunovat|samgymgort|сангымгорт
-64.7667,67.3667,sangomgort|sangymgort|сангомгорт|сангымгорт
-64.9333,67.0000,ruvagort|рувагорт
-64.5500,67.5833,pittaport|pitta|питтапорт
-64.8167,67.2000,kuzyagort
-64.8167,67.0833,azyalgort|azialgort|azjalgort|azyapgort|азялгорт

@@ -1,5 +1,0 @@
-64.6667,49.3333,shegmas|shegmasskaya|shegmasskoye|shegmesskoe|sjegmas|шегмас
-64.9000,49.9500,pizhemskaya|pizhemskaja|пижемская
-64.6449,49.1228,larkino|larkina|larkinskoe|ларкино|ларькино
-64.8000,49.2167,kobylskaya|kobylskaja|кобыльская
-64.7333,49.6667,chetlas|четлас

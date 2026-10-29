@@ -1,5 +1,0 @@
-63.3000,131.8333,tandinskaya|tandinskoye
-63.2333,131.1000,maltakhan|maltakaan|малтахан
-63.3479,131.6080,kresty|кресты
-63.2000,131.5167,dalyktakh|далыктах
-63.2321,131.0002,cheriktey|cheriktej|tsjeriktej|чериктей

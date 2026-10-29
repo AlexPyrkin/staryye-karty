@@ -1,8 +1,0 @@
-60.5943,27.9346,torfyanovka|laitsalmi|laytsalmi|reinikkala|rikkola|torfjanovka|ylaeurpala|yläurpala|торфяновка
-60.5234,27.9045,primorskoye|orslacht|orslakht|orslahti|orslakhti|pokhioysorslakhti|pokhyoisorslakhti|pokhyoysorslakhti|primorskoe|приморское
-60.5008,27.8011,patio|patco|pattso|патио|патцо
-60.0167,27.8167,lavansaari|loefsaloe|loevskaer|löfsalö|lövskär|лавансаари
-60.6337,27.9709,krasnayagorka|kolhola|krasnajagorka|laykhayarvi|краснаягорка
-60.5667,27.8500,koskela|kiskilaioki|коскела
-60.5500,27.8333,kiyskinlakhti|kiiskilahti|kiiskinlakhti|kijskinlakhti|kiskilacht|kiskilakht|kiyskilakhti|кийскинлахти
-60.0493,27.0051,kiyskinkyulya|juzhnajaderevnja|kiiskinkylae|kiiskinkylä|kijskinkjulja|кийскинкюля|южнаядеревня

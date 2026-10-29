@@ -1,5 +1,0 @@
-52.8333,157.3167,primorskiy|primorskij|приморский
-52.9170,157.0490,apacha|apatsja|апача
-52.1071,157.6569,khodutka
-52.2911,157.9999,asachinskoe
-52.7859,157.8321,karymchinskieistochniki

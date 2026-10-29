@@ -1,7 +1,0 @@
-62.1310,64.1166,tunzinkurt|tukzinkurt|tuzinkurt|yurtyyunzimkurt|тузинкурт
-62.3786,64.0981,shukhtungort|khukhturgort|shukhturkurt|sjukhtungort|шухтунгорт
-62.6000,64.5833,sarykurt|sarikurt|сарыкурт
-62.8667,64.9667,ruzitgort|рузитгорт
-62.7622,64.3519,punga|пунга
-62.5333,64.4333,nerga|nergakurt|nergokurt|yurtynerga|нерга
-62.9833,64.9500,koltysyana|koltysjana|yurtykoltysyana|колтысьяна

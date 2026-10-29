@@ -1,9 +1,0 @@
-65.6000,42.5167,sunduk|сундук
-65.9667,42.5667,nizhniykelts|nizhnijkelc|нижнийкельц
-65.6069,42.5414,kuchema|kutsjema|stanovishchekuchema|stanovishchesundukovo|staroyesundukovo|кучема
-65.9833,42.5500,koydozero|kojdozero|койдозеро
-65.9833,42.3500,koptyakovskiy|koptjakovskij|koptyayevskiy|vyselkikoptyayevskiy|коптяковский
-65.7000,42.8833,gorshok|staryygorshok|горшок
-65.9561,42.2623,anufriyevskiy|anufrievskij|anufrijevskij|ануфриевский
-65.9429,42.4357,nizhniyekeli|izbanizhniyekeli|nizhniekeli|нижниекельи
-65.7086,42.9488,rybzavod|рыбзавод

@@ -1,3 +1,0 @@
-53.0243,131.6241,uspenskiy|uspenskij|успенский
-53.0333,131.4167,petrovskiy|petrovskij|петровский
-53.0667,131.6667,malomya|malomja|natalinskiy|маломя

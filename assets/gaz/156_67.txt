@@ -1,8 +1,0 @@
-67.6484,156.2850,urpakh|zimovyeurpakh
-67.8333,156.1167,ruzhnikova|ruzhnykova|ружникова
-67.9505,156.4500,pomazkino|gornitsa|помазкино
-67.6333,156.2667,mysovaya|mysovaja|zimovyemysovaya|мысовая
-67.9246,156.7205,chërnyymys|chernyymys|chernyjmys|chjornyjmys|tsjernyjmys|черныймыс
-67.7035,156.2855,bystraya|bystraja|zimovyebystraya|быстрая
-67.6667,156.2500,bulardaakh|buolkadakh|булардаах
-67.1315,156.5809,berëzovka|berezovka|berjozovka|turakhtas|березовка

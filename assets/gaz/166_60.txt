@@ -1,8 +1,0 @@
-60.7592,166.1682,vetvey|vetvej|ветвей
-60.4297,166.0657,tilichiki|telichiki|tilichiky|tilighiki|tilitsjiki|тиличики
-60.3667,166.3167,olyutorka|oljutorka|olyutorskoe|olyutorskoye|oyayutorkoye|oyayutorskoye|олюторка
-60.2333,166.8000,novoolyutorka|novoolyutorskiy|novooljutorka|новоолюторка
-60.4716,166.2874,kultushino|kultushnoe|kultushnoye|kultusjino|kulutusheno|култушино
-60.3714,166.0162,korf|korfovskiyeugolnyyekopi|korfovskoye|корф
-60.9579,166.8469,khailino|khailine|khayilino|khaylano|khaylino|хаилино
-60.6000,166.0667,avyavaam|avjavaam|uvyavayam|авьяваам

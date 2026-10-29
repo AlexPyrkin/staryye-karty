@@ -1,9 +1,0 @@
-58.5167,99.8333,sosnova|sosnovaya|соснова
-58.5000,99.7731,rozhkova|rozhkouka|rozjkova|рожкова
-58.5950,99.3803,prospikhino|prospikhina|проспихино
-58.7167,99.0333,podyelantsy|poduelancy|подъеланцы
-58.5253,99.5981,pashina|pashino|pasjina|пашина
-58.6333,99.3333,nizhnyayarechka|nizhnjajarechka|нижняяречка
-58.6063,99.1740,kodinsk|kny|kadzinsk|kodinskaya|kodinskayazaimka|kodinskij|kodinskiy|kodynsk|kodyńsk|kódinsk|kejinsike|kwdynsk|кадзінск|кодинск|кодинский|كودينسك|کودینسک|科金斯克
-58.7000,99.3167,koda|кода
-58.3706,99.9503,dvorets|dvorec|дворец

@@ -1,5 +1,0 @@
-62.1797,159.0865,garmanda|tsentralnayagarmanda|гарманда
-62.4598,159.8292,mestorozhdeniedalnee
-62.5297,159.7640,mestorozhdeniesopkakvarcevaya
-62.0676,159.2680,khankan|ханькан
-62.4562,159.8034,start|старт

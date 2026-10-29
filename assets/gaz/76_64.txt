@@ -1,4 +1,0 @@
-64.1304,76.8108,vengopur|faktoriyavyngapur|vehngopur|vengapur|vyngapur|вэнгопур
-64.4340,76.5026,gubkinskiy|gubkinskij|губкинский
-64.4803,76.6897,purpe|пурпе
-64.4381,76.4701,gubkinsky

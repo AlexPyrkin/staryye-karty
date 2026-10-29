@@ -1,5 +1,0 @@
-58.4333,159.3667,voyampolkaosedlaya|vayampalka|vojampolka|voyampolka|воямполка
-58.3071,159.3934,voyampolka|voyampolkakochevaya
-58.5091,159.1751,ustvoyampolka|ustvojampolka|устьвоямполка
-58.4078,159.2671,korn|корн
-58.8333,159.6333,kakhtana|kokhtana|кахтана

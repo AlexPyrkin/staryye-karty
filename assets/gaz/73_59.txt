@@ -1,7 +1,0 @@
-59.4420,73.3766,usanovy|усановы
-59.7140,73.2550,tsynganiny|cynganiny|цынганины
-59.2338,73.9868,taylakova|tajlakova|taylakovy|тайлакова
-59.5868,73.2904,taurovo|taurova|taurovy|таурова|таурово
-59.7950,73.2395,soporkiny|saporkiny|сопоркины
-59.6770,73.2984,kuplandeyevy|kuplandeevy|купландеевы
-59.4292,73.5499,pokachëvy|pokachevy|pokachjovy|покачевы

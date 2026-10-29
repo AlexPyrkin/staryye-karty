@@ -1,9 +1,0 @@
-55.5859,155.8697,ostrog|острог
-55.1167,155.5833,ustkrutogorovo
-55.6667,155.7000,talniki
-55.8167,155.7167,saichik|saychek|саичик
-55.2407,155.6156,nizhnyayaoblukovina|nizhoblukovina|nizhneoblukovino|nizhneyeoblukovino|nizhnjajaoblukovina|nizjoblukovina|нижоблуковина|нижняяоблуковина
-55.0260,155.5919,krutogorovskiy|krutogorovskij|krutogorovskiykombinat|крутогоровский
-55.0373,155.8962,krutogorovo|krulogorovo|krutogorova|крутогорово
-55.6084,155.6123,ichinskiy|ichinskij|ichinskiykombinatnomervtoroy|itsjinskij|ичинский
-55.5667,155.9833,icha|ича

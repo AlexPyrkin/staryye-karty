@@ -1,6 +1,0 @@
-56.1294,100.0440,chuksha|savelskaya|savelskiy|savelyeskaya|savelyeva|savelyevka|savelyevskaya|savelyevskiy|чукша
-56.1911,100.8873,turma|турма
-56.2474,100.4286,tareya|tareja|toreya|тарея
-56.1324,100.2405,sosnovka|сосновка
-56.9697,100.8505,kovinskiy|kovinskij|ковинский
-56.2744,100.6182,ognëvka|ognevka|ognjovka|огневка

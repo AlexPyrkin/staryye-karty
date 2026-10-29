@@ -1,6 +1,0 @@
-66.6883,42.5735,yuzhnyyposëlok|yuzhnyyposelok
-66.7569,42.5053,severnyygorodok|severnyjgorodok|северныйгородок
-66.3771,42.5470,koyda|koida|kojda|койда
-66.5099,42.2338,voronovskiy|voronovskij|вороновский
-66.7578,42.4229,staryymayak|staryjmajak|старыймаяк
-66.7335,42.4373,zolotukha

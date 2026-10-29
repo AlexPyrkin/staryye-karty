@@ -1,6 +1,0 @@
-68.8167,156.4000,sav|zimovyesav|савь
-68.0833,156.3167,olbuy|olbuj|zimovyeolbuy|олбуй
-68.2251,156.0465,megelyakh|megeljakh|meselyakh|zimovyemeselyakh|мегелях
-68.7667,156.0000,malyytalakh|malyjtalakh|малыйталах
-68.7833,156.9667,chukrop|чукроп
-68.8167,156.3333,amyakhsynkel|amjakhsynkel|амяхсынкель

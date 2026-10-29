@@ -1,4 +1,0 @@
-64.0500,145.3000,svetlaya
-64.1167,145.3000,protochnaya|protochnaja|проточная
-64.2500,145.1667,kharayuryakh|kharajurjakh|хараюрях
-64.1807,145.1268,artyk|артык

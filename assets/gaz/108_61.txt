@@ -1,7 +1,0 @@
-61.7000,108.1000,yuktukon
-61.2802,108.0153,yerbogachen|erg|erbogachen|jerbogatsjen|yerbogachën|ербогачен
-61.3833,108.0167,silgisha|silyisha|сильгиша
-61.9833,108.1833,bugorkan|бугоркан
-61.6167,108.1000,ayan|ajan|аян
-61.1333,108.0333,ankula|анкула
-61.9903,108.1808,khamakar|хамакар

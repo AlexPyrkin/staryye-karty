@@ -1,6 +1,0 @@
-49.9450,107.9777,zhindo|zhinda|zhindinskoye|zhindopervoye|zjindo|жиндо
-49.9447,107.8061,usturluk|usturlukskaya|устьурлук
-49.9787,107.9783,goldanovka|голдановка
-49.9884,107.5759,anagustayka|anagustaj|anagustajka|anagustay|angugut|poselokangusutayevskiy|posëlokangusutayevskiy|анагустай|анагустайка
-49.9925,107.4694,tsagancheltuy|cagancheltuj|цаганчелтуй
-49.9922,107.6730,altay|altaj|алтай

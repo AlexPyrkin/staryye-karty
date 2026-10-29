@@ -1,8 +1,0 @@
-61.9167,151.0500,valet
-61.8655,151.5058,ustnetchen|ustnemchen|ustnerega|ustnetchehn|устьнетчэн
-61.9167,151.9167,nerega|нерега
-61.1000,151.8333,kheta|хета
-61.9500,151.9000,grazhdanka|гражданка
-61.3949,151.7734,dneprovskiy|dneprovskij|днепровский
-61.8013,151.1080,bakhapcha|бахапча
-61.1932,151.9318,povorotnyy|povorotnyj|поворотный

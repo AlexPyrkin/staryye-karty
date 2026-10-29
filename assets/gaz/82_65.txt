@@ -1,3 +1,0 @@
-65.8000,82.3000,parusovyy|parusovyj|парусовый
-65.7038,82.4550,krasnoselkup|kkq|krasnoselkupsk|красноселькуп
-65.9667,82.2500,dolgiy|dolgij|долгий

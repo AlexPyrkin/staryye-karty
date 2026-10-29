@@ -1,9 +1,0 @@
-52.7903,131.7179,stoyba|ministerskaya|stojba|stoybaministerskaya|stoybanizhnyayaministerskaya|стойба
-52.5737,131.1231,selemdzhinsk|selemdzhinskoe|selemdzhinskoye|selemdzjinsk|selemjinskoye|setemjinskoye|селемджинск
-52.5000,131.0167,sardyk|yakutskaya|сардык
-52.8000,131.6000,novayastoyba|novajastojba|новаястойба
-52.9833,131.6000,kollektivnyytrud|kollektivnyjtrud|коллективныйтруд
-52.8845,131.8726,inkan|inkon|инкан
-52.6183,131.4118,chalba|cholba|чалба
-52.3833,131.3833,bezymyannyy|bezymjannyj|безымянный
-52.6025,131.2954,zaimkalazareva|lazareva|лазарева|заимкалазарева

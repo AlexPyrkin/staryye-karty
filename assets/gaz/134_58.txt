@@ -1,6 +1,0 @@
-58.9000,134.3667,talaya
-58.2388,134.8888,selenda|селенда
-58.8500,134.3000,kumakha|bubyakina|kumakhinskaya|кумаха
-58.6500,134.2833,berezinskaya|berezinskaja|березинская
-58.9000,134.7000,akyya|akheya|akyja|krasnayazvezda|акыя
-58.7744,134.2539,aim|аим

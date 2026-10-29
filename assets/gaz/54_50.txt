@@ -1,9 +1,0 @@
-50.9333,54.9833,yebulda
-50.6979,54.6205,troitsk|troick|troitskiy|троицк
-50.7333,54.4667,shibynda|chibenda|шибында
-50.8333,54.5667,romanovskiy|romanovskij|романовский
-50.9200,54.5418,pokrovka|pokrovskoye|покровка
-50.9967,54.2217,novoiletsk|novoileck|novoilelsk|novoiletskoye|novolietskaya|новоилецк
-50.6724,54.6971,ivanovka|ivanovskiy|ивановка
-50.5749,54.5371,donskoy|donskoj|донской
-50.9771,54.4680,burannoye|burannoe|burannoje|burenni|буранное

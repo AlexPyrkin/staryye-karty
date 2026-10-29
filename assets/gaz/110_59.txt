@@ -1,8 +1,0 @@
-59.4405,110.9495,talakhary|талахары
-59.3833,110.7833,opornyy|opornyj|опорный
-59.5333,110.1667,lyuksini|khyuksini|ljuksini|люксини
-59.0833,110.4667,klyuchi|kljuchi|ключи
-59.7000,110.8833,kipriyanovo|kiprijanovo|kipriyanova|киприяново
-59.2333,110.5667,dayany|dajany|даяны
-59.7167,110.8833,bogatyr|богатырь
-59.7968,110.8835,talakan|tlk|талакан

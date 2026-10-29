@@ -1,4 +1,0 @@
-64.0539,176.1608,velikaya
-64.3000,176.4167,sobolkovo|sobolkovamudhut|zemlyankasobolkova|собольково
-64.2667,176.4000,sitko|sitkomudhut|zemlyankasitko|ситько
-64.2525,176.4149,bisekera|zemlyankabisekera|zemlyankabissekera|бисекера

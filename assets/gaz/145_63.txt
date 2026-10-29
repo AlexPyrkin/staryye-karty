@@ -1,7 +1,0 @@
-63.9667,145.4167,spokoynaya|spokojnaja|спокойная
-63.7667,145.8000,orlinaya|orlinaja|орлиная
-63.0500,145.9500,kyurbelyakh
-63.8378,145.6027,delyankir|deljankir|deljankirskij|delyankirskiy|delyankor|delyankyr|делянкир|делянкирский
-63.8395,145.6101,delyankir|deljankir|delyankor|delyankyr|делянкир
-63.1667,145.6167,ayanyuryakh|ajanjurjakh|ayanyaryakh|аянюрях
-63.8377,145.6009,dorozhnyy|dorozhnyj|дорожный

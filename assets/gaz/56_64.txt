@@ -1,3 +1,0 @@
-64.9678,56.6349,kamenka|каменка
-64.7000,56.0500,dozmerskiy|dozmerskij|дозмерский
-64.8994,56.4186,chikshino|tsjiksjino|чикшино

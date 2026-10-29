@@ -1,7 +1,0 @@
-67.5936,78.9738,yarayka
-67.4715,78.7162,tazovsky|khalmersede|tazovskij|tazovskiy|tazovskoye|тазовский
-67.6667,78.7167,shchuchye|shhuche|щучье
-67.8000,78.4167,sarevnado|rybnyypromyselsareonado|sareonado|саревнадо
-67.0000,78.2500,samburg|самбург
-67.3500,78.8333,krasnyysever|krasnyjsever|красныйсевер
-67.3833,78.9833,gazsale|газсале

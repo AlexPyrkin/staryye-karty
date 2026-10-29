@@ -1,7 +1,0 @@
-45.0373,147.7570,goryachiyeklyuchi|gorjachiekljuchi|горячиеключи
-45.0721,147.5375,zolotoy|furebetsu|hurebetu
-45.2079,147.8464,rybaki|arimoe|arimoi|arimoye|рыбаки
-45.0870,147.6929,pioner|kuybyshevo|rubetsu|rubetu|пионер
-45.0080,147.5220,osenniy|oito|osennij|осенний
-45.2269,147.8777,kurilsk|shiana|shana|syana|shanacun|курильск|紗那村
-45.2550,147.8865,kitovyy|kitovyj|nayoka|китовый

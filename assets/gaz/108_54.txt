@@ -1,4 +1,0 @@
-54.0319,108.2557,pokoyniki|pokojniki|pokovniki|uluspokoyniki|покойники
-54.9000,108.9000,muzhinay|muzhinaj|мужинай
-54.7833,108.8667,kosa|коса
-54.9500,108.9500,burgunda|zimovkaburgunda|бургунда

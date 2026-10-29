@@ -1,5 +1,0 @@
-67.5833,49.0833,vyucheyskiy|vyuchejskij|vyutsjejskij|выучейский
-67.6167,49.1333,rodino|rodinnos|родино
-67.4333,49.5000,popovka|indigapopovy|popova|popovo|поповка
-67.3833,49.6333,popova|mariyapopova|попова
-67.6566,49.0348,indiga|индига

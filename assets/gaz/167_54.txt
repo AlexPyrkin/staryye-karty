@@ -1,4 +1,0 @@
-54.7911,167.5776,preobrazhenskoye|preobrajenskoe|preobrazenskivillage|preobrazhenskoe|preobrazjenskoje|преображенское
-54.8500,167.4167,peschanka|pesnanka|песчанка
-54.5839,167.9622,glinka|глинка
-54.6852,167.7764,korabelny

@@ -1,6 +1,0 @@
-68.3572,38.3738,varzino|varbina|varsino|varzina|варзино
-68.3667,38.6500,varenka
-68.3333,38.4000,nerpichya|nerpichja|нерпичья
-68.4333,38.2500,krugloye|krogloye|krugloe|круглое
-68.3000,38.5333,ivanovka|ивановка
-68.3368,38.4085,drozdovka|дроздовка

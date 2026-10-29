@@ -1,7 +1,0 @@
-61.7000,63.4000,yemankurt|yemangort|yemyngort
-61.3614,63.5842,sovetskiy|ovs|sovetskij|советский
-61.3123,63.3307,yugorsk|jugorsk|komsomolskij|komsomolskiy|комсомольский|югорск
-61.9247,63.0231,agirish|akrysh|агириш
-61.4003,63.8553,nyurikh|njurikh|нюрих
-61.2731,63.1542,komsomolskiynomerdva|komsomolskijnomerdva|комсомольскийномердва
-61.1747,63.7661,shoushma|шоушма

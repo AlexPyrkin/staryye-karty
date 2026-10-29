@@ -1,8 +1,0 @@
-67.1333,61.8167,syavta|siavta|sjavta|syarta|сявта
-67.0667,61.7000,nyadver|njadver|nyadvor|нядвер
-67.0167,61.2000,nertseta|nerceta|нерцета
-67.0500,61.4000,mikityuvom|mikitjuvom|микитювом
-67.9000,61.2833,lyayuvom|ljajuvom|ляювом
-67.0833,61.4167,lekorvan|palnikyuvom|лекорвань
-67.3500,61.8000,kerkasorvacheva|керкасорвачева
-67.1000,61.5833,ilyavan|iljavan|ильявань

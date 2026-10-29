@@ -1,5 +1,0 @@
-52.4333,96.7167,tozhu
-52.4686,96.1203,toorakhem|doorakhem|dorakhem|dorokem|saldam|torakhem|салдам|тоорахем
-52.5792,96.0192,iy|ij|ий
-52.8333,96.4000,bulambuk|bulanbuk|буламбук|буланбук
-52.4542,96.2331,adyrkezhig|adyrkezhik|адыркежиг|адыркежик

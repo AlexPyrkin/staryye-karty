@@ -1,5 +1,0 @@
-69.0273,36.4288,zakhrebetnoye|stanovishchezakhrebetnoye|zakhrebetnoe|zakhrebetnoje|zakhrebetnye|захребетное
-69.0115,36.5646,tryashchino|rybachye|treshchino
-69.1000,36.2000,shelpino|stanovishcheshelpino|шельпино
-69.0780,36.2929,porchnikha|porchnikhe|порчниха
-69.1162,36.0642,dalniyezelentsy|dalniezelency|dalnijezelentsy|дальниезеленцы

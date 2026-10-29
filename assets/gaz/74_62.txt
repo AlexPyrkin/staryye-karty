@@ -1,8 +1,0 @@
-62.0000,74.7333,yermakovaa
-62.7000,74.2667,vandykovam|vandykova
-62.4833,74.2667,teulinaa|teulinom
-62.3833,74.5667,sopochinasm|сопочинасм
-62.2000,74.4667,rynkovayev|rynkovaev|рынковаев
-62.4500,74.2333,lettayaunpugol|lettajaunpugol|lettyyaunpugol|леттаяунпугол
-62.5333,74.5333,ingputayaunpugol|ingputajaunpugol|ingyagunpugol|ингпутаяунпугол
-62.2654,74.4791,kogalym|kgp|kagalym|kogalim|kogalom|kogalymas|kogalîm|kogalõm|kogalım|kogałym|koqalim|koqalım|kejialeimu|kogarimu|kwgalym|kwghalym|кагалым|когалим|когалым|كوغاليم|کوگالیم|コガリム|科加雷姆

@@ -1,8 +1,0 @@
-67.0000,30.3000,yulyakurtti|alakurtti|ylikartti|ylikurtti|yulikurtti|алакуртти
-67.4346,30.4800,slyuda|leivoiva|leyvoyva|poselokslyudorazrabotki|poselokslyudorazrabotok|posëlokslyudorazrabotki|posëlokslyudorazrabotok|sljuda|slyudorazrabotki|slyudorazrabotok|слюда
-67.4587,30.0203,poropirtti|поропиртти
-67.1167,30.0667,niskasuvanta|нискасуванта
-67.5663,30.4777,kovdor|kaudor|kouteri|koutero|kovdoras|kowdor|kefuduoer|kwfdwr|kwwdwr|каўдор|ковдор|كوفدور|کوودور|科夫多爾
-67.7833,30.4667,girvas|hirvas|гирвас
-67.4822,30.8354,kuropta|kwrwptarwsyh|куропта|կուրոպտա|کوروپتاروسیه
-67.4971,30.7110,lejpi

@@ -1,9 +1,0 @@
-53.6000,108.9000,yelizikha
-53.6737,108.9888,monakhovo|монахово
-53.2657,108.7326,maksimikha|максимиха
-53.6167,108.9167,kulinino|kulikov|kulinnoe|kulinnoje|kulinoye|кулинино|кулинное
-53.3167,108.6333,krestovo|tolstomysovskaya|крестово
-53.1663,108.4275,katkovo|катково
-53.5833,108.9333,altan|алтан
-53.0712,108.3098,bezymyanka|bezymjanka|безымянка
-53.2882,108.8078,maksimikha|максимиха

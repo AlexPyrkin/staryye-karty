@@ -1,8 +1,0 @@
-68.6500,30.9667,vettanin
-68.0719,30.3721,ustyegirvas|girvas|hirvasjoensuu
-68.7427,30.4826,songelskiy|pogostsangelskiy|sangelskiy|songelskij|songelski|сонгельский
-68.3532,30.7227,nivankyul|nivankyulya|nivankjul|nivankylae|nivankylä|ниванкюль
-68.7000,30.7000,lotta|lutto|лотта
-68.1371,30.1945,lotmozero|лотмозеро
-68.3333,30.5000,katskimozero|kachkimozero|kachniliozero|kaskimajaervi|kaskimajärvi|катскимозеро
-68.7334,30.9042,turbazazelenyjbereg

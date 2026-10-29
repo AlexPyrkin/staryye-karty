@@ -1,6 +1,0 @@
-70.4097,82.6692,polikarpovsk|polikarpovskoye|polikary|поликарповск
-70.0667,82.2000,pelyatka|faktoriyapelyatka|peljatka|пелятка
-70.1642,82.3414,nosok|носок
-70.4000,82.6333,lukinskoye|lukinskoe|лукинское
-70.3833,82.3833,lama|лама
-70.7000,82.3333,deryabino|derjabino|deryabina|faktoriyaderyabino|lakurye|дерябино

@@ -1,9 +1,0 @@
-50.0667,94.9667,terekhol
-50.3333,94.8000,soitinsume|sortiinsuma|соитинсуме
-50.5333,94.4000,sharasur|sjarasur|шарасур
-50.7333,94.4333,kholoozhu|kholozhu|kholyezhu|kholoozju|хольоожу
-50.2000,94.7500,chagay|chagaj|чагай
-50.6258,94.7916,bertdag|perttag|terektigkhem|бертдаг
-50.5727,94.9741,beldiraryg|beldigary|белдигары|бельдирарыг
-50.6667,94.1667,alyk|alag|alik|алык
-50.5138,94.6181,akerik|akehrik|акэрик

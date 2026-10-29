@@ -1,9 +1,0 @@
-61.1167,77.1000,soromina|соромина
-61.0667,77.6167,pyliny|bolshoyepylino|pylina|pylino|пылино|пылины
-61.9333,77.1667,mavrep|мавреп
-61.1500,77.2833,malayapylina|malajapylina|malypylino|малаяпылина
-61.1333,77.9333,kirilkina|kirilkiny|кирилкина
-61.1667,77.4000,bolshoyepylino|bolshayapylina|bolshayapylino|bolshoepylino|большоепылино
-61.1029,77.1668,bolshetarkhovo|bolshayatarkhova|bolshayatarkhovy|bolshoytarkhovo|bolshoyetarkhovo|bolchoetarkhovo|bolsjetarkhovo|tarkhovy|yurtytarkhovy|большетархово
-61.2591,77.0467,belozërnyy|belozernyy|belozjornyj|белозерный
-61.3871,77.1707,magistralnyy|magistralnyj|магистральный

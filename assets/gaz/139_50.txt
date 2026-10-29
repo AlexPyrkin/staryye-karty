@@ -1,5 +1,0 @@
-50.0989,139.1234,vysokogornyy|muli|vysokogornyj|высокогорный
-50.1903,139.0319,otkosnaya|otkosnaja|откосная
-50.1364,139.5702,kenada|кенада
-50.0799,139.3422,datta|датта
-50.0891,139.7200,dzhigdasi|джигдаси

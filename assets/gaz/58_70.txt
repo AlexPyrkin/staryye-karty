@@ -1,4 +1,0 @@
-70.3939,58.7892,vaygach
-70.2833,58.6667,stanovishchemorzverprom|stanovishhemorzverprom|stoybishchemorzverprom|становищеморзверпром
-70.2161,58.5265,gubadyrovataya|dyrovatyy|gubadyrovataja|stanovishchedyrovatoye|stoybishchedyrovatoya|губадыроватая
-70.2788,58.6569,gubadolgaya|dolgayaguba|gubadolgaja|stanovishchedolgayaguba|губадолгая

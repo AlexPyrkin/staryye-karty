@@ -1,9 +1,0 @@
-50.4833,131.3000,usttyrma|tirma|tyrma|usttyrminskaya|устьтырма
-50.6333,131.7167,talaya|polovinka|yakutskoyezimovye|zimovyetalaya|половинка
-50.4363,131.0298,sektagli|siktagli|сектагли
-50.7529,131.8555,polovinka|zimovkapolovinka|половинка
-50.5833,131.5833,melgin|meligin|zimovkamelgin|мельгин
-50.0333,131.9000,kuravinka|куравинка
-50.5776,131.5349,chelpachi|tsjelpatsji|челпачи
-50.0150,131.9910,alanap|alakaya|alanaj|karavanova|аланай|аланап
-50.6621,131.2909,pervyysularinskiy|pervyjsularinskij|первыйсуларинский

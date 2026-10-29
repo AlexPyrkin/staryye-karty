@@ -1,7 +1,0 @@
-53.8887,129.6189,urkan|alekseyevskiy|уркан
-53.9104,129.9237,sovetskiy|marinskiy|sovetskij|tsarevomariinskiy|советский
-53.9500,129.7500,somnitelnyy|somnitelny|somnitelnyj|сомнительный
-53.9588,129.1469,ogoron|огорон
-53.9278,129.7821,dzheskogon|dzheskogan|dzjeskogan|джескоган|джескогон
-53.9500,129.0500,berëzovyy|berezovyy|berjozovyj|березовый
-53.5491,129.4427,tungala|тунгала

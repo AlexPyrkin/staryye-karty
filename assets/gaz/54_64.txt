@@ -1,7 +1,0 @@
-64.9500,54.4333,tarkoita|pestraya
-64.1000,54.6833,sedzvozh|sedvozh|sedvozj|седзьвож|седьвож
-64.8757,54.1159,sëdmes|sedmes|sjodmes|седмес
-64.9500,54.9333,polovinnaya|polovinnaja|половинная
-64.6704,54.6392,nyres|нырес
-64.1816,54.8326,malayapera|malajapera|малаяпера
-64.2420,54.9900,lemyu|lemju|лемью

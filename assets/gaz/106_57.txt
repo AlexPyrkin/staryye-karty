@@ -1,9 +1,0 @@
-57.0068,106.6314,novosëlova|novoselova|novosjolova|новоселова
-57.1716,106.8993,nazarovo|назарово
-57.0333,106.7000,mironova|миронова
-57.0500,106.2833,mayëvka|mayevka|majovka|маевка
-57.1500,106.9000,konetslug|koneclug|конецлуг
-57.0167,106.3833,kokuy|kokuj|kokuyskiymys|кокуй
-57.2333,106.9333,kasatkina|касаткина
-57.0167,106.7667,ipatova|ипатова
-57.9841,106.7992,yaraktinskoefield

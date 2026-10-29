@@ -1,5 +1,0 @@
-65.6905,40.3665,verkhnyayazolotitsa
-65.7821,40.4189,tova|това
-65.6914,40.1823,nizhnyayazolotitsa|nizhnjajazolotica|zolotitsa|нижняязолотица
-65.0825,40.0982,kuya|kuja|куя
-65.9602,40.6975,intsy|incy|intzivillage|инцы

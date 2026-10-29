@@ -1,9 +1,0 @@
-53.9350,100.4203,tagna|тагна
-53.9500,100.4500,sokhatka|сохатка
-53.9000,100.3833,nyanka|njanka|нянька
-53.9846,100.9929,nikiforovskiy|nikiforovskij|никифоровский
-53.9167,100.4500,gorodok|городок
-53.5756,100.5433,belayazima|belajazima|beloziminsk|khoranty|белаязима
-53.8237,100.2689,angaul|ангаул
-53.4690,100.4372,srednyayazima|srednjajazima|средняязима
-53.6184,100.3522,bushkanay|bushkanaj|бушканай

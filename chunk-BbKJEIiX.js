@@ -1,1 +1,0 @@
-import{n as J,r as at}from"./chunk-Ckosrp_D.js";export{at as createGesture};

@@ -1,5 +1,0 @@
-58.5333,120.5833,usunchemis
-58.6167,120.6333,tukulapitërde|tukulapiterde
-58.3398,120.7439,kudukta|кудукта
-58.5381,120.5556,karbada|карбада
-58.9353,120.3880,dalkit|далкит

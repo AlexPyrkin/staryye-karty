@@ -1,4 +1,0 @@
-58.0712,123.7195,suontit|суонтит
-58.0609,123.6457,pustynnyy|pustynnyj|пустынный
-58.1167,123.1167,maksimova|zimovyemaksimova|максимова
-58.9811,123.0419,krutoy|krutoj|крутой

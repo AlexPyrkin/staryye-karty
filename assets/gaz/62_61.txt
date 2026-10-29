@@ -1,9 +1,0 @@
-61.5333,62.0500,ulangsospaul|улангсоспауль
-61.5066,62.2790,timkapaul|yurtatimofeypaul|yurtytimkapaul|тимкапауль
-61.1612,62.6792,tayëzhnyy|tayezhnyy|taezhnyj|tajezjnyj|таежный
-61.1947,62.8689,pionerskiy|pionerskij|пионерский
-61.6000,62.5000,nalmipaul|yurtanalmipaul|налмипауль
-61.2272,62.8000,alyabyevskiy|aljabevskij|aljabjevskij|алябьевский
-61.1960,62.8060,malinovskiy|malinovskij|malinowski|malinuofusiji|malynwwayskay|малиновский|малиновський|մալինովսկիյ|مالینووایسکای|马利诺夫斯基
-61.1874,62.7786,yubileynyy
-61.0672,62.2986,atymya|atymja|атымъя|атымья

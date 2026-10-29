@@ -1,3 +1,0 @@
-55.0500,128.8333,lidinskiy|lidinskij|лидинский
-55.0833,128.9167,alfonsovskiy|alfonsovskij|альфонсовский
-55.3167,128.2833,abramovo|abramova|абрамово

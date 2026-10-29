@@ -1,4 +1,0 @@
-63.1333,148.1333,topkiy
-63.0333,148.0833,skrytyy|skrotoy|skryty|skrytyj|skrötöy|скрытый
-63.0754,148.0436,shirokiy|shirokij|sjirokij|широкий
-63.1716,148.5894,sovnarkhoznyy|sovnarkhoznyj|совнархозный

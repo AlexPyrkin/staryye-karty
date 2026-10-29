@@ -1,9 +1,0 @@
-66.0306,143.2550,tyllakh
-66.4365,143.2554,suontit|суонтит
-66.2505,143.3231,sobolokh|соболох
-66.5833,143.0833,oyukhordakh|ojukhordakh|оюхордах
-66.5333,143.0667,magankharakh|маганхарах
-66.3454,143.3579,kumakhsygy|kumakhsysy|кумахсыгы|кумахсысы
-66.4554,143.2229,khonuu|khanu|khonu|mqj|moma|mota|хону|хонуу
-66.4876,143.0467,buorsysy|uryetorye|yryuieterde|буорсысы
-66.1333,143.2667,aldzhamyt|aldzjamyt|sirallammyt|альджамыт

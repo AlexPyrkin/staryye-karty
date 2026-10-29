@@ -1,8 +1,0 @@
-64.0197,36.0118,virandozero|virantajaervi|virantajärvi|вирандозеро
-64.0683,36.1761,ruyga|rujga|руйга
-64.8106,36.5753,pushlakhta|pushlokhta|pusjlakhta|пушлахта
-64.2009,36.6433,monastyrskayapristan|monastyrskajapristan|монастырскаяпристань
-64.9515,36.8333,letnyayazolotitsa|letnjajazolotica|letnjajazolotitsa|letnyayazolotina|летняязолотица
-64.2338,36.6070,abakumikha|абакумиха
-64.9208,36.4401,orlovskiy|orlovskij|орловский
-64.7161,36.5604,chesmenskiy|chesmenskij|чесменский

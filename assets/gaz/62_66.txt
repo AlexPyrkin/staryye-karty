@@ -1,7 +1,0 @@
-66.8333,62.9667,yevsyavan|evsyavan
-66.5213,62.0113,yarpiyag|jarpijag|yarpiyaga|yarpiyak|yarpiyakh|ярпияг
-66.6667,62.5833,sivomaskinskiy|sivayamaska|sivomaskinskij|сивомаскинский
-66.9000,62.9000,severnyy|severnyj|северный
-66.5667,62.2500,sarmayu|sarmaju|сармаю
-66.7333,62.7833,sangorodok|сангородок
-66.9667,62.8833,oshvor|oshchver|oshver|ошвор

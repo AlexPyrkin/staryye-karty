@@ -1,8 +1,0 @@
-69.2963,34.2591,zarubikha|зарубиха
-69.3183,34.3358,vostochnyykildin|kildin|kildino|kildinskoye|stanovishchekildinskoye|staryykildin|vostochnyjkildin|vostotsjnyjkildin|восточныйкильдин
-69.2999,34.0680,ruchi|ручьи
-69.2364,34.6810,maloolenye|malioleni|maloolene|maloolenje|maloyeolenye|malyyeolenye|малооленье
-69.2000,34.9000,bolshayashavkovka|bolshajashavkovka|большаяшавковка
-69.3517,34.0286,verkhniykildin|verkhnijkildin|верхнийкильдин
-69.3377,34.0098,zapadnyjkildin
-69.0197,34.9886,sadkamnejerivejv

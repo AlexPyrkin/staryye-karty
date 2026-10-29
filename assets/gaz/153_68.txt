@@ -1,8 +1,0 @@
-68.7000,153.7333,venkyuyel
-68.5000,153.0000,orlovo|орлово
-68.6833,153.8667,laydy|laida|lajdy|layda|zimovyelayda|лайды
-68.6333,153.9667,kyrbana|kyrbany
-68.7468,153.7667,kiyengkyuyel|kengkjuel|kiengkjuel|kiengkyuyel|кенгкюель|киенгкюель
-68.2000,153.3333,etsostar|ehtsostar|этсостар
-68.2667,153.7167,balygysuokh|балыгысуох
-68.4443,153.3785,argakhtakh|orlovo|yurtaargakhtakh|zimovyeargakhtakh|аргахтах

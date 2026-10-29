@@ -1,8 +1,0 @@
-65.0167,50.2833,yamgozerskaya
-65.3000,50.0667,valsovskaya|volsovskaya
-65.9000,50.8333,senkina|сенькина
-65.0667,50.8000,savinykh|novomylskaya|savino|saviny|савино|савиных
-65.1346,50.6790,savino|савино
-65.5596,50.6279,nomburg|nombur|nonburg|номбург|нонбург
-65.4230,50.8783,myla|мыла
-65.3760,50.5769,fateyevskaya|fateevskaja|фатеевская

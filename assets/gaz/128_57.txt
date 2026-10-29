@@ -1,5 +1,0 @@
-57.7676,128.0371,malayatarakanda|maltarakanda|malajatarakanda|svetlyy|малтараканда|малаятараканда
-57.7030,128.2194,spokoynyy|spokojnyj|spokonyy|спокойный
-57.7694,128.1622,rybnyy
-57.6713,128.3374,mayskiy|majskij|майский
-57.8128,128.1544,olenevod|kobchik|kopchak|оленевод

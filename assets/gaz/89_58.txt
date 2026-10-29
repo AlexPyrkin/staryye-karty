@@ -1,5 +1,0 @@
-58.3581,89.0061,sukhanovo|sukhanova|sukhanovskaya|суханово
-58.4550,89.4650,losinoborskoye|losinoborsk|losinoborskaja|losinoborskaya|losinoborskiy|losinoborskoe|лосиноборская|лосиноборское
-58.2628,89.2619,falileyevskaya|falileevskaja|фалилеевская
-58.2000,89.3667,berëzovaya|berezovaya|berjozovaja|березовая
-58.5667,89.3167,balakhnin|vyselokbalakhnin|балахнин

@@ -1,4 +1,0 @@
-61.6000,156.9000,viliga
-61.5667,156.6833,pëstrayadresva|pestrayadresva|pjostrajadresva|пестраядресва
-61.8905,156.1368,merenga|меренга
-61.5853,156.5679,odinnadtsatyykilometr|odinnadcatyjkilometr|одиннадцатыйкилометр

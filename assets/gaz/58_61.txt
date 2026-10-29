@@ -1,6 +1,0 @@
-61.0833,58.8000,ustdolganovka
-61.3426,58.1590,talovo|talova|талово
-61.4242,58.0088,susay|susaj|сусай
-61.1656,58.7549,lypya|lypja|лыпья
-61.2476,58.3117,diy|dij|дий
-61.6526,58.4497,chagino|chigino|чагино

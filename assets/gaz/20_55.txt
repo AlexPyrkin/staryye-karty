@@ -1,5 +1,0 @@
-55.3086,20.9965,nida|neda|neringa|nidden|nėda|нида|ніда|نیدالتھووینیا|ニダ|尼達
-55.1546,20.8515,rybachiy|rasyte|rasytė|rossiten|rossitten|rybachij|rybacij|rybatsjij|rybačij|рыбачий
-55.2291,20.9183,morskoye|morskoe|morskoje|morskoy|pilkopa|pillkoppen|морское
-55.0128,20.6173,lesnoy|lesnoe|lesnoi|lesnoj|lesnoje|lesnoye|lisnij|sarkau|sarkuva|zarkau|resunoi|ļesnoje|šarkuva|заркау|лесное|лесной|лісний|レスノイ
-55.1667,20.7833,izgary|изгары

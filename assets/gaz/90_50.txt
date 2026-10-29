@@ -1,6 +1,0 @@
-50.8900,90.3240,shuy|shuj|sjuj|шуй
-50.3807,90.4374,muguraksy|мугураксы
-50.3000,90.6500,khurentayga|khurentajga|хурентайга
-50.9333,90.4000,ergibarlyk|ehrgibarlyk|yygylak|эргибарлык
-50.7333,90.4667,chingekat|чингекат
-50.9167,90.1667,baytal|bajtal|chonterek|байтал|чонтерек

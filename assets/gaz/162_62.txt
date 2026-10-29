@@ -1,3 +1,0 @@
-62.6532,162.3817,verkhniyparen|verkhparen|verkhnijparen|верхпарень|верхнийпарень
-62.5000,162.9333,kovrizhka|коврижка
-62.4333,162.0333,kolymak|колымак

@@ -1,5 +1,0 @@
-67.7347,40.5253,lumbovka|lumbovski|lumbovskiypogost|lumbushi|лумбовка
-67.5833,40.9667,gorodetskiy|gorodetskij|городетский
-67.7260,40.8912,gorodetskayasirena|gorodeckajasirena|gorodetskajasirena|городетскаясирена|городецкаясирена
-67.6930,40.9742,mayakgorodetskiy|gorodetskiymayak|gorodetzki|majakgorodetskij|маякгородетский
-67.0144,40.2555,ryabagaponoi

@@ -1,7 +1,0 @@
-64.9333,66.1500,yegommalymgort
-64.1511,66.4899,votmankurt
-64.2333,66.0375,vanzevat|vanzevatskiye|vanzevatskiyeyurty|venzevatskiye|vonzevatskiye|ванзеват
-64.8333,66.9667,poshtygort|poshgort|поштыгорт
-64.4000,66.3000,lobatkurt|лобаткурт
-64.0667,66.4000,laksynkurt|yurtylaksynkurt|лаксынкурт
-64.9667,66.2500,fedulki|федулки

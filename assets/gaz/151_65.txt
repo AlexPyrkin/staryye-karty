@@ -1,7 +1,0 @@
-65.4000,151.0833,yunkyur
-65.1000,151.2500,tayshina|yurtatayshina
-65.5000,151.4000,sytygandar|sytygantar
-65.3167,151.1333,sholugina|шолугина
-65.3667,151.0333,nelemnoye|nelemnoe|nelemnoje|нелемное
-65.5333,151.0333,korboskoy|korboskoj|zimovyekorboskoy|корбоской
-65.2167,151.5500,buryuk|burjuk|бурюк

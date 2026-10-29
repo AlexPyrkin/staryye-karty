@@ -1,5 +1,0 @@
-53.1333,159.0667,ustkotelnoye
-53.2544,159.5689,ostrovnoye|ostrovnaya|ostrovnoe|staryyostrogo|островное
-53.1426,159.1983,nalychëvo|nalychevo|nalacheva|nalychjovo|nalytsjevo|налычево
-53.5000,159.9000,bolshoykalygir|bolshayakalygir|bolshojkalygir|kalyger|kalygir|koligernaya|kolyger|большойкалыгирь
-53.2167,159.9500,baza|база

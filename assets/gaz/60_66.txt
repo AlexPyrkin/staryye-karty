@@ -1,9 +1,0 @@
-66.6333,60.5833,ulvozh
-66.5333,60.5500,rogovaya|lekrogovaya|lekrogovey|lëkrogovey|rogovaja|роговая
-66.4727,60.7413,petrun|petroun|петрунь
-66.2333,60.1833,otvas|otavas|отвась
-66.0833,60.1333,nechavom|нечавом
-66.3333,60.0667,larki|larka|lyundishor|ларки
-66.3333,60.0000,kochmes|kochmez|kotsjmes|кочмес
-66.1667,60.8000,kochmes|kotsjmes|кочмес
-66.0317,60.1659,inta|ina|int|intà|intá|anta|aynta|yinta|інта|инта|интабалһсн|إنتا|اینتا|因塔|인타

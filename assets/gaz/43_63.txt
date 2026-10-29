@@ -1,8 +1,0 @@
-63.5833,43.5333,tugolukovskiy|tugolskiy|tulgolskiypogost
-63.8241,43.6591,syloga|сылога
-63.5500,43.6667,shetogorka|шетогорка
-63.8667,43.2333,shayskoye|shajskoe|шайское
-63.8333,43.7000,pukhtomskaya|pukhtomskaja|пухтомская
-63.4167,43.5333,nyrza|vyseloknyrza|нырза
-63.4220,43.3502,kosvey|kosvej|косвей
-63.9833,43.6000,berëzovitsa|berezovitsa|berjozovica|berjozovitsa|березовица

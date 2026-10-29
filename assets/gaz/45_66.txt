@@ -1,7 +1,0 @@
-66.6403,45.8882,vizhas|vizjas|вижас
-66.5943,45.2888,tolstyynos|tolstynos|vyseloktolstyynos
-66.5199,45.7980,sukhanikha|vyseloksukhaninskiy|суханиха
-66.4794,45.8604,proryvy|vyselokproryvskiy|прорывы
-66.6500,45.8833,mikheyev|mikheev|vyselokmikheyev|михеев
-66.3071,45.8496,grishino|гришино
-66.4391,45.8908,arkhipovo|arkhapovo|arkhikovo|архипово

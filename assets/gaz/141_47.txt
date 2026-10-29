@@ -1,9 +1,0 @@
-47.5333,141.9667,susanino|hatsushi|shoshi
-47.5667,141.9667,sergeyevo|komisaki|moenrunaibo|sergeevo|сергеево
-47.4774,141.9652,novosibirskoye|baikovo|khotsukhasu|kurashi|kurasi|kuratsushinonaipo|novosibirskoe|novosibirskoje|новосибирское
-47.6484,141.9958,novosëlovo|novoselovo|novosjolovo|ofutekoro|ote|otte|ōte|новоселово
-47.5167,141.9667,mineralnoye|aushi|aushiniekannaibo|mineralnoe|mineralino|mineralinoye|минеральное
-47.3992,141.9891,krasnoyarskoye|krasnojarskoe|krasnojarskoje|tobutsu|tofutsu|tohutu|tōbutsu|tōfutsu|красноярское
-47.4495,141.9918,chekhov|noda|nodasamu|nodasan|nota|notasamu|notasan|tsjekhov|чехов
-47.5167,141.9833,bezymyanka|arakoi|bezymjanka|безымянка
-47.4500,141.9667,baykovo|baika|baikasabushi|bajkovo|байково

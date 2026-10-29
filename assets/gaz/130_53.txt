@@ -1,6 +1,0 @@
-53.8000,130.4833,ustbom|ustbay|znamenskiy
-53.8500,130.2000,pokrovskiy|pokrovskij|покровский
-53.8432,130.2939,malyutka|maljutka|малютка
-53.8665,130.0466,magan|маган
-53.8333,130.4333,annenskiy|annenskij|znamenskiy|анненский
-53.3505,130.0024,dugda|дугда

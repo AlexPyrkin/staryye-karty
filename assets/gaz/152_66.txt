@@ -1,6 +1,0 @@
-66.7165,152.4146,ryzhovo|rizhovo|ryzheva|ryzhevo|ryzhova|ryzjovo|рыжово
-66.5000,152.0000,komsochye|komsoche|komsochebaza|комсочье
-66.9167,152.7833,byrpayap|byrapayap|byrpajap|бырпаяп
-66.9667,152.4167,brat|braat|брат
-66.6333,152.4500,barybylikin|byrybylikin|byrybylikyn|byrybylykyn|барыбыликин
-66.8667,152.0333,alykyuyël|alykyuyel|alykel|alykjujol|ayankyuyel|ayankyuyël|алыкюель

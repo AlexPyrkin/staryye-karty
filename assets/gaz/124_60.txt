@@ -1,7 +1,0 @@
-60.6333,124.3333,yelovskiyzaton|elovskijzaton|jelovskijzaton|еловскийзатон
-60.6614,124.3507,yelovka|elovka|jelovka|stanitsayelovka|еловка
-60.5667,124.0333,storozhka|сторожка
-60.5845,124.0571,sanyyakhtakh|sangyyakhtakh|sanyjakhtakh|sanyyakhtat|саныяхтах
-60.6834,124.7346,malykan|malykaan|mamykan|малыкан
-60.5167,124.1000,davydova|zimovyedavydova|давыдова
-60.4324,124.2690,alekseyevka|alekseevka|aleksejevka|алексеевка
